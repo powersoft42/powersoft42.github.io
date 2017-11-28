@@ -1,1 +1,1 @@
-Sitemap: http://www.luna42.com/sitemap.xml.gz
+Sitemap: http://www.sat42.com/sitemap.xml.gz
