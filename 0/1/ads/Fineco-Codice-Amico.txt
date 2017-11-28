@@ -1,0 +1,5 @@
+function Banner_300x250()
+	...
+				B300x250[2] = '<a href="http://www.fineco.it/ac/ApriContoHome.html?cp=AA8832526" target="_blank" rel="nofollow"><img src="/images/banners/fineco-codice-amico_1.jpg" width="300" height="250" border="0" alt="Fineco Codice Amico" title="Fineco Codice Amico"></a>';  // Fineco Codice Amico 1
+				B300x250[3] = '<a href="http://www.fineco.it/ac/ApriContoHome.html?cp=AA8653334" target="_blank" rel="nofollow"><img src="/images/banners/fineco-codice-amico_2.jpg" width="300" height="250" border="0" alt="Fineco Codice Amico" title="Fineco Codice Amico"></a>';  // Fineco Codice Amico 2
+				B300x250[4] = '<a href="http://www.fineco.it/ac/ApriContoHome.html?cp=AA4435624" target="_blank" rel="nofollow"><img src="/images/banners/fineco-codice-amico_3.jpg" width="300" height="250" border="0" alt="Fineco Codice Amico" title="Fineco Codice Amico"></a>';  // Fineco Codice Amico 3
