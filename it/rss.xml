@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Sat42.com - it</title>
+<link>http://www.sat42.com</link>
+<description>// Sat42.com :: Satellite We Love //</description>
+<language>it</language>
+<pubDate>Mon, 08 Jan 2018 18:42:49 +0000</pubDate>
+<image>
+	<url>http://www.sat42.com/0/1/logo_420x212.png</url>
+	<title>Sat42.com</title>
+	<link>http://www.sat42.com/it/</link>
+</image>
+<item>
+	<title>Video - L'Hubble Ultra Deep Field in 3D // Sicuro che non c'è proprio niente laggiù? // #astronomia #hubble #spazio #galassia #telescopio #scienza</title>
+	<link>http://www.sat42.com/it/2018/01/video-l-hubble-ultra-deep-field-in-3d.html</link>
+	<description>
+		<![CDATA[
+			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
+				<tr>
+					<td>
+						<table width="340" cellpadding="10" cellspacing="0" border="0">
+							<tr>
+								<td bgcolor="#F0F0F0">
+									<a href="http://www.sat42.com/it/2018/01/video-l-hubble-ultra-deep-field-in-3d.html"><img src="http://img.youtube.com/vi/oAVjF_7ensg/mqdefault.jpg" width="100%" alt="#astronomia #hubble #spazio #galassia #telescopio #scienza"></a>
+									<a href="http://www.sat42.com/it/2018/01/video-l-hubble-ultra-deep-field-in-3d.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Video - L'Hubble Ultra Deep Field in 3D</b></font></a><br>
+									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
+										Sicuro che non c'è proprio niente laggiù?<br>
+										<font color="#646464">#astronomia #hubble #spazio #galassia #telescopio #scienza :: 8 gennaio 2018</font>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		]]>
+	</description>
+	<pubDate>Mon, 08 Jan 2018 16:35:56 +0000</pubDate>
+	<guid>http://www.sat42.com/it/2018/01/video-l-hubble-ultra-deep-field-in-3d.html</guid>
+	<category>astronomia</category>
+	<category>hubble</category>
+	<category>spazio</category>
+	<category>galassia</category>
+	<category>telescopio</category>
+	<category>scienza</category>
+</item>
+</channel>
+</rss>
