@@ -1,4 +1,5 @@
 Gr = [
+"10 besten Espressomaschinen im Vergleich: März 2018|Top 10: die 10 Bestseller in Espressomaschinen, März 2018|2018/03/10-besten-espressomaschinen-im-vergleich-marz-2018|AZ_51qPZMTAWzL",
 "Die 10 Bestseller in Sportjacken für Damen: März 2018|Top 10: die besten in Sportjacken für Damen, März 2018|2018/03/die-10-bestseller-in-sportjacken-fur-damen-marz-2018|AZ_41dMyS3RGIL",
 "Die 10 besten Schals für herren, März 2018|10 besten Schals für herren im Vergleich: März 2018|2018/03/die-10-besten-schals-fur-herren-marz-2018|AZ_41-OQU6jsXL",
 "Top 10 besten Nachttischlampen: Februar 2018|10 beliebtesten Artikel in Nachttischlampen im Vergleich: Februar 2018|2018/02/top-10-besten-nachttischlampen-februar-2018|AZ_31budpIL9iL",
