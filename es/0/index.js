@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados Tablets del momento: marzo 2018|La lista con los 10 Tablets más valorados a marzo 2018|2018/03/los-10-mas-valorados-tablets-del-momento-marzo-2018|AZ_41ApfygIgaL",
 "Las 10 mejor valoradas en Bicicletas de Montaña: marzo 2018|Nuestra selección de las 10 Bicicletas de Montaña mejor valoradas|2018/03/las-10-mejor-valoradas-en-bicicletas-de-montana-marzo-2018|AZ_51A8Ykal-CL",
 "Top 10 Radiadores de Aceite a marzo 2018|Los 10 mejor valorados en Radiadores de Aceite: marzo 2018|2018/03/top-10-radiadores-de-aceite-a-marzo-2018|AZ_51o-AjSOnmL",
 "Top 10 Pianos Digitales a febrero 2018|Las 10 ofertas más valoradas de Pianos Digitales: febrero 2018|2018/02/top-10-pianos-digitales-a-febrero-2018|AZ_41tgKhlHnUL",
