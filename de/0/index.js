@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten in Gaming-PCs: März 2018|10 Bestseller in Gaming-PCs im Vergleich: März 2018|2018/03/top-10-besten-in-gaming-pcs-marz-2018|AZ_51KSPTYQ9lL",
 "10 besten in Wasserkocher zum Kaufen: März 2018|Top 10: die Bestseller in Wasserkocher, März 2018|2018/03/10-besten-in-wasserkocher-zum-kaufen-marz-2018|AZ_41WXogCV7iL",
 "10 besten Espressomaschinen im Vergleich: März 2018|Top 10: die 10 Bestseller in Espressomaschinen, März 2018|2018/03/10-besten-espressomaschinen-im-vergleich-marz-2018|AZ_51qPZMTAWzL",
 "Die 10 Bestseller in Sportjacken für Damen: März 2018|Top 10: die besten in Sportjacken für Damen, März 2018|2018/03/die-10-bestseller-in-sportjacken-fur-damen-marz-2018|AZ_41dMyS3RGIL",
