@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Ordenadores de Sobremesa para Gaming a marzo 2018|Nuestra selección de los 10 Ordenadores de Sobremesa para Gaming|2018/03/top-10-ordenadores-de-sobremesa-para-gaming-a-marzo-2018|AZ_51jcNwoGU1L",
 "Radiodespertadores, los 10 más valorados: marzo 2018|Radiodespertadores, los 10 mejor valorados del mercado: marzo 2018|2018/03/radiodespertadores-los-10-mas-valorados-marzo-2018|AZ_41jhmOqqhQL",
 "Los 10 Teclados mejor valorados: marzo 2018|Nuestra selección de los 10 Teclados mejor valorados a marzo 2018|2018/03/los-10-teclados-mejor-valorados-marzo-2018|AZ_516bBdetybL",
 "El top 10 de los Hornos Microondas: marzo 2018|Los 10 más valorados Hornos Microondas del momento: marzo 2018|2018/03/el-top-10-de-los-hornos-microondas-marzo-2018|AZ_41KgVTagwkL",
