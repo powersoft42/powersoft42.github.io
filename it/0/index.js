@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 Macchine Sottovuoto più apprezzate: la classifica di aprile 2018|La top 10 delle migliori Macchine Sottovuoto disponibili da subito|2018/04/le-10-macchine-sottovuoto-piu-apprezzate-la-classifica-di-aprile-2018|AZ_41P7jfHBRhL",
 "I 10 PC Desktop più quotati: marzo 2018|PC Desktop, i 10 al top ora sul mercato: marzo 2018|2018/03/i-10-pc-desktop-piu-quotati-marzo-2018|AZ_41AkMlqe3cL",
 "La top 10 dei migliori PC Fissi per Giocare valutati a marzo 2018|I 10 PC Fissi per Giocare più rinomati subito disponibili: marzo 2018|2018/03/la-top-10-dei-migliori-pc-fissi-per-giocare-valutati-a-marzo-2018|AZ_51Ed4J7yVyL",
 "I 10 migliori Portabici per Auto sul mercato: marzo 2018|I 10 Portabici per Auto più interessanti in assoluto: la classifica|2018/03/i-10-migliori-portabici-per-auto-sul-mercato-marzo-2018|AZ_41XBChyj65L",
