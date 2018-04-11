@@ -1,4 +1,5 @@
 Gr = [
+"Our pick of the best 10 Handheld GPS Units of April 2018|The best 10 Handheld GPS Units buyers guide of April 2018|2018/04/our-pick-of-the-best-10-handheld-gps-units-of-april-2018|AZ_41YlxjXiLTL",
 "The best 10 Girls' Sunglasses to check out: April 2018|Top best 10 Girls' Sunglasses of April 2018: buying guide|2018/04/the-best-10-girls-sunglasses-to-check-out-april-2018|AZ_313Ui3s6teL",
 "The very best 10 Gaming Desktop Computers: March 2018|Gaming Desktop Computers, the top-rated 10 available to buy right now|2018/03/the-very-best-10-gaming-desktop-computers-march-2018|AZ_51vQSmRUzuL",
 "Top-rated 10 Reading Glasses of March 2018|Reading Glasses, the very best 10 to consider: March 2018|2018/03/top-rated-10-reading-glasses-of-march-2018|AZ_411EjW74SBL",

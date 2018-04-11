@@ -1,4 +1,5 @@
 Gr = [
+"Our pick of the best 10 Handheld GPS Units of April 2018|The best 10 Handheld GPS Units buyers guide of April 2018|2018/04/our-pick-of-the-best-10-handheld-gps-units-of-april-2018|AZ_41YlxjXiLTL",
 "The very best 10 Gaming Desktop Computers: March 2018|Gaming Desktop Computers, the top-rated 10 available to buy right now|2018/03/the-very-best-10-gaming-desktop-computers-march-2018|AZ_51vQSmRUzuL",
 "The very best 10 Hi-Fi Receivers: February 2018|The 10 best-selling Hi-Fi Receivers of February 2018|2018/02/the-very-best-10-hi-fi-receivers-february-2018|AZ_41sVrHBQIfL",
 "Top 10 Dj Mixers of February 2018|Our pick of the best 10 Dj Mixers: February 2018|2018/02/top-10-dj-mixers-of-february-2018|AZ_51faAw8-EiL",
