@@ -1,4 +1,5 @@
 Gr = [
+"Compressori: i 10 migliori a aprile 2018|La top 10 dei migliori Compressori venduti a aprile 2018|2018/04/compressori-i-10-migliori-a-aprile-2018|AZ_51WhCtItZaL",
 "La top 10 dei migliori Zoccoli e Sabot da Donna: aprile 2018|La top 10 dei migliori Zoccoli e Sabot da Donna in commercio|2018/04/la-top-10-dei-migliori-zoccoli-e-sabot-da-donna-aprile-2018|AZ_41yMqX-RSsL",
 "Le 10 Macchine Sottovuoto più apprezzate: la classifica di aprile 2018|La top 10 delle migliori Macchine Sottovuoto disponibili da subito|2018/04/le-10-macchine-sottovuoto-piu-apprezzate-la-classifica-di-aprile-2018|AZ_41P7jfHBRhL",
 "I 10 PC Desktop più quotati: marzo 2018|PC Desktop, i 10 al top ora sul mercato: marzo 2018|2018/03/i-10-pc-desktop-piu-quotati-marzo-2018|AZ_41AkMlqe3cL",
