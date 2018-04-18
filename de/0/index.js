@@ -1,4 +1,5 @@
 Gr = [
+"10 besten in Geschirrspüler, April 2018|Top 10: die beliebtesten Artikel in Geschirrspüler, April 2018|2018/04/10-besten-in-geschirrspuler-april-2018|AZ_51Bi5RWruZL",
 "Top 10: die besten herrenhute, April 2018|10 besten in herrenhute im Vergleich: April 2018|2018/04/top-10-die-besten-herrenhute-april-2018|AZ_41QLqabbpeL",
 "Top 10 Bestseller in Navis: April 2018|Top 10: die besten in Navis, April 2018|2018/04/top-10-bestseller-in-navis-april-2018|AZ_51-jonGdNpL",
 "Top 10: die beliebtesten Artikel in Espadrilles für Herren, April 2018|10 beliebtesten Artikel in Espadrilles für Herren im Vergleich|2018/04/top-10-die-beliebtesten-artikel-in-espadrilles-fur-herren-april-2018|AZ_41Rcu6gblJL",
