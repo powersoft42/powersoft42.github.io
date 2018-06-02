@@ -1,4 +1,5 @@
 Gr = [
+"Le top 10 des meilleures Smart TV du moment: juin 2018|Notre sélection des 10 meilleures Smart TV du moment: juin 2018|2018/06/le-top-10-des-meilleures-smart-tv-du-moment-juin-2018|AZ_51STl+QNTPL",
 "Jeans Homme, les 10 meilleurs: avril 2018|Le top 10 des meilleurs Jeans Homme de avril 2018|2018/04/jeans-homme-les-10-meilleurs-avril-2018|AZ_41h9PbgNlZL",
 "Bottes Homme, les 10 meilleures: avril 2018|Notre sélection des 10 meilleures Bottes Homme du moment: avril 2018|2018/04/bottes-homme-les-10-meilleures-avril-2018|AZ_41yNpUxv61L",
 "Guide d'achat: les 10 meilleurs Vélos de Ville de avril 2018|Notre sélection des 10 meilleurs Vélos de Ville de avril 2018|2018/04/guide-d-achat-les-10-meilleurs-velos-de-ville-de-avril-2018|AZ_41Q6Z2BZarL",
