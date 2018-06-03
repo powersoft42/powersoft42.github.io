@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Barbecue più amati: giugno 2018|La top 10 dei migliori Barbecue in commercio: giugno 2018|2018/06/i-10-barbecue-piu-amati-giugno-2018|AZ_41Vnxh6k8vL",
 "La top 10 dei migliori Jeans da Uomo a giugno 2018|I 10 Jeans da Uomo più interessanti in assoluto: la guida all'acquisto|2018/06/la-top-10-dei-migliori-jeans-da-uomo-a-giugno-2018|AZ_41L8ZGHpSkL",
 "Il meglio dei Portascarpe: aprile 2018|La top 10 dei migliori Portascarpe valutati a aprile 2018|2018/04/il-meglio-dei-portascarpe-aprile-2018|AZ_51C82Mu08jL",
 "Compressori: i 10 migliori a aprile 2018|La top 10 dei migliori Compressori venduti a aprile 2018|2018/04/compressori-i-10-migliori-a-aprile-2018|AZ_51WhCtItZaL",
