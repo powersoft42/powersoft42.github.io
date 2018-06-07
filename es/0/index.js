@@ -1,4 +1,5 @@
 Gr = [
+"Ionizadores, los 10 más valorados: junio 2018|Los 10 mejor valorados Ionizadores que puedes comprar ahora mismo|2018/06/ionizadores-los-10-mas-valorados-junio-2018|AZ_51QNMlZFcRL",
 "Las 10 mejores ofertas de Videocámaras Subacuáticas: junio 2018|Las 10 mejor valoradas Videocámaras Subacuáticas del mercado|2018/06/las-10-mejores-ofertas-de-videocamaras-subacuaticas-junio-2018|AZ_41qxSJ-K8zL",
 "Vaqueros para Mujer, los 10 más valorados: junio 2018|Los 10 mejores Vaqueros para Mujer del mercado: junio 2018|2018/06/vaqueros-para-mujer-los-10-mas-valorados-junio-2018|AZ_41iCAtl1mjL",
 "Las 10 más vendidas en Planchas Para El Pelo: abril 2018|Las 10 mejor valoradas Planchas Para El Pelo del mercado: abril 2018|2018/04/las-10-mas-vendidas-en-planchas-para-el-pelo-abril-2018|AZ_31-rBmDmVYL",
