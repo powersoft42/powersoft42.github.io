@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori PC Portatili per Giocare: giugno 2018|I 10 PC Portatili per Giocare più desiderati ora sul mercato|2018/06/la-top-10-dei-migliori-pc-portatili-per-giocare-giugno-2018|AZ_41E12BtZYFL",
 "Gli 8 Condizionatori migliori valutati a giugno 2018|Condizionatori, gli 8 più interessanti da valutare oggi sul mercato|2018/06/gli-8-condizionatori-migliori-valutati-a-giugno-2018|AZ_41dBOAnmVeL",
 "I 10 Barbecue più amati: giugno 2018|La top 10 dei migliori Barbecue in commercio: giugno 2018|2018/06/i-10-barbecue-piu-amati-giugno-2018|AZ_41Vnxh6k8vL",
 "La top 10 dei migliori Jeans da Uomo a giugno 2018|I 10 Jeans da Uomo più interessanti in assoluto: la guida all'acquisto|2018/06/la-top-10-dei-migliori-jeans-da-uomo-a-giugno-2018|AZ_41L8ZGHpSkL",
