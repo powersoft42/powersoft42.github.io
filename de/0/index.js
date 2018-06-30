@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Gepäck-Sets: Juni 2018|Top 10: die besten in Gepäck-Sets, Juni 2018|2018/06/top-10-besten-gepack-sets-juni-2018|AZ_51hsyqNUZBL",
 "10 Bestseller in Mini-Öfen, Juni 2018|Top 10 beliebtesten Artikel in Mini-Öfen: Juni 2018|2018/06/10-bestseller-in-mini-ofen-juni-2018|AZ_513sEi3tL3L",
 "Top 10 Bestseller in Gaming Notebooks: Juni 2018|Top 10: die beliebtesten Artikel in Gaming Notebooks, Juni 2018|2018/06/top-10-bestseller-in-gaming-notebooks-juni-2018|AZ_41NJWHWdIGL",
 "Top 10 besten Herrenuhren: Juni 2018|Top 10: die beliebtesten Artikel in Herrenuhren, Juni 2018|2018/06/top-10-besten-herrenuhren-juni-2018|AZ_51ux1qxHK+L",
