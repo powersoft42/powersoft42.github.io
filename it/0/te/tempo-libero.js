@@ -1,4 +1,5 @@
 Gr = [
+"Tende da Campeggio, le 10 consigliate: giugno 2018|Le 10 Tende da Campeggio che vanno di più subito disponibili|2018/06/tende-da-campeggio-le-10-consigliate-giugno-2018|AZ_41ixQ5LqATL",
 "I 10 Barbecue più amati: giugno 2018|La top 10 dei migliori Barbecue in commercio: giugno 2018|2018/06/i-10-barbecue-piu-amati-giugno-2018|AZ_41Vnxh6k8vL",
 "Compressori: i 10 migliori a aprile 2018|La top 10 dei migliori Compressori venduti a aprile 2018|2018/04/compressori-i-10-migliori-a-aprile-2018|AZ_51WhCtItZaL",
 "I 10 migliori Portabici per Auto sul mercato: marzo 2018|I 10 Portabici per Auto più interessanti in assoluto: la classifica|2018/03/i-10-migliori-portabici-per-auto-sul-mercato-marzo-2018|AZ_41XBChyj65L",
