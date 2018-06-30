@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Ventiladores de Sobremesa mejores a junio 2018|Los 10 más vendidos Ventiladores de Sobremesa del momento|2018/06/los-10-ventiladores-de-sobremesa-mejores-a-junio-2018|AZ_51OIBIFYajL",
 "Ionizadores, los 10 más valorados: junio 2018|Los 10 mejor valorados Ionizadores que puedes comprar ahora mismo|2018/06/ionizadores-los-10-mas-valorados-junio-2018|AZ_51QNMlZFcRL",
 "Las 10 más vendidas en Planchas Para El Pelo: abril 2018|Las 10 mejor valoradas Planchas Para El Pelo del mercado: abril 2018|2018/04/las-10-mas-vendidas-en-planchas-para-el-pelo-abril-2018|AZ_31-rBmDmVYL",
 "El top 10 de los Hornos Microondas: marzo 2018|Los 10 más valorados Hornos Microondas del momento: marzo 2018|2018/03/el-top-10-de-los-hornos-microondas-marzo-2018|AZ_41KgVTagwkL",
