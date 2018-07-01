@@ -1,4 +1,5 @@
 Gr = [
+"Ventilatori: i 10 migliori a luglio 2018|La top 10 dei migliori Ventilatori valutati a luglio 2018|2018/07/ventilatori-i-10-migliori-a-luglio-2018|AZ_312OT+nbVcL",
 "Tende da Campeggio, le 10 consigliate: giugno 2018|Le 10 Tende da Campeggio che vanno di più subito disponibili|2018/06/tende-da-campeggio-le-10-consigliate-giugno-2018|AZ_41ixQ5LqATL",
 "Il meglio delle Macchine per Training Aerobico: giugno 2018|Macchine per Training Aerobico, le 10 più popolari in commercio|2018/06/il-meglio-delle-macchine-per-training-aerobico-giugno-2018|AZ_41nEZsxsTaL",
 "La top 10 dei migliori PC Portatili per Giocare: giugno 2018|I 10 PC Portatili per Giocare più desiderati ora sul mercato|2018/06/la-top-10-dei-migliori-pc-portatili-per-giocare-giugno-2018|AZ_41E12BtZYFL",
