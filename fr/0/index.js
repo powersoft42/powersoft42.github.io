@@ -1,4 +1,5 @@
 Gr = [
+"Ventilateur Sur Pied, les 10 meilleurs: juillet 2018|Notre sélection des 10 meilleurs Ventilateur Sur Pied du moment|2018/07/ventilateur-sur-pied-les-10-meilleurs-juillet-2018|AZ_312OT+nbVcL",
 "Découvrez les 10 meilleurs Appareils Abdominaux de juin 2018|Guide d'achat: les 10 meilleurs Appareils Abdominaux du moment|2018/06/decouvrez-les-10-meilleurs-appareils-abdominaux-de-juin-2018|AZ_513u0H-aoTL",
 "Découvrez les 10 meilleurs Robots Ménagers de juin 2018|Notre sélection des 10 meilleurs Robots Ménagers du moment: juin 2018|2018/06/decouvrez-les-10-meilleurs-robots-menagers-de-juin-2018|AZ_41uDjNcviLL",
 "Ordinateurs Portables Gamer, les 10 meilleurs: juin 2018|Top 10 des meilleurs Ordinateurs Portables Gamer du moment: juin 2018|2018/06/ordinateurs-portables-gamer-les-10-meilleurs-juin-2018|AZ_41IDBjUsZcL",
