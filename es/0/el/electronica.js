@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 mejor valoradas ofertas de Ventiladores: julio 2018|Nuestra selección de los 10 Ventiladores mejores a julio 2018|2018/07/las-10-mejor-valoradas-ofertas-de-ventiladores-julio-2018|AZ_41CcDmQxJDL",
 "Los 10 Ventiladores de Sobremesa mejores a junio 2018|Los 10 más vendidos Ventiladores de Sobremesa del momento|2018/06/los-10-ventiladores-de-sobremesa-mejores-a-junio-2018|AZ_51OIBIFYajL",
 "Top 10 Cámaras Compactas a junio 2018|Cámaras Compactas, las 10 mejores: junio 2018|2018/06/top-10-camaras-compactas-a-junio-2018|AZ_41W9E7oct4L",
 "Top 10 Ordenadores de Sobremesa para Gaming a junio 2018|Ordenadores de Sobremesa para Gaming, los 10 mejores: junio 2018|2018/06/top-10-ordenadores-de-sobremesa-para-gaming-a-junio-2018|AZ_51Abx+1uNmL",
