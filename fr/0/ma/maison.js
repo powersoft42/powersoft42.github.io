@@ -1,4 +1,5 @@
 Gr = [
+"Ventilateurs Colonne, les 10 meilleurs: juillet 2018|Top 10 des meilleurs Ventilateurs Colonne de juillet 2018|2018/07/ventilateurs-colonne-les-10-meilleurs-juillet-2018|AZ_31S3rU2HyYL",
 "Ventilateur Sur Pied, les 10 meilleurs: juillet 2018|Notre sélection des 10 meilleurs Ventilateur Sur Pied du moment|2018/07/ventilateur-sur-pied-les-10-meilleurs-juillet-2018|AZ_312OT+nbVcL",
 "Le top 10 des meilleurs Climatiseurs du moment: juin 2018|Notre sélection des 10 meilleurs Climatiseurs de juin 2018|2018/06/le-top-10-des-meilleurs-climatiseurs-du-moment-juin-2018|AZ_41kwrnrN9OL",
 "Les 8 meilleures Planches à Repasser de mars 2018|Guide d'achat: les 8 meilleures Planches à Repasser de mars 2018|2018/03/les-8-meilleures-planches-a-repasser-de-mars-2018|AZ_317U0RiaTkL",
