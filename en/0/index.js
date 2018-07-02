@@ -1,4 +1,5 @@
 Gr = [
+"The very best 10 Ceiling Fans: July 2018|Best-selling 10 Ceiling Fans buyers guide of July 2018|2018/07/the-very-best-10-ceiling-fans-july-2018|AZ_319mKq6BZeL",
 "Top 10 Tower Fans of July 2018|Our pick of the best 10 Tower Fans: July 2018|2018/07/top-10-tower-fans-of-july-2018|AZ_41j74FTC5+L",
 "Top 10 Karaoke Machines available to buy right now: June 2018|Top best 10 Karaoke Machines you may want to check out: June 2018|2018/06/top-10-karaoke-machines-available-to-buy-right-now-june-2018|AZ_41D0VRLwyAL",
 "Our pick of the best 10 Binoculars: June 2018|The best 10 Binoculars buyers guide of June 2018|2018/06/our-pick-of-the-best-10-binoculars-june-2018|AZ_41VZbT+-F4L",
