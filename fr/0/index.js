@@ -1,4 +1,5 @@
 Gr = [
+"Bagages Cabine, les 10 meilleurs: juillet 2018|Top 10 des meilleurs Bagages Cabine de juillet 2018|2018/07/bagages-cabine-les-10-meilleurs-juillet-2018|AZ_41p05Vw3EbL",
 "Ventilateurs Colonne, les 10 meilleurs: juillet 2018|Top 10 des meilleurs Ventilateurs Colonne de juillet 2018|2018/07/ventilateurs-colonne-les-10-meilleurs-juillet-2018|AZ_31S3rU2HyYL",
 "Ventilateur Sur Pied, les 10 meilleurs: juillet 2018|Notre sélection des 10 meilleurs Ventilateur Sur Pied du moment|2018/07/ventilateur-sur-pied-les-10-meilleurs-juillet-2018|AZ_312OT+nbVcL",
 "Découvrez les 10 meilleurs Appareils Abdominaux de juin 2018|Guide d'achat: les 10 meilleurs Appareils Abdominaux du moment|2018/06/decouvrez-les-10-meilleurs-appareils-abdominaux-de-juin-2018|AZ_513u0H-aoTL",
