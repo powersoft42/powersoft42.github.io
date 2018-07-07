@@ -1,4 +1,5 @@
 Gr = [
+"Le top 10 des meilleures Chaussures de Sport pour Homme: juillet 2018|Découvrez les 10 meilleures Chaussures de Sport pour Homme|2018/07/le-top-10-des-meilleures-chaussures-de-sport-pour-homme-juillet-2018|AZ_51rOCEyNJuL",
 "Les 10 meilleurs Congélateurs de juillet 2018|Notre sélection des 10 meilleurs Congélateurs de juillet 2018|2018/07/les-10-meilleurs-congelateurs-de-juillet-2018|AZ_41lcXpzwuBL",
 "Bagages Cabine, les 10 meilleurs: juillet 2018|Top 10 des meilleurs Bagages Cabine de juillet 2018|2018/07/bagages-cabine-les-10-meilleurs-juillet-2018|AZ_41p05Vw3EbL",
 "Ventilateurs Colonne, les 10 meilleurs: juillet 2018|Top 10 des meilleurs Ventilateurs Colonne de juillet 2018|2018/07/ventilateurs-colonne-les-10-meilleurs-juillet-2018|AZ_31S3rU2HyYL",
