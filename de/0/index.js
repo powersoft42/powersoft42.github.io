@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 beliebtesten Artikel in Reisegepäck: Juli 2018|Die 10 beliebtesten Artikel in Reisegepäck: Juli 2018|2018/07/top-10-beliebtesten-artikel-in-reisegepack-juli-2018|AZ_51ErPOzrvUL",
 "Top 10 beliebtesten Artikel in Standmixer, Juli 2018|10 beliebtesten Artikel in Standmixer im Vergleich: Juli 2018|2018/07/top-10-beliebtesten-artikel-in-standmixer-juli-2018|AZ_41IzLKJD2FL",
 "Top 10 besten Elektrofahrräder: Juli 2018|Die 10 besten in Elektrofahrräder: Juli 2018|2018/07/top-10-besten-elektrofahrrader-juli-2018|AZ_51zf5NPyzwL",
 "Top 10 besten USB-Ventilatoren: Juli 2018|10 besten USB-Ventilatoren zum Kaufen: Juli 2018|2018/07/top-10-besten-usb-ventilatoren-juli-2018|AZ_510K7z-0AUL",
