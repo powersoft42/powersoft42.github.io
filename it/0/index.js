@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Condizionatori a Evaporazione venduti a luglio 2018|I 10 Condizionatori a Evaporazione migliori: la classifica aggiornata|2018/07/la-top-10-dei-migliori-condizionatori-a-evaporazione-venduti-a-luglio-2018|AZ_41MuH+DifnL",
 "Ombrelloni da Giardino: i 10 migliori a luglio 2018|Ombrelloni da Giardino, i 10 più amati subito disponibili: luglio 2018|2018/07/ombrelloni-da-giardino-i-10-migliori-a-luglio-2018|AZ_3199548bNxL",
 "Le 10 Tende a Tunnel più vendute: la classifica di luglio 2018|La top 10 delle migliori Tende a Tunnel disponibili da subito|2018/07/le-10-tende-a-tunnel-piu-vendute-la-classifica-di-luglio-2018|AZ_41bkgOufU4L",
 "I 10 Fornelli per Ceretta migliori: la classifica di luglio 2018|I 10 Fornelli per Ceretta più premiati dal mercato in commercio ora!|2018/07/i-10-fornelli-per-ceretta-migliori-la-classifica-di-luglio-2018|AZ_51yry+zgHLL",
