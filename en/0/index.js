@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Women's Running Shoes of July 2018|Top-rated 10 Women's Running Shoes buyers guide of July 2018|2018/07/best-selling-10-women-s-running-shoes-of-july-2018|AZ_41TH-l0oIIL",
 "Top best 10 Women's Electric Shavers of July 2018|Women's Electric Shavers, the most popular 10 you can buy right now|2018/07/top-best-10-women-s-electric-shavers-of-july-2018|AZ_51bjHnhKrcL",
 "Top 10 Beverage Refrigerators of July 2018|Top-rated 10 Beverage Refrigerators to consider: July 2018|2018/07/top-10-beverage-refrigerators-of-july-2018|AZ_31GLVRMTxdL",
 "Top 10 Tripods buyers guide of July 2018|Buying guide: top 10 Tripods of July 2018|2018/07/top-10-tripods-buyers-guide-of-july-2018|AZ_31SZk2aJB5L",
