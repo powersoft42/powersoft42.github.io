@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleurs Tops de Sport Femme de juillet 2018|Guide d'achat: les 10 meilleurs Tops de Sport Femme de juillet 2018|2018/07/top-10-des-meilleurs-tops-de-sport-femme-de-juillet-2018|AZ_41u9NzTNp8L",
 "Découvrez les 10 meilleurs Lave-Vaisselle: juillet 2018|Notre sélection des 10 meilleurs Lave-Vaisselle du moment|2018/07/decouvrez-les-10-meilleurs-lave-vaisselle-juillet-2018|AZ_31LnUfpScPL",
 "Carafes Filtrantes, les 10 meilleures: juillet 2018|Top 10 des meilleures Carafes Filtrantes du moment: juillet 2018|2018/07/carafes-filtrantes-les-10-meilleures-juillet-2018|AZ_31DQQ7RFR6L",
 "Perceuses à Percussion, les 10 meilleures: juillet 2018|Les 10 meilleures Perceuses à Percussion du moment: juillet 2018|2018/07/perceuses-a-percussion-les-10-meilleures-juillet-2018|AZ_51tqnwoCpHL",
