@@ -1,4 +1,5 @@
 Gr = [
+"Ventilatori da Auto: i 10 migliori a luglio 2018|Ventilatori da Auto, i 10 migliori ora sul mercato: luglio 2018|2018/07/ventilatori-da-auto-i-10-migliori-a-luglio-2018|AZ_51ecSPyB7pL",
 "Gelatiere, le 10 più desiderate in commercio: luglio 2018|Le 10 Gelatiere più apprezzate: la classifica aggiornata a luglio 2018|2018/07/gelatiere-le-10-piu-desiderate-in-commercio-luglio-2018|AZ_31zZZQdtZlL",
 "La top 10 dei migliori Condizionatori a Evaporazione venduti a luglio 2018|I 10 Condizionatori a Evaporazione migliori: la classifica aggiornata|2018/07/la-top-10-dei-migliori-condizionatori-a-evaporazione-venduti-a-luglio-2018|AZ_41MuH+DifnL",
 "Ombrelloni da Giardino: i 10 migliori a luglio 2018|Ombrelloni da Giardino, i 10 più amati subito disponibili: luglio 2018|2018/07/ombrelloni-da-giardino-i-10-migliori-a-luglio-2018|AZ_3199548bNxL",
