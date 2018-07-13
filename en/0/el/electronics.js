@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Monitors of July 2018|Best-selling 10 Monitors: July 2018|2018/07/the-best-10-monitors-of-july-2018|AZ_4171ty8hNlL",
 "Buying guide: top 10 Smart TVs of July 2018|The 10 best-selling Smart TVs of July 2018: buying guide|2018/07/buying-guide-top-10-smart-tvs-of-july-2018|AZ_51T4TVfyaML",
 "Our pick of the best 10 PC Fans: July 2018|PC Fans, the top 10 you may want to check out: July 2018|2018/07/our-pick-of-the-best-10-pc-fans-july-2018|AZ_51Xzmc+YHGL",
 "Top 10 Karaoke Machines available to buy right now: June 2018|Top best 10 Karaoke Machines you may want to check out: June 2018|2018/06/top-10-karaoke-machines-available-to-buy-right-now-june-2018|AZ_41D0VRLwyAL",
