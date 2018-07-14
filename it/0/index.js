@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 valigie rigide più richieste: luglio 2018|La top 10 delle migliori valigie rigide disponibili ora per l'acquisto|2018/07/le-10-valigie-rigide-piu-richieste-luglio-2018|AZ_41hYFpokePL",
 "La top 10 dei migliori Ombrelloni da Spiaggia a luglio 2018|I 10 Ombrelloni da Spiaggia più amati: la classifica aggiornata|2018/07/la-top-10-dei-migliori-ombrelloni-da-spiaggia-a-luglio-2018|AZ_51+m+wVfkvL",
 "Ventilatori da Auto: i 10 migliori a luglio 2018|Ventilatori da Auto, i 10 migliori ora sul mercato: luglio 2018|2018/07/ventilatori-da-auto-i-10-migliori-a-luglio-2018|AZ_51ecSPyB7pL",
 "Gelatiere, le 10 più desiderate in commercio: luglio 2018|Le 10 Gelatiere più apprezzate: la classifica aggiornata a luglio 2018|2018/07/gelatiere-le-10-piu-desiderate-in-commercio-luglio-2018|AZ_31zZZQdtZlL",
