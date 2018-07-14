@@ -1,4 +1,5 @@
 Gr = [
+"Mini Réfrigérateurs, les 10 meilleurs: juillet 2018|Le top 10 des meilleurs Mini Réfrigérateurs de juillet 2018|2018/07/mini-refrigerateurs-les-10-meilleurs-juillet-2018|AZ_51dyFwbfL0L",
 "Découvrez les 10 meilleurs Lave-Vaisselle: juillet 2018|Notre sélection des 10 meilleurs Lave-Vaisselle du moment|2018/07/decouvrez-les-10-meilleurs-lave-vaisselle-juillet-2018|AZ_31LnUfpScPL",
 "Les 10 meilleurs Congélateurs de juillet 2018|Notre sélection des 10 meilleurs Congélateurs de juillet 2018|2018/07/les-10-meilleurs-congelateurs-de-juillet-2018|AZ_41lcXpzwuBL",
 "Ventilateur Sur Pied, les 10 meilleurs: juillet 2018|Notre sélection des 10 meilleurs Ventilateur Sur Pied du moment|2018/07/ventilateur-sur-pied-les-10-meilleurs-juillet-2018|AZ_312OT+nbVcL",
