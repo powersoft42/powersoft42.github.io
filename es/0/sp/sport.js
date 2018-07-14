@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Cascos de Ciclismo más vendidos: julio 2018|Los 10 mejores Cascos de Ciclismo que puedes comprar ahora mismo|2018/07/los-10-cascos-de-ciclismo-mas-vendidos-julio-2018|AZ_51fwThD7fWL",
 "Las 10 Bicicletas Eléctricas mejor valoradas a julio 2018|Nuestra selección de las 10 Bicicletas Eléctricas mejor valoradas|2018/07/las-10-bicicletas-electricas-mejor-valoradas-a-julio-2018|AZ_51mLT6ni0DL",
 "Top 10 Pantalones para Hombre a julio 2018|Nuestra selección de los 10 Pantalones para Hombre más valorados|2018/07/top-10-pantalones-para-hombre-a-julio-2018|AZ_41BDta2RZeL",
 "La lista con los 10 Pantalones Deportivos para Mujer mejores a julio 2018|Los 10 mejor valorados Pantalones Deportivos para Mujer del momento|2018/07/la-lista-con-los-10-pantalones-deportivos-para-mujer-mejores-a-julio-2018|AZ_415IoAwH6OL",
