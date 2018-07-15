@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Epilators: July 2018|Buying guide: the very best 10 Epilators of July 2018|2018/07/top-10-epilators-july-2018|AZ_41aAM-EXcQL",
 "Most popular 10 Home Security Systems of July 2018: buying guide|Our pick of the best 10 Home Security Systems buyers guide|2018/07/most-popular-10-home-security-systems-of-july-2018-buying-guide|AZ_51fM1MUdimL",
 "The best 10 Monitors of July 2018|Best-selling 10 Monitors: July 2018|2018/07/the-best-10-monitors-of-july-2018|AZ_4171ty8hNlL",
 "Best-selling 10 Women's Running Shoes of July 2018|Top-rated 10 Women's Running Shoes buyers guide of July 2018|2018/07/best-selling-10-women-s-running-shoes-of-july-2018|AZ_41TH-l0oIIL",
