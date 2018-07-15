@@ -1,4 +1,5 @@
 Gr = [
+"Chaînes Hi-Fi, les 10 meilleures: juillet 2018|Le top 10 des meilleures Chaînes Hi-Fi de juillet 2018|2018/07/chaines-hi-fi-les-10-meilleures-juillet-2018|AZ_41KjQmvXhwL",
 "Mini Réfrigérateurs, les 10 meilleurs: juillet 2018|Le top 10 des meilleurs Mini Réfrigérateurs de juillet 2018|2018/07/mini-refrigerateurs-les-10-meilleurs-juillet-2018|AZ_51dyFwbfL0L",
 "Découvrez les 10 meilleurs Vélos d'Appartement de juillet 2018|Guide d'achat: les 10 meilleurs Vélos d'Appartement de juillet 2018|2018/07/decouvrez-les-10-meilleurs-velos-d-appartement-de-juillet-2018|AZ_41Y5wsMeicL",
 "Top 10 des meilleurs Tops de Sport Femme de juillet 2018|Guide d'achat: les 10 meilleurs Tops de Sport Femme de juillet 2018|2018/07/top-10-des-meilleurs-tops-de-sport-femme-de-juillet-2018|AZ_41u9NzTNp8L",
