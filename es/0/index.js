@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 Videocámaras de Acción más vendidas: julio 2018|Las 10 mejores Videocámaras de Acción que puedes comprar|2018/07/las-10-videocamaras-de-accion-mas-vendidas-julio-2018|AZ_51s4zRP2YAL",
 "Los 10 Cascos de Ciclismo más vendidos: julio 2018|Los 10 mejores Cascos de Ciclismo que puedes comprar ahora mismo|2018/07/los-10-cascos-de-ciclismo-mas-vendidos-julio-2018|AZ_51fwThD7fWL",
 "Las 10 Bicicletas Eléctricas mejor valoradas a julio 2018|Nuestra selección de las 10 Bicicletas Eléctricas mejor valoradas|2018/07/las-10-bicicletas-electricas-mejor-valoradas-a-julio-2018|AZ_51mLT6ni0DL",
 "Top 10 Pantalones para Hombre a julio 2018|Nuestra selección de los 10 Pantalones para Hombre más valorados|2018/07/top-10-pantalones-para-hombre-a-julio-2018|AZ_41BDta2RZeL",
