@@ -1,4 +1,5 @@
 Gr = [
+"Guide d'achat: les 10 meilleurs Vélos Électriques du moment: juillet 2018|Notre sélection des 10 meilleurs Vélos Électriques du moment|2018/07/guide-d-achat-les-10-meilleurs-velos-electriques-du-moment-juillet-2018|AZ_41vSRlsDUNL",
 "Chaînes Hi-Fi, les 10 meilleures: juillet 2018|Le top 10 des meilleures Chaînes Hi-Fi de juillet 2018|2018/07/chaines-hi-fi-les-10-meilleures-juillet-2018|AZ_41KjQmvXhwL",
 "Mini Réfrigérateurs, les 10 meilleurs: juillet 2018|Le top 10 des meilleurs Mini Réfrigérateurs de juillet 2018|2018/07/mini-refrigerateurs-les-10-meilleurs-juillet-2018|AZ_51dyFwbfL0L",
 "Découvrez les 10 meilleurs Vélos d'Appartement de juillet 2018|Guide d'achat: les 10 meilleurs Vélos d'Appartement de juillet 2018|2018/07/decouvrez-les-10-meilleurs-velos-d-appartement-de-juillet-2018|AZ_41Y5wsMeicL",
