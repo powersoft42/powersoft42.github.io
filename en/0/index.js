@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Summer Skirts of July 2018: buying guide|Our pick of the best 10 Summer Skirts of July 2018|2018/07/the-best-10-summer-skirts-of-july-2018-buying-guide|AZ_41fNMUWYWGL",
 "Top 10 Portable Radios: July 2018|Most popular 10 Portable Radios of July 2018|2018/07/top-10-portable-radios-july-2018|AZ_41tRH5cbobL",
 "Top 10 Epilators: July 2018|Buying guide: the very best 10 Epilators of July 2018|2018/07/top-10-epilators-july-2018|AZ_41aAM-EXcQL",
 "Most popular 10 Home Security Systems of July 2018: buying guide|Our pick of the best 10 Home Security Systems buyers guide|2018/07/most-popular-10-home-security-systems-of-july-2018-buying-guide|AZ_51fM1MUdimL",
