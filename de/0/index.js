@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 Bestseller in Stirnlampen: Juli 2018|10 Bestseller in Stirnlampen im Vergleich: Juli 2018|2018/07/die-10-bestseller-in-stirnlampen-juli-2018|AZ_41Y1Pn6u8VL",
 "10 besten Mädchenschmuck: Juli 2018|10 beliebtesten Artikel in Mädchenschmuck zum Kaufen: Juli 2018|2018/07/10-besten-madchenschmuck-juli-2018|AZ_41ZtqynvwVL",
 "Top 10 besten in Herren-Bademode: Juli 2018|Top 10: die beliebtesten Artikel in Herren-Bademode, Juli 2018|2018/07/top-10-besten-in-herren-bademode-juli-2018|AZ_51rcEfgRFhL",
 "Top 10 Bestseller in Saunen: Juli 2018|10 Bestseller in Saunen zum Kaufen: Juli 2018|2018/07/top-10-bestseller-in-saunen-juli-2018|AZ_51jtQQohxCL",
