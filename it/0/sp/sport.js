@@ -1,4 +1,5 @@
 Gr = [
+"Bici Pieghevoli: le 10 migliori a luglio 2018|Le 10 Bici Pieghevoli che più piacciono: luglio 2018|2018/07/bici-pieghevoli-le-10-migliori-a-luglio-2018|AZ_41x-pA1owIL",
 "Hoverboard: i 10 migliori a luglio 2018|La top 10 dei migliori Hoverboard: luglio 2018|2018/07/hoverboard-i-10-migliori-a-luglio-2018|AZ_51lEI3KHDqL",
 "La top 10 dei migliori Ombrelloni da Spiaggia a luglio 2018|I 10 Ombrelloni da Spiaggia più amati: la classifica aggiornata|2018/07/la-top-10-dei-migliori-ombrelloni-da-spiaggia-a-luglio-2018|AZ_51+m+wVfkvL",
 "I 10 migliori Portabici per Auto sul mercato: marzo 2018|I 10 Portabici per Auto più interessanti in assoluto: la classifica|2018/03/i-10-migliori-portabici-per-auto-sul-mercato-marzo-2018|AZ_41XBChyj65L",
