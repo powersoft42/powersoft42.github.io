@@ -1,4 +1,5 @@
 Gr = [
+"Máquinas de Step, las 10 más vendidas: julio 2018|Máquinas de Step, las 10 mejores del mercado: julio 2018|2018/07/maquinas-de-step-las-10-mas-vendidas-julio-2018|AZ_41BYIjMRicL",
 "Secadores de Pelo, los 10 mejores del mercado: julio 2018|Las 10 mejor valoradas ofertas de Secadores de Pelo: julio 2018|2018/07/secadores-de-pelo-los-10-mejores-del-mercado-julio-2018|AZ_41YzVmQ9wOL",
 "Las 10 Zapatillas de Deporte para Hombre más valoradas a julio 2018|Las 10 más valoradas ofertas de Zapatillas de Deporte para Hombre|2018/07/las-10-zapatillas-de-deporte-para-hombre-mas-valoradas-a-julio-2018|AZ_41hNCzPBwSL",
 "Las 10 Videocámaras de Acción más vendidas: julio 2018|Las 10 mejores Videocámaras de Acción que puedes comprar|2018/07/las-10-videocamaras-de-accion-mas-vendidas-julio-2018|AZ_51s4zRP2YAL",

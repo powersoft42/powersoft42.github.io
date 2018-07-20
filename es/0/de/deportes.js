@@ -1,4 +1,5 @@
 Gr = [
+"Máquinas de Step, las 10 más vendidas: julio 2018|Máquinas de Step, las 10 mejores del mercado: julio 2018|2018/07/maquinas-de-step-las-10-mas-vendidas-julio-2018|AZ_41BYIjMRicL",
 "Las 10 Zapatillas de Deporte para Hombre más valoradas a julio 2018|Las 10 más valoradas ofertas de Zapatillas de Deporte para Hombre|2018/07/las-10-zapatillas-de-deporte-para-hombre-mas-valoradas-a-julio-2018|AZ_41hNCzPBwSL",
 "Los 10 Cascos de Ciclismo más vendidos: julio 2018|Los 10 mejores Cascos de Ciclismo que puedes comprar ahora mismo|2018/07/los-10-cascos-de-ciclismo-mas-vendidos-julio-2018|AZ_51fwThD7fWL",
 "Las 10 Bicicletas Eléctricas mejor valoradas a julio 2018|Nuestra selección de las 10 Bicicletas Eléctricas mejor valoradas|2018/07/las-10-bicicletas-electricas-mejor-valoradas-a-julio-2018|AZ_51mLT6ni0DL",
