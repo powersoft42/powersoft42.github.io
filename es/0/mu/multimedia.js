@@ -1,4 +1,5 @@
 Gr = [
+"La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
 "Las 10 Videocámaras de Acción más vendidas: julio 2018|Las 10 mejores Videocámaras de Acción que puedes comprar|2018/07/las-10-videocamaras-de-accion-mas-vendidas-julio-2018|AZ_51s4zRP2YAL",
 "Drones, los 10 mejor valorados del mercado: julio 2018|Los 10 más valorados Drones que puedes comprar ahora mismo|2018/07/drones-los-10-mejor-valorados-del-mercado-julio-2018|AZ_31kd4fmepBL",
 "Top 10 Cámaras Compactas a junio 2018|Cámaras Compactas, las 10 mejores: junio 2018|2018/06/top-10-camaras-compactas-a-junio-2018|AZ_41W9E7oct4L",
