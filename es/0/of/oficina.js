@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 Sillas de Oficina mejores a julio 2018|Las 10 mejor valoradas ofertas de Sillas de Oficina: julio 2018|2018/07/las-10-sillas-de-oficina-mejores-a-julio-2018|AZ_411tc5SM1hL",
 "La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
 "Top 10 Monitores a julio 2018|Los 10 más valorados Monitores que puedes comprar ahora mismo|2018/07/top-10-monitores-a-julio-2018|AZ_31fZG8VzDwL",
 "Ventiladores para Ventanas, los 9 mejores del mercado: julio 2018|Nuestra selección de los 9 Ventiladores para Ventanas mejor valorados|2018/07/ventiladores-para-ventanas-los-9-mejores-del-mercado-julio-2018|AZ_51aHYpkbbqL",
