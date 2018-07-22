@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",
 "10 besten in Damen-Pumps zum Kaufen: Juli 2018|Top 10: die Bestseller in Damen-Pumps, Juli 2018|2018/07/10-besten-in-damen-pumps-zum-kaufen-juli-2018|AZ_51VocqobtGL",
 "10 besten in Trampoline zum Kaufen: Juli 2018|10 Bestseller in Trampoline im Vergleich: Juli 2018|2018/07/10-besten-in-trampoline-zum-kaufen-juli-2018|AZ_41oQWtGfDfL",
 "Die 10 Bestseller in Stirnlampen: Juli 2018|10 Bestseller in Stirnlampen im Vergleich: Juli 2018|2018/07/die-10-bestseller-in-stirnlampen-juli-2018|AZ_41Y1Pn6u8VL",

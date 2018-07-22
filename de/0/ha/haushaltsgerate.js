@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",
 "10 Bestseller in HeißWasserspender, Juli 2018|10 beliebtesten Artikel in HeißWasserspender zum Kaufen: Juli 2018|2018/07/10-bestseller-in-heisswasserspender-juli-2018|AZ_313ozvKDrAL",
 "Top 10 beliebtesten Artikel in Standmixer, Juli 2018|10 beliebtesten Artikel in Standmixer im Vergleich: Juli 2018|2018/07/top-10-beliebtesten-artikel-in-standmixer-juli-2018|AZ_41IzLKJD2FL",
 "Top 10 besten USB-Ventilatoren: Juli 2018|10 besten USB-Ventilatoren zum Kaufen: Juli 2018|2018/07/top-10-besten-usb-ventilatoren-juli-2018|AZ_510K7z-0AUL",
