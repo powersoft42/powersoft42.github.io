@@ -1,4 +1,5 @@
 Gr = [
+"Ventilatori USB: i 10 migliori in commercio a luglio 2018|I 10 Ventilatori USB più comprati oggi sul mercato: luglio 2018|2018/07/ventilatori-usb-i-10-migliori-in-commercio-a-luglio-2018|AZ_51vRRF77kSL",
 "La top 10 dei migliori Cuociriso valutati a luglio 2018|I 10 Cuociriso più gettonati: la classifica aggiornata a luglio 2018|2018/07/la-top-10-dei-migliori-cuociriso-valutati-a-luglio-2018|AZ_41TrS9Q8aYL",
 "La top 10 dei migliori Zainetti da Uomo: luglio 2018|Zainetti da Uomo: i 10 migliori in commercio a luglio 2018|2018/07/la-top-10-dei-migliori-zainetti-da-uomo-luglio-2018|AZ_51JlV78g1JL",
 "Bici Pieghevoli: le 10 migliori a luglio 2018|Le 10 Bici Pieghevoli che più piacciono: luglio 2018|2018/07/bici-pieghevoli-le-10-migliori-a-luglio-2018|AZ_41x-pA1owIL",
