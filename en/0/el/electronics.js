@@ -1,4 +1,5 @@
 Gr = [
+"Top best 10 Desktop Computers to check out: July 2018|The very best 10 Desktop Computers buyers guide of July 2018|2018/07/top-best-10-desktop-computers-to-check-out-july-2018|AZ_41em-EltLBL",
 "Most popular 10 Portable Speakers: July 2018|Best-selling 10 Portable Speakers buyers guide of July 2018|2018/07/most-popular-10-portable-speakers-july-2018|AZ_51kkbyAxuTL",
 "Top 10 Portable Radios: July 2018|Most popular 10 Portable Radios of July 2018|2018/07/top-10-portable-radios-july-2018|AZ_41tRH5cbobL",
 "Most popular 10 Home Security Systems of July 2018: buying guide|Our pick of the best 10 Home Security Systems buyers guide|2018/07/most-popular-10-home-security-systems-of-july-2018-buying-guide|AZ_51fM1MUdimL",
