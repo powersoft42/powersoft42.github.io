@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Gaming PC Laptop: luglio 2018|I 10 Gaming PC Laptop più interessanti per l'acquisto: la classifica|2018/07/la-top-10-dei-migliori-gaming-pc-laptop-luglio-2018|AZ_41gQsDbXQ5L",
 "Notebook: i 10 migliori a luglio 2018|La top 10 dei migliori Notebook valutati a luglio 2018|2018/07/notebook-i-10-migliori-a-luglio-2018|AZ_41CpBOti9lL",
 "Ventilatori USB: i 10 migliori in commercio a luglio 2018|I 10 Ventilatori USB più comprati oggi sul mercato: luglio 2018|2018/07/ventilatori-usb-i-10-migliori-in-commercio-a-luglio-2018|AZ_51vRRF77kSL",
 "La top 10 dei migliori Cuociriso valutati a luglio 2018|I 10 Cuociriso più gettonati: la classifica aggiornata a luglio 2018|2018/07/la-top-10-dei-migliori-cuociriso-valutati-a-luglio-2018|AZ_41TrS9Q8aYL",
