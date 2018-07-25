@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Men's Sunglasses of July 2018|The very best 10 Men's Sunglasses buyers guide of July 2018|2018/07/the-best-10-men-s-sunglasses-of-july-2018|AZ_31vAoYQ4cqL",
 "Best-selling 10 Gaming Laptops of July 2018|Top 10 Gaming Laptops of July 2018: buying guide|2018/07/best-selling-10-gaming-laptops-of-july-2018|AZ_41zOZwGirFL",
 "Most popular 10 Computer Glasses buyers guide of July 2018|The very best 10 Computer Glasses of July 2018: buying guide|2018/07/most-popular-10-computer-glasses-buyers-guide-of-july-2018|AZ_51bxQ8PP0EL",
 "Our pick of the best 10 PC Fans: July 2018|PC Fans, the top 10 you may want to check out: July 2018|2018/07/our-pick-of-the-best-10-pc-fans-july-2018|AZ_51Xzmc+YHGL",
