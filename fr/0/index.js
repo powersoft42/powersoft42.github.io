@@ -1,4 +1,5 @@
 Gr = [
+"Ceintures Homme, les 10 meilleures: juillet 2018|Les 10 meilleures Ceintures Homme de juillet 2018|2018/07/ceintures-homme-les-10-meilleures-juillet-2018|AZ_51uLsKZjq2L",
 "Découvrez les 10 meilleurs PC Portables Gamer de juillet 2018|Guide d'achat: les 10 meilleurs PC Portables Gamer de juillet 2018|2018/07/decouvrez-les-10-meilleurs-pc-portables-gamer-de-juillet-2018|AZ_3157lbw-BzL",
 "Découvrez les 10 meilleurs Ordinateurs Portables de juillet 2018|Notre sélection des 10 meilleurs Ordinateurs Portables de juillet 2018|2018/07/decouvrez-les-10-meilleurs-ordinateurs-portables-de-juillet-2018|AZ_31I6Zh47eeL",
 "Top 10 des meilleures Tables à Repasser de juillet 2018|Notre sélection des 10 meilleures Tables à Repasser de juillet 2018|2018/07/top-10-des-meilleures-tables-a-repasser-de-juillet-2018|AZ_31rKRJnMUsL",
