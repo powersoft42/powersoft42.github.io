@@ -1,5 +1,6 @@
 Tt = "Electrónica";
 Gr = [
+"Los 10 Teclados Electrónicos más vendidos a julio 2018|Los 10 mejores Teclados Electrónicos que puedes comprar ahora mismo|2018/07/los-10-teclados-electronicos-mas-vendidos-a-julio-2018|AZ_41aEBVTo8+L",
 "Los 10 mejores en Portátiles para Gaming: julio 2018|Los 10 más vendidos Portátiles para Gaming del mercado: julio 2018|2018/07/los-10-mejores-en-portatiles-para-gaming-julio-2018|AZ_41WOmZuov3L",
 "La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
 "Secadores de Pelo, los 10 mejores del mercado: julio 2018|Las 10 mejor valoradas ofertas de Secadores de Pelo: julio 2018|2018/07/secadores-de-pelo-los-10-mejores-del-mercado-julio-2018|AZ_41YzVmQ9wOL",

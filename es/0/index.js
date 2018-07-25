@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Teclados Electrónicos más vendidos a julio 2018|Los 10 mejores Teclados Electrónicos que puedes comprar ahora mismo|2018/07/los-10-teclados-electronicos-mas-vendidos-a-julio-2018|AZ_41aEBVTo8+L",
 "Los 10 mejores en Portátiles para Gaming: julio 2018|Los 10 más vendidos Portátiles para Gaming del mercado: julio 2018|2018/07/los-10-mejores-en-portatiles-para-gaming-julio-2018|AZ_41WOmZuov3L",
 "Top 10 Portátiles a julio 2018|Las 10 más valoradas ofertas de Portátiles: julio 2018|2018/07/top-10-portatiles-a-julio-2018|AZ_41jX+nHa2jL",
 "Las 10 Sillas de Oficina mejores a julio 2018|Las 10 mejor valoradas ofertas de Sillas de Oficina: julio 2018|2018/07/las-10-sillas-de-oficina-mejores-a-julio-2018|AZ_411tc5SM1hL",

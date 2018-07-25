@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Teclados Electrónicos más vendidos a julio 2018|Los 10 mejores Teclados Electrónicos que puedes comprar ahora mismo|2018/07/los-10-teclados-electronicos-mas-vendidos-a-julio-2018|AZ_41aEBVTo8+L",
 "La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
 "Las 10 mejor valoradas ofertas de Ventiladores: julio 2018|Nuestra selección de los 10 Ventiladores mejores a julio 2018|2018/07/las-10-mejor-valoradas-ofertas-de-ventiladores-julio-2018|AZ_41CcDmQxJDL",
 "Radiodespertadores, los 10 más valorados: marzo 2018|Radiodespertadores, los 10 mejor valorados del mercado: marzo 2018|2018/03/radiodespertadores-los-10-mas-valorados-marzo-2018|AZ_41jhmOqqhQL",
