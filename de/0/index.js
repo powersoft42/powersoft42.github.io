@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Kosmetikkoffer: Juli 2018|10 besten in Kosmetikkoffer im Vergleich: Juli 2018|2018/07/top-10-besten-kosmetikkoffer-juli-2018|AZ_41Bz-mn3aeL",
 "Top 10 besten in Gaming Notebooks: Juli 2018|Top 10: die 10 beliebtesten Artikel in Gaming Notebooks, Juli 2018|2018/07/top-10-besten-in-gaming-notebooks-juli-2018|AZ_41u9j3WwiyL",
 "10 besten Notebooks im Vergleich: Juli 2018|Top 10 beliebtesten Artikel in Notebooks: Juli 2018|2018/07/10-besten-notebooks-im-vergleich-juli-2018|AZ_41ASL8fcMTL",
 "Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",
