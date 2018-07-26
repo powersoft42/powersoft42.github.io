@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Chest Freezers of July 2018|Chest Freezers, most popular 10 available right now: July 2018|2018/07/the-best-10-chest-freezers-of-july-2018|AZ_41tABrUXBAL",
 "Most popular 10 Home Security Systems of July 2018: buying guide|Our pick of the best 10 Home Security Systems buyers guide|2018/07/most-popular-10-home-security-systems-of-july-2018-buying-guide|AZ_51fM1MUdimL",
 "Top 10 Beverage Refrigerators of July 2018|Top-rated 10 Beverage Refrigerators to consider: July 2018|2018/07/top-10-beverage-refrigerators-of-july-2018|AZ_31GLVRMTxdL",
 "Buying guide: top 10 Smart TVs of July 2018|The 10 best-selling Smart TVs of July 2018: buying guide|2018/07/buying-guide-top-10-smart-tvs-of-july-2018|AZ_51T4TVfyaML",
