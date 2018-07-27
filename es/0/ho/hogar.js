@@ -1,4 +1,5 @@
 Gr = [
+"Robots de Cocina, los 10 mejores del mercado: julio 2018|Las 10 más valoradas ofertas de Robots de Cocina: julio 2018|2018/07/robots-de-cocina-los-10-mejores-del-mercado-julio-2018|AZ_419ur5sqeaL",
 "Las 10 Sillas de Oficina mejores a julio 2018|Las 10 mejor valoradas ofertas de Sillas de Oficina: julio 2018|2018/07/las-10-sillas-de-oficina-mejores-a-julio-2018|AZ_411tc5SM1hL",
 "El top 10 de los Ventiladores de Pie: julio 2018|Nuestra selección de los 10 Ventiladores de Pie mejor valorados|2018/07/el-top-10-de-los-ventiladores-de-pie-julio-2018|AZ_31-n6OCGkCL",
 "Las 10 mejor valoradas ofertas de Ventiladores: julio 2018|Nuestra selección de los 10 Ventiladores mejores a julio 2018|2018/07/las-10-mejor-valoradas-ofertas-de-ventiladores-julio-2018|AZ_41CcDmQxJDL",

@@ -1,4 +1,5 @@
 Gr = [
+"Robots de Cocina, los 10 mejores del mercado: julio 2018|Las 10 más valoradas ofertas de Robots de Cocina: julio 2018|2018/07/robots-de-cocina-los-10-mejores-del-mercado-julio-2018|AZ_419ur5sqeaL",
 "El top 10 de los Ventiladores de Pie: julio 2018|Nuestra selección de los 10 Ventiladores de Pie mejor valorados|2018/07/el-top-10-de-los-ventiladores-de-pie-julio-2018|AZ_31-n6OCGkCL",
 "Los 10 Ventiladores de Sobremesa mejores a junio 2018|Los 10 más vendidos Ventiladores de Sobremesa del momento|2018/06/los-10-ventiladores-de-sobremesa-mejores-a-junio-2018|AZ_51OIBIFYajL",
 "El top 10 de los Hornos Microondas: marzo 2018|Los 10 más valorados Hornos Microondas del momento: marzo 2018|2018/03/el-top-10-de-los-hornos-microondas-marzo-2018|AZ_41KgVTagwkL",
