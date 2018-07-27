@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
 "Die 10 Bestseller in Leggings: Juli 2018|10 Bestseller in Leggings zum Kaufen: Juli 2018|2018/07/die-10-bestseller-in-leggings-juli-2018|AZ_41trLV-xtcL",
 "10 besten Mädchenschmuck: Juli 2018|10 beliebtesten Artikel in Mädchenschmuck zum Kaufen: Juli 2018|2018/07/10-besten-madchenschmuck-juli-2018|AZ_41ZtqynvwVL",
 "Top 10 besten Herrenuhren: Juni 2018|Top 10: die beliebtesten Artikel in Herrenuhren, Juni 2018|2018/06/top-10-besten-herrenuhren-juni-2018|AZ_51ux1qxHK+L",
