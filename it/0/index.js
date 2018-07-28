@@ -1,4 +1,5 @@
 Gr = [
+"Il meglio dei Caschi da Bici per Adulto: luglio 2018|Caschi da Bici per Adulto, i 10 più amati disponibili da subito|2018/07/il-meglio-dei-caschi-da-bici-per-adulto-luglio-2018|AZ_417CWalnGkL",
 "Le 10 Centrifughe che più piacciono: luglio 2018|La top 10 delle migliori Centrifughe in commercio a luglio 2018|2018/07/le-10-centrifughe-che-piu-piacciono-luglio-2018|AZ_31HyWwheEqL",
 "La top 10 delle migliori Macchine per Cubetti di Ghiaccio sul mercato a luglio 2018|Le 10 Macchine per Cubetti di Ghiaccio che più piacciono: la classifica|2018/07/la-top-10-delle-migliori-macchine-per-cubetti-di-ghiaccio-sul-mercato-a-luglio-2018|AZ_41XKiayzhYL",
 "Le 10 migliori T-Shirt Taglie Forti Uomo a luglio 2018|Le 10 T-Shirt Taglie Forti Uomo più interessanti da valutare: la classifica|2018/07/le-10-migliori-t-shirt-taglie-forti-uomo-a-luglio-2018|AZ_51igkqtf80L",
