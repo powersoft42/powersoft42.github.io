@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Milchaufschäumer: Juli 2018|Die 10 beliebtesten Artikel in Milchaufschäumer: Juli 2018|2018/07/top-10-besten-milchaufschaumer-juli-2018|AZ_41DfcF68yIL",
 "Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
 "Die 10 Bestseller in Leggings: Juli 2018|10 Bestseller in Leggings zum Kaufen: Juli 2018|2018/07/die-10-bestseller-in-leggings-juli-2018|AZ_41trLV-xtcL",
 "Top 10 besten Kosmetikkoffer: Juli 2018|10 besten in Kosmetikkoffer im Vergleich: Juli 2018|2018/07/top-10-besten-kosmetikkoffer-juli-2018|AZ_41Bz-mn3aeL",
