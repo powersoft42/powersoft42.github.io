@@ -1,4 +1,5 @@
 Gr = [
+"10 besten Tastaturen im Vergleich: Juli 2018|10 besten in Tastaturen zum Kaufen: Juli 2018|2018/07/10-besten-tastaturen-im-vergleich-juli-2018|AZ_41FlHXpnzUL",
 "Top 10 besten in Gaming Notebooks: Juli 2018|Top 10: die 10 beliebtesten Artikel in Gaming Notebooks, Juli 2018|2018/07/top-10-besten-in-gaming-notebooks-juli-2018|AZ_41u9j3WwiyL",
 "10 besten Notebooks im Vergleich: Juli 2018|Top 10 beliebtesten Artikel in Notebooks: Juli 2018|2018/07/10-besten-notebooks-im-vergleich-juli-2018|AZ_41ASL8fcMTL",
 "Top 10 besten USB-Ventilatoren: Juli 2018|10 besten USB-Ventilatoren zum Kaufen: Juli 2018|2018/07/top-10-besten-usb-ventilatoren-juli-2018|AZ_510K7z-0AUL",
