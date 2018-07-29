@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Electronic Keyboards buyers guide of July 2018|Electronic Keyboards, top best 10 you may want to consider: July 2018|2018/07/best-selling-10-electronic-keyboards-buyers-guide-of-july-2018|AZ_41BxlnONl6L",
 "Buying guide: top 10 Dj Mixers of July 2018|Top best 10 Dj Mixers available right now: July 2018|2018/07/buying-guide-top-10-dj-mixers-of-july-2018|AZ_51IEP4taWcL",
 "Most popular 10 Portable Speakers: July 2018|Best-selling 10 Portable Speakers buyers guide of July 2018|2018/07/most-popular-10-portable-speakers-july-2018|AZ_51kkbyAxuTL",
 "Top 10 Karaoke Machines available to buy right now: June 2018|Top best 10 Karaoke Machines you may want to check out: June 2018|2018/06/top-10-karaoke-machines-available-to-buy-right-now-june-2018|AZ_41D0VRLwyAL",
