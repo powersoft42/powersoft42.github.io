@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Mocassini da Donna valutati a agosto 2018|La top 10 dei migliori Mocassini da Donna oggi sul mercato|2018/08/la-top-10-dei-migliori-mocassini-da-donna-valutati-a-agosto-2018|AZ_41G4Hh72GVL",
 "Il meglio dei Caschi da Bici per Adulto: luglio 2018|Caschi da Bici per Adulto, i 10 più amati disponibili da subito|2018/07/il-meglio-dei-caschi-da-bici-per-adulto-luglio-2018|AZ_417CWalnGkL",
 "Le 10 Centrifughe che più piacciono: luglio 2018|La top 10 delle migliori Centrifughe in commercio a luglio 2018|2018/07/le-10-centrifughe-che-piu-piacciono-luglio-2018|AZ_31HyWwheEqL",
 "La top 10 delle migliori Macchine per Cubetti di Ghiaccio sul mercato a luglio 2018|Le 10 Macchine per Cubetti di Ghiaccio che più piacciono: la classifica|2018/07/la-top-10-delle-migliori-macchine-per-cubetti-di-ghiaccio-sul-mercato-a-luglio-2018|AZ_41XKiayzhYL",
