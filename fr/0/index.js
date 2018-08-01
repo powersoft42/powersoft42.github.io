@@ -1,4 +1,5 @@
 Gr = [
+"Canapés, les 10 meilleurs: août 2018|Guide d'achat: les 10 meilleurs Canapés du moment: août 2018|2018/08/canapes-les-10-meilleurs-aout-2018|AZ_41thxm9JZhL",
 "Les 10 meilleures Compacts Hybrides de juillet 2018|Notre sélection des 10 meilleures Compacts Hybrides du moment|2018/07/les-10-meilleures-compacts-hybrides-de-juillet-2018|AZ_41s6-eGzFzL",
 "Le top 10 des meilleures Cuisinières à Gaz du moment: juillet 2018|Notre sélection des 10 meilleures Cuisinières à Gaz de juillet 2018|2018/07/le-top-10-des-meilleures-cuisinieres-a-gaz-du-moment-juillet-2018|AZ_31rJE0AghuL",
 "Les 10 meilleurs Rasoirs Électriques pour Femme de juillet 2018|Notre sélection des 10 meilleurs Rasoirs Électriques pour Femme|2018/07/les-10-meilleurs-rasoirs-electriques-pour-femme-de-juillet-2018|AZ_41XQL+jKsUL",
