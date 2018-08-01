@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Impresoras 3D a agosto 2018|Las 10 Impresoras 3D más valoradas a agosto 2018|2018/08/top-10-impresoras-3d-a-agosto-2018|AZ_41d5oEktWkL",
 "Top 10 Portátiles a julio 2018|Las 10 más valoradas ofertas de Portátiles: julio 2018|2018/07/top-10-portatiles-a-julio-2018|AZ_41jX+nHa2jL",
 "Las 10 Sillas de Oficina mejores a julio 2018|Las 10 mejor valoradas ofertas de Sillas de Oficina: julio 2018|2018/07/las-10-sillas-de-oficina-mejores-a-julio-2018|AZ_411tc5SM1hL",
 "La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
