@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 Bestseller in Ablufttrockner: August 2018|Top 10 beliebtesten Artikel in Ablufttrockner: August 2018|2018/08/die-10-bestseller-in-ablufttrockner-august-2018|AZ_51iFiobH+6L",
 "10 besten Slipper und Mokassins für Herren zum Kaufen: August 2018|Die 10 beliebtesten Artikel in Slipper und Mokassins für Herren|2018/08/10-besten-slipper-und-mokassins-fur-herren-zum-kaufen-august-2018|AZ_31Ua4+1HneL",
 "10 besten Tastaturen im Vergleich: Juli 2018|10 besten in Tastaturen zum Kaufen: Juli 2018|2018/07/10-besten-tastaturen-im-vergleich-juli-2018|AZ_41FlHXpnzUL",
 "Top 10 besten Milchaufschäumer: Juli 2018|Die 10 beliebtesten Artikel in Milchaufschäumer: Juli 2018|2018/07/top-10-besten-milchaufschaumer-juli-2018|AZ_41DfcF68yIL",
