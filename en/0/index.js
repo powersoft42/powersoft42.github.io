@@ -1,4 +1,5 @@
 Gr = [
+"Top best 10 Panini Presses of August 2018: buying guide|Buying guide: the best 10 Panini Presses of August 2018|2018/08/top-best-10-panini-presses-of-august-2018-buying-guide|AZ_416CYHZKNIL",
 "Top 10 Grill and Oven Microwaves of August 2018|Best-selling 10 Grill and Oven Microwaves available to buy right now|2018/08/top-10-grill-and-oven-microwaves-of-august-2018|AZ_313nEgWeEYL",
 "Best-selling 10 Electronic Keyboards buyers guide of July 2018|Electronic Keyboards, top best 10 you may want to consider: July 2018|2018/07/best-selling-10-electronic-keyboards-buyers-guide-of-july-2018|AZ_41BxlnONl6L",
 "Most popular 10 Women's Trimmers: July 2018|The best 10 Women's Trimmers of July 2018: buying guide|2018/07/most-popular-10-women-s-trimmers-july-2018|AZ_31u-VHyr7zL",
