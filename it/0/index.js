@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Portafogli da Uomo venduti a agosto 2018|I 10 Portafogli da Uomo che vanno di più: la guida all'acquisto|2018/08/la-top-10-dei-migliori-portafogli-da-uomo-venduti-a-agosto-2018|AZ_61TtMSWoowL",
 "Il meglio delle T-Shirt Running Donna: agosto 2018|T-Shirt Running Donna, le 10 più gettonate subito disponibili|2018/08/il-meglio-delle-t-shirt-running-donna-agosto-2018|AZ_41kaan6ZqQL",
 "La top 10 dei migliori Mocassini da Donna valutati a agosto 2018|La top 10 dei migliori Mocassini da Donna oggi sul mercato|2018/08/la-top-10-dei-migliori-mocassini-da-donna-valutati-a-agosto-2018|AZ_41G4Hh72GVL",
 "Il meglio dei Caschi da Bici per Adulto: luglio 2018|Caschi da Bici per Adulto, i 10 più amati disponibili da subito|2018/07/il-meglio-dei-caschi-da-bici-per-adulto-luglio-2018|AZ_417CWalnGkL",
