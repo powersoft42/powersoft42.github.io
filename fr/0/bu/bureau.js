@@ -1,4 +1,5 @@
 Gr = [
+"Sacs Portés Main femme, les 10 meilleurs: août 2018|Notre sélection des 10 meilleurs Sacs Portés Main femme du moment|2018/08/sacs-portes-main-femme-les-10-meilleurs-aout-2018|AZ_515AB8gSrbL",
 "Les 10 meilleurs Scanners de Diapositives du moment: août 2018|Guide d'achat: les 10 meilleurs Scanners de Diapositives du moment|2018/08/les-10-meilleurs-scanners-de-diapositives-du-moment-aout-2018|AZ_41Zp8s4JzIL",
 "Canapés, les 10 meilleurs: août 2018|Guide d'achat: les 10 meilleurs Canapés du moment: août 2018|2018/08/canapes-les-10-meilleurs-aout-2018|AZ_41thxm9JZhL",
 "Découvrez les 10 meilleurs Ordinateurs Portables de juillet 2018|Notre sélection des 10 meilleurs Ordinateurs Portables de juillet 2018|2018/07/decouvrez-les-10-meilleurs-ordinateurs-portables-de-juillet-2018|AZ_31I6Zh47eeL",
