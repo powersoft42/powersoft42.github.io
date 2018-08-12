@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 Consolas para DJ mejor valoradas del mercado: agosto 2018|La lista con las 10 Consolas para DJ mejor valoradas a agosto 2018|2018/08/las-10-consolas-para-dj-mejor-valoradas-del-mercado-agosto-2018|AZ_41BxDcwFgpL",
 "Las 10 Bolsos para Mujer más vendidas: agosto 2018|La lista con los 10 Bolsos para Mujer mejor valorados a agosto 2018|2018/08/las-10-bolsos-para-mujer-mas-vendidas-agosto-2018|AZ_5180dCo5OOL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
 "Top 10 Impresoras 3D a agosto 2018|Las 10 Impresoras 3D más valoradas a agosto 2018|2018/08/top-10-impresoras-3d-a-agosto-2018|AZ_41d5oEktWkL",

@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 Consolas para DJ mejor valoradas del mercado: agosto 2018|La lista con las 10 Consolas para DJ mejor valoradas a agosto 2018|2018/08/las-10-consolas-para-dj-mejor-valoradas-del-mercado-agosto-2018|AZ_41BxDcwFgpL",
 "Los 10 Teclados Electrónicos más vendidos a julio 2018|Los 10 mejores Teclados Electrónicos que puedes comprar ahora mismo|2018/07/los-10-teclados-electronicos-mas-vendidos-a-julio-2018|AZ_41aEBVTo8+L",
 "La lista con los 10 Discos Duros Externos mejores a julio 2018|Los 10 más vendidos Discos Duros Externos que puedes comprar|2018/07/la-lista-con-los-10-discos-duros-externos-mejores-a-julio-2018|AZ_41W-ub5ikSL",
 "Las 10 Videocámaras de Acción más vendidas: julio 2018|Las 10 mejores Videocámaras de Acción que puedes comprar|2018/07/las-10-videocamaras-de-accion-mas-vendidas-julio-2018|AZ_51s4zRP2YAL",
