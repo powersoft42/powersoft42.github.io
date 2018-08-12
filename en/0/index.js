@@ -1,4 +1,5 @@
 Gr = [
+"Most popular 10 Reading Glasses: August 2018|Top best 10 Reading Glasses of August 2018: buying guide|2018/08/most-popular-10-reading-glasses-august-2018|AZ_41YmqE25d0L",
 "Top best 10 Lawn Mowers of August 2018: buying guide|Buying guide: most popular 10 Lawn Mowers of August 2018|2018/08/top-best-10-lawn-mowers-of-august-2018-buying-guide|AZ_4154PCC8BYL",
 "Top best 10 Panini Presses of August 2018: buying guide|Buying guide: the best 10 Panini Presses of August 2018|2018/08/top-best-10-panini-presses-of-august-2018-buying-guide|AZ_416CYHZKNIL",
 "Top 10 Grill and Oven Microwaves of August 2018|Best-selling 10 Grill and Oven Microwaves available to buy right now|2018/08/top-10-grill-and-oven-microwaves-of-august-2018|AZ_313nEgWeEYL",

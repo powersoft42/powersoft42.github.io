@@ -1,4 +1,5 @@
 Gr = [
+"Most popular 10 Reading Glasses: August 2018|Top best 10 Reading Glasses of August 2018: buying guide|2018/08/most-popular-10-reading-glasses-august-2018|AZ_41YmqE25d0L",
 "The best 10 Men's Sunglasses of July 2018|The very best 10 Men's Sunglasses buyers guide of July 2018|2018/07/the-best-10-men-s-sunglasses-of-july-2018|AZ_31vAoYQ4cqL",
 "The best 10 Summer Skirts of July 2018: buying guide|Our pick of the best 10 Summer Skirts of July 2018|2018/07/the-best-10-summer-skirts-of-july-2018-buying-guide|AZ_41fNMUWYWGL",
 "Top 10 Epilators: July 2018|Buying guide: the very best 10 Epilators of July 2018|2018/07/top-10-epilators-july-2018|AZ_41aAM-EXcQL",
