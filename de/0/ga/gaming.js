@@ -1,4 +1,5 @@
 Gr = [
+"10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
 "Top 10 besten in Gaming Notebooks: Juli 2018|Top 10: die 10 beliebtesten Artikel in Gaming Notebooks, Juli 2018|2018/07/top-10-besten-in-gaming-notebooks-juli-2018|AZ_41u9j3WwiyL",
 "Top 10 besten USB-Ventilatoren: Juli 2018|10 besten USB-Ventilatoren zum Kaufen: Juli 2018|2018/07/top-10-besten-usb-ventilatoren-juli-2018|AZ_510K7z-0AUL",
 "Top 10 Bestseller in Gaming Notebooks: Juni 2018|Top 10: die beliebtesten Artikel in Gaming Notebooks, Juni 2018|2018/06/top-10-bestseller-in-gaming-notebooks-juni-2018|AZ_41NJWHWdIGL",

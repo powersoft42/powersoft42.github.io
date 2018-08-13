@@ -1,4 +1,5 @@
 Gr = [
+"10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
 "Top 10 Bestseller in Tintenstrahldrucker: August 2018|10 Bestseller in Tintenstrahldrucker im Vergleich: August 2018|2018/08/top-10-bestseller-in-tintenstrahldrucker-august-2018|AZ_4138KlV5DuL",
 "Top 10: die besten in Damendüfte, August 2018|10 beliebtesten Artikel in Damendüfte im Vergleich: August 2018|2018/08/top-10-die-besten-in-damendufte-august-2018|AZ_41zNLkD9GKL",
 "Die 10 Bestseller in Ablufttrockner: August 2018|Top 10 beliebtesten Artikel in Ablufttrockner: August 2018|2018/08/die-10-bestseller-in-ablufttrockner-august-2018|AZ_51iFiobH+6L",
