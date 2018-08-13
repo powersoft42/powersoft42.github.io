@@ -1,4 +1,5 @@
 Gr = [
+"Cámaras de Vigilancia, las 10 más vendidas del mercado: agosto 2018|Nuestra selección de las 10 Cámaras de Vigilancia mejores|2018/08/camaras-de-vigilancia-las-10-mas-vendidas-del-mercado-agosto-2018|AZ_41VDpWeSZTL",
 "Las 10 Consolas para DJ mejor valoradas del mercado: agosto 2018|La lista con las 10 Consolas para DJ mejor valoradas a agosto 2018|2018/08/las-10-consolas-para-dj-mejor-valoradas-del-mercado-agosto-2018|AZ_41BxDcwFgpL",
 "Las 10 Bolsos para Mujer más vendidas: agosto 2018|La lista con los 10 Bolsos para Mujer mejor valorados a agosto 2018|2018/08/las-10-bolsos-para-mujer-mas-vendidas-agosto-2018|AZ_5180dCo5OOL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
