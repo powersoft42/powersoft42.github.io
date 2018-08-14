@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 beliebtesten Artikel in Damen-Stiefel: August 2018|Top 10: die 10 beliebtesten Artikel in Damen-Stiefel, August 2018|2018/08/die-10-beliebtesten-artikel-in-damen-stiefel-august-2018|AZ_51cOMxcgpWL",
 "Top 10: die besten in Damendüfte, August 2018|10 beliebtesten Artikel in Damendüfte im Vergleich: August 2018|2018/08/top-10-die-besten-in-damendufte-august-2018|AZ_41zNLkD9GKL",
 "Die 10 Bestseller in Leggings: Juli 2018|10 Bestseller in Leggings zum Kaufen: Juli 2018|2018/07/die-10-bestseller-in-leggings-juli-2018|AZ_41trLV-xtcL",
 "10 besten in Damen-Pumps zum Kaufen: Juli 2018|Top 10: die Bestseller in Damen-Pumps, Juli 2018|2018/07/10-besten-in-damen-pumps-zum-kaufen-juli-2018|AZ_51VocqobtGL",
