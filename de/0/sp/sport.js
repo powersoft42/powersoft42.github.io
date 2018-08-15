@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
 "10 besten Slipper und Mokassins für Herren zum Kaufen: August 2018|Die 10 beliebtesten Artikel in Slipper und Mokassins für Herren|2018/08/10-besten-slipper-und-mokassins-fur-herren-zum-kaufen-august-2018|AZ_31Ua4+1HneL",
 "10 besten in Trampoline zum Kaufen: Juli 2018|10 Bestseller in Trampoline im Vergleich: Juli 2018|2018/07/10-besten-in-trampoline-zum-kaufen-juli-2018|AZ_41oQWtGfDfL",
 "Top 10 besten Elektrofahrräder: Juli 2018|Die 10 besten in Elektrofahrräder: Juli 2018|2018/07/top-10-besten-elektrofahrrader-juli-2018|AZ_51zf5NPyzwL",

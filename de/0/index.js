@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
 "Die 10 beliebtesten Artikel in Damen-Stiefel: August 2018|Top 10: die 10 beliebtesten Artikel in Damen-Stiefel, August 2018|2018/08/die-10-beliebtesten-artikel-in-damen-stiefel-august-2018|AZ_51cOMxcgpWL",
 "10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
 "Top 10 Bestseller in Tintenstrahldrucker: August 2018|10 Bestseller in Tintenstrahldrucker im Vergleich: August 2018|2018/08/top-10-bestseller-in-tintenstrahldrucker-august-2018|AZ_4138KlV5DuL",
