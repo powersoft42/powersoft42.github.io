@@ -1,4 +1,5 @@
 Gr = [
+"La lista con los 10 Bolsos Bandolera para Hombre mejor valorados a agosto 2018|Los 10 más valorados Bolsos Bandolera para Hombre que puedes comprar|2018/08/la-lista-con-los-10-bolsos-bandolera-para-hombre-mejor-valorados-a-agosto-2018|AZ_51Dk3VyzZ8L",
 "Las 10 Bolsos para Mujer más vendidas: agosto 2018|La lista con los 10 Bolsos para Mujer mejor valorados a agosto 2018|2018/08/las-10-bolsos-para-mujer-mas-vendidas-agosto-2018|AZ_5180dCo5OOL",
 "Las 10 Zapatillas de Deporte para Hombre más valoradas a julio 2018|Las 10 más valoradas ofertas de Zapatillas de Deporte para Hombre|2018/07/las-10-zapatillas-de-deporte-para-hombre-mas-valoradas-a-julio-2018|AZ_41hNCzPBwSL",
 "Top 10 Pantalones para Hombre a julio 2018|Nuestra selección de los 10 Pantalones para Hombre más valorados|2018/07/top-10-pantalones-para-hombre-a-julio-2018|AZ_41BDta2RZeL",
