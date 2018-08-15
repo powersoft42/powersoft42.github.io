@@ -1,4 +1,5 @@
 Gr = [
+"Sistemi Antifurto per la Casa: i 10 migliori a agosto 2018|La top 10 dei migliori Sistemi Antifurto per la Casa|2018/08/sistemi-antifurto-per-la-casa-i-10-migliori-a-agosto-2018|AZ_31otEJ85ObL",
 "Il meglio dei Telecomandi per Cancello: agosto 2018|I 10 Telecomandi per Cancello più in voga: agosto 2018|2018/08/il-meglio-dei-telecomandi-per-cancello-agosto-2018|AZ_41TyGQIem5L",
 "Le 10 Centrifughe che più piacciono: luglio 2018|La top 10 delle migliori Centrifughe in commercio a luglio 2018|2018/07/le-10-centrifughe-che-piu-piacciono-luglio-2018|AZ_31HyWwheEqL",
 "La top 10 delle migliori Macchine per Cubetti di Ghiaccio sul mercato a luglio 2018|Le 10 Macchine per Cubetti di Ghiaccio che più piacciono: la classifica|2018/07/la-top-10-delle-migliori-macchine-per-cubetti-di-ghiaccio-sul-mercato-a-luglio-2018|AZ_41XKiayzhYL",
