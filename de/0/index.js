@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten Damen-Jeanshosen, August 2018|Top 10: die besten in Damen-Jeanshosen, August 2018|2018/08/die-10-besten-damen-jeanshosen-august-2018|AZ_410WfQsCqgL",
 "Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
 "Die 10 beliebtesten Artikel in Damen-Stiefel: August 2018|Top 10: die 10 beliebtesten Artikel in Damen-Stiefel, August 2018|2018/08/die-10-beliebtesten-artikel-in-damen-stiefel-august-2018|AZ_51cOMxcgpWL",
 "10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
