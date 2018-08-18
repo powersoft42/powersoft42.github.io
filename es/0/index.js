@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
 "La lista con los 10 Bolsos Bandolera para Hombre mejor valorados a agosto 2018|Los 10 más valorados Bolsos Bandolera para Hombre que puedes comprar|2018/08/la-lista-con-los-10-bolsos-bandolera-para-hombre-mejor-valorados-a-agosto-2018|AZ_51Dk3VyzZ8L",
 "Los 10 Proyectores mejores a agosto 2018|Proyectores, los 10 mejor valorados del mercado: agosto 2018|2018/08/los-10-proyectores-mejores-a-agosto-2018|AZ_51Vozq1-owL",
 "Cámaras de Vigilancia, las 10 más vendidas del mercado: agosto 2018|Nuestra selección de las 10 Cámaras de Vigilancia mejores|2018/08/camaras-de-vigilancia-las-10-mas-vendidas-del-mercado-agosto-2018|AZ_41VDpWeSZTL",

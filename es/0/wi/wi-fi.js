@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
 "Cámaras de Vigilancia, las 10 más vendidas del mercado: agosto 2018|Nuestra selección de las 10 Cámaras de Vigilancia mejores|2018/08/camaras-de-vigilancia-las-10-mas-vendidas-del-mercado-agosto-2018|AZ_41VDpWeSZTL",
 "Las 10 Videocámaras de Acción más vendidas: julio 2018|Las 10 mejores Videocámaras de Acción que puedes comprar|2018/07/las-10-videocamaras-de-accion-mas-vendidas-julio-2018|AZ_51s4zRP2YAL",
 "Drones, los 10 mejor valorados del mercado: julio 2018|Los 10 más valorados Drones que puedes comprar ahora mismo|2018/07/drones-los-10-mejor-valorados-del-mercado-julio-2018|AZ_31kd4fmepBL",
