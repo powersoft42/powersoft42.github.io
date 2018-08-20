@@ -1,4 +1,5 @@
 Gr = [
+"Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",
 "Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
 "La lista con los 10 Bolsos Bandolera para Hombre mejor valorados a agosto 2018|Los 10 más valorados Bolsos Bandolera para Hombre que puedes comprar|2018/08/la-lista-con-los-10-bolsos-bandolera-para-hombre-mejor-valorados-a-agosto-2018|AZ_51Dk3VyzZ8L",
 "Los 10 Proyectores mejores a agosto 2018|Proyectores, los 10 mejor valorados del mercado: agosto 2018|2018/08/los-10-proyectores-mejores-a-agosto-2018|AZ_51Vozq1-owL",

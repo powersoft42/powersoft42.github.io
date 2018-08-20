@@ -1,5 +1,6 @@
 Tt = "Electrónica";
 Gr = [
+"Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",
 "Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
 "Los 10 Proyectores mejores a agosto 2018|Proyectores, los 10 mejor valorados del mercado: agosto 2018|2018/08/los-10-proyectores-mejores-a-agosto-2018|AZ_51Vozq1-owL",
 "Cámaras de Vigilancia, las 10 más vendidas del mercado: agosto 2018|Nuestra selección de las 10 Cámaras de Vigilancia mejores|2018/08/camaras-de-vigilancia-las-10-mas-vendidas-del-mercado-agosto-2018|AZ_41VDpWeSZTL",
