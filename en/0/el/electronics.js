@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Gaming Desktop Computers buyers guide of August 2018|Best-selling 10 Gaming Desktop Computers of August 2018: buying guide|2018/08/top-10-gaming-desktop-computers-buyers-guide-of-august-2018|AZ_51vbyl5lssL",
 "The best 10 Upright Vacuums of August 2018: buying guide|Our pick of the best 10 Upright Vacuums of August 2018|2018/08/the-best-10-upright-vacuums-of-august-2018-buying-guide|AZ_31iHKUf2wZL",
 "The best 10 MP3 Players of August 2018|Best-selling 10 MP3 Players of August 2018: buying guide|2018/08/the-best-10-mp3-players-of-august-2018|AZ_41X3QNqo3fL",
 "Top 10 Grill and Oven Microwaves of August 2018|Best-selling 10 Grill and Oven Microwaves available to buy right now|2018/08/top-10-grill-and-oven-microwaves-of-august-2018|AZ_313nEgWeEYL",
