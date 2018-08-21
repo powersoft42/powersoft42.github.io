@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Portátiles para Gaming a agosto 2018|Portátiles para Gaming, los 10 más valorados: agosto 2018|2018/08/top-10-portatiles-para-gaming-a-agosto-2018|AZ_41A+0fhIX9L",
 "Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
 "Top 10 Impresoras 3D a agosto 2018|Las 10 Impresoras 3D más valoradas a agosto 2018|2018/08/top-10-impresoras-3d-a-agosto-2018|AZ_41d5oEktWkL",
