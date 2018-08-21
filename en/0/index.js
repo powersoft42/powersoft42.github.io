@@ -1,4 +1,5 @@
 Gr = [
+"Our pick of the best 10 Gaming Laptops of August 2018|Buying guide: top-rated 10 Gaming Laptops of August 2018|2018/08/our-pick-of-the-best-10-gaming-laptops-of-august-2018|AZ_51FKRA3Q1LL",
 "Top 10 Gaming Desktop Computers buyers guide of August 2018|Best-selling 10 Gaming Desktop Computers of August 2018: buying guide|2018/08/top-10-gaming-desktop-computers-buyers-guide-of-august-2018|AZ_51vbyl5lssL",
 "The best 10 Upright Vacuums of August 2018: buying guide|Our pick of the best 10 Upright Vacuums of August 2018|2018/08/the-best-10-upright-vacuums-of-august-2018-buying-guide|AZ_31iHKUf2wZL",
 "Top 10 Electric Griddles you need to consider: August 2018|Our pick of the best 10 Electric Griddles of August 2018: buying guide|2018/08/top-10-electric-griddles-you-need-to-consider-august-2018|AZ_41LQlEJVjxL",
