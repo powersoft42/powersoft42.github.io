@@ -1,4 +1,5 @@
 Gr = [
+"Ordinateurs Portables Gamer, les 10 meilleurs: août 2018|Top 10 des meilleurs Ordinateurs Portables Gamer de août 2018|2018/08/ordinateurs-portables-gamer-les-10-meilleurs-aout-2018|AZ_41C989rwuxL",
 "Le top 10 des meilleurs PC Gamer de août 2018|Top 10 des meilleurs PC Gamer du moment: août 2018|2018/08/le-top-10-des-meilleurs-pc-gamer-de-aout-2018|AZ_512QvHkOeFL",
 "Souris Gaming, les 10 meilleures: août 2018|Guide d'achat: les 10 meilleures Souris Gaming de août 2018|2018/08/souris-gaming-les-10-meilleures-aout-2018|AZ_41HnXlM0i-L",
 "Les 10 meilleurs Scanners de Diapositives du moment: août 2018|Guide d'achat: les 10 meilleurs Scanners de Diapositives du moment|2018/08/les-10-meilleurs-scanners-de-diapositives-du-moment-aout-2018|AZ_41Zp8s4JzIL",

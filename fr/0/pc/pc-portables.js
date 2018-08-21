@@ -1,4 +1,5 @@
 Gr = [
+"Ordinateurs Portables Gamer, les 10 meilleurs: août 2018|Top 10 des meilleurs Ordinateurs Portables Gamer de août 2018|2018/08/ordinateurs-portables-gamer-les-10-meilleurs-aout-2018|AZ_41C989rwuxL",
 "Souris Gaming, les 10 meilleures: août 2018|Guide d'achat: les 10 meilleures Souris Gaming de août 2018|2018/08/souris-gaming-les-10-meilleures-aout-2018|AZ_41HnXlM0i-L",
 "Sacs Portés Main femme, les 10 meilleurs: août 2018|Notre sélection des 10 meilleurs Sacs Portés Main femme du moment|2018/08/sacs-portes-main-femme-les-10-meilleurs-aout-2018|AZ_515AB8gSrbL",
 "Découvrez les 10 meilleurs PC Portables Gamer de juillet 2018|Guide d'achat: les 10 meilleurs PC Portables Gamer de juillet 2018|2018/07/decouvrez-les-10-meilleurs-pc-portables-gamer-de-juillet-2018|AZ_3157lbw-BzL",
