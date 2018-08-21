@@ -1,4 +1,5 @@
 Gr = [
+"10 besten Gaming Notebooks zum Kaufen: August 2018|Top 10: die 10 besten Gaming Notebooks, August 2018|2018/08/10-besten-gaming-notebooks-zum-kaufen-august-2018|AZ_419YKI2IjLL",
 "Die 10 besten Gaming-PCs: August 2018|Top 10: die besten in Gaming-PCs, August 2018|2018/08/die-10-besten-gaming-pcs-august-2018|AZ_41kz3DgZ7ML",
 "Top 10 Bestseller in Tintenstrahldrucker: August 2018|10 Bestseller in Tintenstrahldrucker im Vergleich: August 2018|2018/08/top-10-bestseller-in-tintenstrahldrucker-august-2018|AZ_4138KlV5DuL",
 "10 besten Tastaturen im Vergleich: Juli 2018|10 besten in Tastaturen zum Kaufen: Juli 2018|2018/07/10-besten-tastaturen-im-vergleich-juli-2018|AZ_41FlHXpnzUL",

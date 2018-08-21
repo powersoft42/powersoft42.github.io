@@ -1,4 +1,5 @@
 Gr = [
+"10 besten Gaming Notebooks zum Kaufen: August 2018|Top 10: die 10 besten Gaming Notebooks, August 2018|2018/08/10-besten-gaming-notebooks-zum-kaufen-august-2018|AZ_419YKI2IjLL",
 "Die 10 besten Gaming-PCs: August 2018|Top 10: die besten in Gaming-PCs, August 2018|2018/08/die-10-besten-gaming-pcs-august-2018|AZ_41kz3DgZ7ML",
 "10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
 "Top 10 besten in Gaming Notebooks: Juli 2018|Top 10: die 10 beliebtesten Artikel in Gaming Notebooks, Juli 2018|2018/07/top-10-besten-in-gaming-notebooks-juli-2018|AZ_41u9j3WwiyL",
