@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Espadrilles für Herren, August 2018|Top 10: die beliebtesten Artikel in Espadrilles für Herren, August 2018|2018/08/top-10-espadrilles-fur-herren-august-2018|AZ_41btfjp1O9L",
 "10 besten Slipper und Mokassins für Herren zum Kaufen: August 2018|Die 10 beliebtesten Artikel in Slipper und Mokassins für Herren|2018/08/10-besten-slipper-und-mokassins-fur-herren-zum-kaufen-august-2018|AZ_31Ua4+1HneL",
 "Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
 "Top 10 besten in Herren-Bademode: Juli 2018|Top 10: die beliebtesten Artikel in Herren-Bademode, Juli 2018|2018/07/top-10-besten-in-herren-bademode-juli-2018|AZ_51rcEfgRFhL",
