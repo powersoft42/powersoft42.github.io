@@ -1,4 +1,5 @@
 Gr = [
+"The very best 10 Men's Trousers: August 2018|The very best 10 Men's Trousers of August 2018: buying guide|2018/08/the-very-best-10-men-s-trousers-august-2018|AZ_414Qg2934vL",
 "The very best 10 Boys' Sunglasses of August 2018: buying guide|Boys' Sunglasses, best-selling 10 available right now: August 2018|2018/08/the-very-best-10-boys-sunglasses-of-august-2018-buying-guide|AZ_41dP3SfLImL",
 "The best 10 Men's Sunglasses of July 2018|The very best 10 Men's Sunglasses buyers guide of July 2018|2018/07/the-best-10-men-s-sunglasses-of-july-2018|AZ_31vAoYQ4cqL",
 "The best 10 Summer Skirts of July 2018: buying guide|Our pick of the best 10 Summer Skirts of July 2018|2018/07/the-best-10-summer-skirts-of-july-2018-buying-guide|AZ_41fNMUWYWGL",
