@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Pareo da Mare: agosto 2018|La top 10 dei migliori Pareo da Mare venduti a agosto 2018|2018/08/la-top-10-dei-migliori-pareo-da-mare-agosto-2018|AZ_41F23rx8eZL",
 "La top 10 dei migliori Accappatoi da Uomo: agosto 2018|I 10 Accappatoi da Uomo che piacciono di più oggi sul mercato|2018/08/la-top-10-dei-migliori-accappatoi-da-uomo-agosto-2018|AZ_41Tk7qJj67L",
 "Il meglio delle T-Shirt Running Donna: agosto 2018|T-Shirt Running Donna, le 10 più gettonate subito disponibili|2018/08/il-meglio-delle-t-shirt-running-donna-agosto-2018|AZ_41kaan6ZqQL",
 "La top 10 dei migliori Mocassini da Donna valutati a agosto 2018|La top 10 dei migliori Mocassini da Donna oggi sul mercato|2018/08/la-top-10-dei-migliori-mocassini-da-donna-valutati-a-agosto-2018|AZ_41G4Hh72GVL",
