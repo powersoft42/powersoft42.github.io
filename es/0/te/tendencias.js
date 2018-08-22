@@ -1,4 +1,5 @@
 Gr = [
+"La lista con los 10 Juegos de Maletas más valorados a agosto 2018|Los 10 mejores Juegos de Maletas que puedes comprar ahora mismo|2018/08/la-lista-con-los-10-juegos-de-maletas-mas-valorados-a-agosto-2018|AZ_41uZ4-J+NVL",
 "La lista con los 10 Bolsos Bandolera para Hombre mejor valorados a agosto 2018|Los 10 más valorados Bolsos Bandolera para Hombre que puedes comprar|2018/08/la-lista-con-los-10-bolsos-bandolera-para-hombre-mejor-valorados-a-agosto-2018|AZ_51Dk3VyzZ8L",
 "Las 10 Bolsos para Mujer más vendidas: agosto 2018|La lista con los 10 Bolsos para Mujer mejor valorados a agosto 2018|2018/08/las-10-bolsos-para-mujer-mas-vendidas-agosto-2018|AZ_5180dCo5OOL",
 "Las 10 Zapatillas de Deporte para Hombre más valoradas a julio 2018|Las 10 más valoradas ofertas de Zapatillas de Deporte para Hombre|2018/07/las-10-zapatillas-de-deporte-para-hombre-mas-valoradas-a-julio-2018|AZ_41hNCzPBwSL",

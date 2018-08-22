@@ -1,4 +1,5 @@
 Gr = [
+"La lista con los 10 Juegos de Maletas más valorados a agosto 2018|Los 10 mejores Juegos de Maletas que puedes comprar ahora mismo|2018/08/la-lista-con-los-10-juegos-de-maletas-mas-valorados-a-agosto-2018|AZ_41uZ4-J+NVL",
 "Top 10 Portátiles para Gaming a agosto 2018|Portátiles para Gaming, los 10 más valorados: agosto 2018|2018/08/top-10-portatiles-para-gaming-a-agosto-2018|AZ_41A+0fhIX9L",
 "Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",
 "Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
