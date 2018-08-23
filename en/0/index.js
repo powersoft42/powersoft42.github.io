@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Suitcases of August 2018|Suitcases, top 10 available right now: August 2018|2018/08/the-best-10-suitcases-of-august-2018|AZ_41GLegad4GL",
 "The very best 10 Men's Trousers: August 2018|The very best 10 Men's Trousers of August 2018: buying guide|2018/08/the-very-best-10-men-s-trousers-august-2018|AZ_414Qg2934vL",
 "Our pick of the best 10 Gaming Laptops of August 2018|Buying guide: top-rated 10 Gaming Laptops of August 2018|2018/08/our-pick-of-the-best-10-gaming-laptops-of-august-2018|AZ_51FKRA3Q1LL",
 "Top 10 Gaming Desktop Computers buyers guide of August 2018|Best-selling 10 Gaming Desktop Computers of August 2018: buying guide|2018/08/top-10-gaming-desktop-computers-buyers-guide-of-august-2018|AZ_51vbyl5lssL",
