@@ -1,4 +1,5 @@
 Gr = [
+"Caraffe Filtranti, le 10 più in voga subito disponibili: agosto 2018|La top 10 delle migliori Caraffe Filtranti ora sul mercato|2018/08/caraffe-filtranti-le-10-piu-in-voga-subito-disponibili-agosto-2018|AZ_51WeCB7GsxL",
 "I 10 Trapani Avvitatori migliori: la classifica di agosto 2018|La top 10 dei migliori Trapani Avvitatori sul mercato a agosto 2018|2018/08/i-10-trapani-avvitatori-migliori-la-classifica-di-agosto-2018|AZ_51KKPGTKLQL",
 "Sistemi Antifurto per la Casa: i 10 migliori a agosto 2018|La top 10 dei migliori Sistemi Antifurto per la Casa|2018/08/sistemi-antifurto-per-la-casa-i-10-migliori-a-agosto-2018|AZ_31otEJ85ObL",
 "Il meglio dei Telecomandi per Cancello: agosto 2018|I 10 Telecomandi per Cancello più in voga: agosto 2018|2018/08/il-meglio-dei-telecomandi-per-cancello-agosto-2018|AZ_41TyGQIem5L",

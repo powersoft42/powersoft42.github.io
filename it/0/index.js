@@ -1,4 +1,5 @@
 Gr = [
+"Caraffe Filtranti, le 10 più in voga subito disponibili: agosto 2018|La top 10 delle migliori Caraffe Filtranti ora sul mercato|2018/08/caraffe-filtranti-le-10-piu-in-voga-subito-disponibili-agosto-2018|AZ_51WeCB7GsxL",
 "Il meglio dei Beauty Case da Viaggio: agosto 2018|I 10 Beauty Case da Viaggio più interessanti da valutare: la classifica|2018/08/il-meglio-dei-beauty-case-da-viaggio-agosto-2018|AZ_51aIvKZmtLL",
 "La top 10 dei migliori Pareo da Mare: agosto 2018|La top 10 dei migliori Pareo da Mare venduti a agosto 2018|2018/08/la-top-10-dei-migliori-pareo-da-mare-agosto-2018|AZ_41F23rx8eZL",
 "I 10 PC Portatili per Giocare più acquistati: agosto 2018|PC Portatili per Giocare, i 10 più consigliati disponibili da subito|2018/08/i-10-pc-portatili-per-giocare-piu-acquistati-agosto-2018|AZ_41m0H0HiacL",
