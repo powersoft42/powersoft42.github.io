@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
 "10 besten in Schreibtischstühle im Vergleich: August 2018|10 Bestseller in Schreibtischstühle zum Kaufen: August 2018|2018/08/10-besten-in-schreibtischstuhle-im-vergleich-august-2018|AZ_41eQUn9PWpL",
 "Top 10 besten Milchaufschäumer: Juli 2018|Die 10 beliebtesten Artikel in Milchaufschäumer: Juli 2018|2018/07/top-10-besten-milchaufschaumer-juli-2018|AZ_41DfcF68yIL",
 "Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",

@@ -1,5 +1,6 @@
 Tt = "Küche";
 Gr = [
+"Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
 "Top 10 besten Milchaufschäumer: Juli 2018|Die 10 beliebtesten Artikel in Milchaufschäumer: Juli 2018|2018/07/top-10-besten-milchaufschaumer-juli-2018|AZ_41DfcF68yIL",
 "Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",
 "Top 10 besten in Teebereiter: Juli 2018|Top 10: die 10 Bestseller in Teebereiter, Juli 2018|2018/07/top-10-besten-in-teebereiter-juli-2018|AZ_41DdPPmmA2L",

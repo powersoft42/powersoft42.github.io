@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
 "Top 10 Bestseller in Fotodrucker: August 2018|10 Bestseller in Fotodrucker zum Kaufen: August 2018|2018/08/top-10-bestseller-in-fotodrucker-august-2018|AZ_41AWJrXPsUL",
 "Top 10 Espadrilles für Herren, August 2018|Top 10: die beliebtesten Artikel in Espadrilles für Herren, August 2018|2018/08/top-10-espadrilles-fur-herren-august-2018|AZ_41btfjp1O9L",
 "10 besten Gaming Notebooks zum Kaufen: August 2018|Top 10: die 10 besten Gaming Notebooks, August 2018|2018/08/10-besten-gaming-notebooks-zum-kaufen-august-2018|AZ_419YKI2IjLL",
