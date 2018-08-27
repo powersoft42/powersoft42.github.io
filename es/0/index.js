@@ -1,4 +1,5 @@
 Gr = [
+"Camisetas para Hombre, las 10 más valoradas: agosto 2018|Las 10 mejores Camisetas para Hombre del momento: agosto 2018|2018/08/camisetas-para-hombre-las-10-mas-valoradas-agosto-2018|AZ_315xZ0mnG0L",
 "Las 10 mejores ofertas de Teclados: agosto 2018|Nuestra selección de los 10 Teclados más vendidos a agosto 2018|2018/08/las-10-mejores-ofertas-de-teclados-agosto-2018|AZ_51+JnH-NFBL",
 "El top 10 de las Planchas Para el Pelo: agosto 2018|Las 10 mejores Planchas Para el Pelo que puedes comprar ahora mismo|2018/08/el-top-10-de-las-planchas-para-el-pelo-agosto-2018|AZ_31yY---GJ-L",
 "La lista con los 10 Juegos de Maletas más valorados a agosto 2018|Los 10 mejores Juegos de Maletas que puedes comprar ahora mismo|2018/08/la-lista-con-los-10-juegos-de-maletas-mas-valorados-a-agosto-2018|AZ_41uZ4-J+NVL",
