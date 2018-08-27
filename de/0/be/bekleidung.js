@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Sportjacken für Damen: August 2018|10 beliebtesten Artikel in Sportjacken für Damen im Vergleich|2018/08/top-10-besten-sportjacken-fur-damen-august-2018|AZ_41UhCG1vqCL",
 "Die 10 besten Damen-Jeanshosen, August 2018|Top 10: die besten in Damen-Jeanshosen, August 2018|2018/08/die-10-besten-damen-jeanshosen-august-2018|AZ_410WfQsCqgL",
 "Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
 "Die 10 Bestseller in Leggings: Juli 2018|10 Bestseller in Leggings zum Kaufen: Juli 2018|2018/07/die-10-bestseller-in-leggings-juli-2018|AZ_41trLV-xtcL",

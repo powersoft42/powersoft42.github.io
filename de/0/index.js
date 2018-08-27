@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Sportjacken für Damen: August 2018|10 beliebtesten Artikel in Sportjacken für Damen im Vergleich|2018/08/top-10-besten-sportjacken-fur-damen-august-2018|AZ_41UhCG1vqCL",
 "Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
 "Top 10 Bestseller in Fotodrucker: August 2018|10 Bestseller in Fotodrucker zum Kaufen: August 2018|2018/08/top-10-bestseller-in-fotodrucker-august-2018|AZ_41AWJrXPsUL",
 "Top 10 Espadrilles für Herren, August 2018|Top 10: die beliebtesten Artikel in Espadrilles für Herren, August 2018|2018/08/top-10-espadrilles-fur-herren-august-2018|AZ_41btfjp1O9L",
