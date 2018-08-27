@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 steam cleaners of August 2018|Steam cleaners, top-rated 10 to consider: August 2018|2018/08/the-best-10-steam-cleaners-of-august-2018|AZ_51ul981eBNL",
 "10 best-selling Hand Luggage to check out: August 2018|Buying guide: best-selling 10 Hand Luggage of August 2018|2018/08/10-best-selling-hand-luggage-to-check-out-august-2018|AZ_41ETFeEKLGL",
 "The best 10 Suitcases of August 2018|Suitcases, top 10 available right now: August 2018|2018/08/the-best-10-suitcases-of-august-2018|AZ_41GLegad4GL",
 "The very best 10 Men's Trousers: August 2018|The very best 10 Men's Trousers of August 2018: buying guide|2018/08/the-very-best-10-men-s-trousers-august-2018|AZ_414Qg2934vL",

@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 steam cleaners of August 2018|Steam cleaners, top-rated 10 to consider: August 2018|2018/08/the-best-10-steam-cleaners-of-august-2018|AZ_51ul981eBNL",
 "The best 10 Upright Vacuums of August 2018: buying guide|Our pick of the best 10 Upright Vacuums of August 2018|2018/08/the-best-10-upright-vacuums-of-august-2018-buying-guide|AZ_31iHKUf2wZL",
 "Top 10 Grill and Oven Microwaves of August 2018|Best-selling 10 Grill and Oven Microwaves available to buy right now|2018/08/top-10-grill-and-oven-microwaves-of-august-2018|AZ_313nEgWeEYL",
 "The best 10 Chest Freezers of July 2018|Chest Freezers, most popular 10 available right now: July 2018|2018/07/the-best-10-chest-freezers-of-july-2018|AZ_41tABrUXBAL",
