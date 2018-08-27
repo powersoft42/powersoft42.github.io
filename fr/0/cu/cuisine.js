@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleures Friteuses de août 2018|Guide d'achat: les 10 meilleures Friteuses du moment: août 2018|2018/08/top-10-des-meilleures-friteuses-de-aout-2018|AZ_41PNUKurTJL",
 "Le top 10 des meilleures Cuisinières à Gaz du moment: juillet 2018|Notre sélection des 10 meilleures Cuisinières à Gaz de juillet 2018|2018/07/le-top-10-des-meilleures-cuisinieres-a-gaz-du-moment-juillet-2018|AZ_31rJE0AghuL",
 "Mini Réfrigérateurs, les 10 meilleurs: juillet 2018|Le top 10 des meilleurs Mini Réfrigérateurs de juillet 2018|2018/07/mini-refrigerateurs-les-10-meilleurs-juillet-2018|AZ_51dyFwbfL0L",
 "Découvrez les 10 meilleurs Lave-Vaisselle: juillet 2018|Notre sélection des 10 meilleurs Lave-Vaisselle du moment|2018/07/decouvrez-les-10-meilleurs-lave-vaisselle-juillet-2018|AZ_31LnUfpScPL",
