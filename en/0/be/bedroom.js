@@ -1,4 +1,5 @@
 Gr = [
+"Top best 10 Humidifiers: August 2018|Buying guide: the very best 10 Humidifiers of August 2018|2018/08/top-best-10-humidifiers-august-2018|AZ_41hVsoPzz2L",
 "The best 10 steam cleaners of August 2018|Steam cleaners, top-rated 10 to consider: August 2018|2018/08/the-best-10-steam-cleaners-of-august-2018|AZ_51ul981eBNL",
 "The best 10 Upright Vacuums of August 2018: buying guide|Our pick of the best 10 Upright Vacuums of August 2018|2018/08/the-best-10-upright-vacuums-of-august-2018-buying-guide|AZ_31iHKUf2wZL",
 "Buying guide: top 10 Smart TVs of July 2018|The 10 best-selling Smart TVs of July 2018: buying guide|2018/07/buying-guide-top-10-smart-tvs-of-july-2018|AZ_51T4TVfyaML",
