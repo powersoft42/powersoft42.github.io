@@ -1,4 +1,5 @@
 Gr = [
+"Il meglio dei mixer ad immersione: agosto 2018|Mixer ad immersione, i 10 che vanno di più disponibili ora!|2018/08/il-meglio-dei-mixer-ad-immersione-agosto-2018|AZ_511Xmv4b7zL",
 "Caraffe Filtranti, le 10 più in voga subito disponibili: agosto 2018|La top 10 delle migliori Caraffe Filtranti ora sul mercato|2018/08/caraffe-filtranti-le-10-piu-in-voga-subito-disponibili-agosto-2018|AZ_51WeCB7GsxL",
 "Le 10 Centrifughe che più piacciono: luglio 2018|La top 10 delle migliori Centrifughe in commercio a luglio 2018|2018/07/le-10-centrifughe-che-piu-piacciono-luglio-2018|AZ_31HyWwheEqL",
 "La top 10 delle migliori Macchine per Cubetti di Ghiaccio sul mercato a luglio 2018|Le 10 Macchine per Cubetti di Ghiaccio che più piacciono: la classifica|2018/07/la-top-10-delle-migliori-macchine-per-cubetti-di-ghiaccio-sul-mercato-a-luglio-2018|AZ_41XKiayzhYL",
