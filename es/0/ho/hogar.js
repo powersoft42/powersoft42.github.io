@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 mejores en Batidoras de Vaso: agosto 2018|Las 10 mejores Batidoras de Vaso del mercado: agosto 2018|2018/08/las-10-mejores-en-batidoras-de-vaso-agosto-2018|AZ_31drI6tWaqL",
 "Las 10 mejor valoradas Licuadoras del mercado: julio 2018|La lista con las 10 Licuadoras más valoradas a julio 2018|2018/07/las-10-mejor-valoradas-licuadoras-del-mercado-julio-2018|AZ_41T91mCtvFL",
 "Robots de Cocina, los 10 mejores del mercado: julio 2018|Las 10 más valoradas ofertas de Robots de Cocina: julio 2018|2018/07/robots-de-cocina-los-10-mejores-del-mercado-julio-2018|AZ_419ur5sqeaL",
 "Las 10 Sillas de Oficina mejores a julio 2018|Las 10 mejor valoradas ofertas de Sillas de Oficina: julio 2018|2018/07/las-10-sillas-de-oficina-mejores-a-julio-2018|AZ_411tc5SM1hL",
