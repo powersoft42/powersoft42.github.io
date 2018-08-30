@@ -1,4 +1,5 @@
 Gr = [
+"The most popular 10 in Men's Eyewear: August 2018|In Men's Eyewear, the 10 best-sellers you may want to check out|2018/08/the-most-popular-10-in-men-s-eyewear-august-2018|AZ_41MgD0rnlkL",
 "The very best 10 Men's Trousers: August 2018|The very best 10 Men's Trousers of August 2018: buying guide|2018/08/the-very-best-10-men-s-trousers-august-2018|AZ_414Qg2934vL",
 "The best 10 Men's Sunglasses of July 2018|The very best 10 Men's Sunglasses buyers guide of July 2018|2018/07/the-best-10-men-s-sunglasses-of-july-2018|AZ_31vAoYQ4cqL",
 "The very best 10 Men's Trousers: June 2018|Most popular 10 Men's Trousers of June 2018: buying guide|2018/06/the-very-best-10-men-s-trousers-june-2018|AZ_41WtGL6SZML",
