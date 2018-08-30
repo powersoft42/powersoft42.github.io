@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten in Frühstück-Sets, August 2018|Top 10 beliebtesten Artikel in Frühstück-Sets: August 2018|2018/08/die-10-besten-in-fruhstuck-sets-august-2018|AZ_31RhjE8uXsL",
 "10 besten Gaming-Mäuse im Vergleich: August 2018|Top 10: die beliebtesten Artikel in Gaming-Mäuse, August 2018|2018/08/10-besten-gaming-mause-im-vergleich-august-2018|AZ_51kOegjVk2L",
 "Top 10 besten Sportjacken für Damen: August 2018|10 beliebtesten Artikel in Sportjacken für Damen im Vergleich|2018/08/top-10-besten-sportjacken-fur-damen-august-2018|AZ_41UhCG1vqCL",
 "Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
