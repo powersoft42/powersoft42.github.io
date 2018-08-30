@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Pantaloncini da Corsa Uomo sul mercato a agosto 2018|La top 10 dei migliori Pantaloncini da Corsa Uomo ora sul mercato|2018/08/la-top-10-dei-migliori-pantaloncini-da-corsa-uomo-sul-mercato-a-agosto-2018|AZ_41uPLhR4DKL",
 "Il meglio dei Beauty Case da Viaggio: agosto 2018|I 10 Beauty Case da Viaggio più interessanti da valutare: la classifica|2018/08/il-meglio-dei-beauty-case-da-viaggio-agosto-2018|AZ_51aIvKZmtLL",
 "La top 10 dei migliori Accappatoi da Uomo: agosto 2018|I 10 Accappatoi da Uomo che piacciono di più oggi sul mercato|2018/08/la-top-10-dei-migliori-accappatoi-da-uomo-agosto-2018|AZ_41Tk7qJj67L",
 "La top 10 dei migliori Portafogli da Uomo venduti a agosto 2018|I 10 Portafogli da Uomo che vanno di più: la guida all'acquisto|2018/08/la-top-10-dei-migliori-portafogli-da-uomo-venduti-a-agosto-2018|AZ_61TtMSWoowL",
