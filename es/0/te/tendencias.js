@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 mejor valorados Vaqueros para Mujer del momento: septiembre 2018|Nuestra selección de los 10 Vaqueros para Mujer mejor valorados|2018/09/los-10-mejor-valorados-vaqueros-para-mujer-del-momento-septiembre-2018|AZ_41VdcKQkB2L",
 "Top 10 Monos para Mujer a agosto 2018|Los 10 mejor valorados en Monos para Mujer: agosto 2018|2018/08/top-10-monos-para-mujer-a-agosto-2018|AZ_512khfDgUhL",
 "Camisetas para Hombre, las 10 más valoradas: agosto 2018|Las 10 mejores Camisetas para Hombre del momento: agosto 2018|2018/08/camisetas-para-hombre-las-10-mas-valoradas-agosto-2018|AZ_315xZ0mnG0L",
 "La lista con los 10 Juegos de Maletas más valorados a agosto 2018|Los 10 mejores Juegos de Maletas que puedes comprar ahora mismo|2018/08/la-lista-con-los-10-juegos-de-maletas-mas-valorados-a-agosto-2018|AZ_41uZ4-J+NVL",
