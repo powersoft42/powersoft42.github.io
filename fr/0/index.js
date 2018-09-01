@@ -1,4 +1,5 @@
 Gr = [
+"Dépilateurs à Lumiere Pulsee, les 10 meilleurs: septembre 2018|Le top 10 des meilleurs Dépilateurs à Lumiere Pulsee de septembre 2018|2018/09/depilateurs-a-lumiere-pulsee-les-10-meilleurs-septembre-2018|AZ_41NVODAP+oL",
 "Top 10 des meilleurs Pantalons Femme de août 2018|Découvrez les 10 meilleurs Pantalons Femme du moment: août 2018|2018/08/top-10-des-meilleurs-pantalons-femme-de-aout-2018|AZ_31HPU5hNG-L",
 "Le top 10 des meilleurs Lecteurs MP3 de août 2018|Les 10 meilleurs Lecteurs MP3 du moment: août 2018|2018/08/le-top-10-des-meilleurs-lecteurs-mp3-de-aout-2018|AZ_41Bw4b3k9PL",
 "Top 10 des meilleures Friteuses de août 2018|Guide d'achat: les 10 meilleures Friteuses du moment: août 2018|2018/08/top-10-des-meilleures-friteuses-de-aout-2018|AZ_41PNUKurTJL",
