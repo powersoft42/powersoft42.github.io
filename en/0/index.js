@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Laptop Chargers of September 2018|Laptop Chargers, the 10 best-sellers you may want to consider|2018/09/the-best-10-laptop-chargers-of-september-2018|AZ_41B-qR4jTWL",
 "The most popular 10 in Men's Eyewear: August 2018|In Men's Eyewear, the 10 best-sellers you may want to check out|2018/08/the-most-popular-10-in-men-s-eyewear-august-2018|AZ_41MgD0rnlkL",
 "Top best 10 Humidifiers: August 2018|Buying guide: the very best 10 Humidifiers of August 2018|2018/08/top-best-10-humidifiers-august-2018|AZ_41hVsoPzz2L",
 "The best 10 steam cleaners of August 2018|Steam cleaners, top-rated 10 to consider: August 2018|2018/08/the-best-10-steam-cleaners-of-august-2018|AZ_51ul981eBNL",

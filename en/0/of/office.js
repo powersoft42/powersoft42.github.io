@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Laptop Chargers of September 2018|Laptop Chargers, the 10 best-sellers you may want to consider|2018/09/the-best-10-laptop-chargers-of-september-2018|AZ_41B-qR4jTWL",
 "Top best 10 Humidifiers: August 2018|Buying guide: the very best 10 Humidifiers of August 2018|2018/08/top-best-10-humidifiers-august-2018|AZ_41hVsoPzz2L",
 "Top best 10 Desktop Computers to check out: July 2018|The very best 10 Desktop Computers buyers guide of July 2018|2018/07/top-best-10-desktop-computers-to-check-out-july-2018|AZ_41em-EltLBL",
 "The best 10 Monitors of July 2018|Best-selling 10 Monitors: July 2018|2018/07/the-best-10-monitors-of-july-2018|AZ_4171ty8hNlL",
