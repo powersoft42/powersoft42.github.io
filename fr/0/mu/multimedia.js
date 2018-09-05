@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleurs Disques Durs Internes de septembre 2018|Découvrez les 10 meilleurs Disques Durs Internes du moment|2018/09/top-10-des-meilleurs-disques-durs-internes-de-septembre-2018|AZ_51VWD3poGeL",
 "Le top 10 des meilleurs Lecteurs MP3 de août 2018|Les 10 meilleurs Lecteurs MP3 du moment: août 2018|2018/08/le-top-10-des-meilleurs-lecteurs-mp3-de-aout-2018|AZ_41Bw4b3k9PL",
 "Les 10 meilleurs Scanners de Diapositives du moment: août 2018|Guide d'achat: les 10 meilleurs Scanners de Diapositives du moment|2018/08/les-10-meilleurs-scanners-de-diapositives-du-moment-aout-2018|AZ_41Zp8s4JzIL",
 "Les 10 meilleures Compacts Hybrides de juillet 2018|Notre sélection des 10 meilleures Compacts Hybrides du moment|2018/07/les-10-meilleures-compacts-hybrides-de-juillet-2018|AZ_41s6-eGzFzL",
