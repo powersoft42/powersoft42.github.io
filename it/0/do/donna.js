@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Mary Jane da Donna: le 10 migliori in commercio a settembre 2018|Le 10 Scarpe Mary Jane da Donna più interessanti per l'acquisto|2018/09/scarpe-mary-jane-da-donna-le-10-migliori-in-commercio-a-settembre-2018|AZ_41X8NJrGPfL",
 "La top 10 dei migliori Stivaletti da Donna venduti a settembre 2018|La top 10 dei migliori Stivaletti da Donna disponibili ora per l'acquisto|2018/09/la-top-10-dei-migliori-stivaletti-da-donna-venduti-a-settembre-2018|AZ_41KmYTSuiIL",
 "Il meglio dei Beauty Case da Viaggio: agosto 2018|I 10 Beauty Case da Viaggio più interessanti da valutare: la classifica|2018/08/il-meglio-dei-beauty-case-da-viaggio-agosto-2018|AZ_51aIvKZmtLL",
 "La top 10 dei migliori Pareo da Mare: agosto 2018|La top 10 dei migliori Pareo da Mare venduti a agosto 2018|2018/08/la-top-10-dei-migliori-pareo-da-mare-agosto-2018|AZ_41F23rx8eZL",
