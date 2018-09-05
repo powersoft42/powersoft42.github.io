@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Die 10 besten in Herrenhüte: September 2018|Top 10: die 10 Bestseller in Herrenhüte, September 2018|2018/09/die-10-besten-in-herrenhute-september-2018|AZ_41C1CQ76qcL",
 "Top 10 Espadrilles für Herren, August 2018|Top 10: die beliebtesten Artikel in Espadrilles für Herren, August 2018|2018/08/top-10-espadrilles-fur-herren-august-2018|AZ_41btfjp1O9L",
 "10 besten Slipper und Mokassins für Herren zum Kaufen: August 2018|Die 10 beliebtesten Artikel in Slipper und Mokassins für Herren|2018/08/10-besten-slipper-und-mokassins-fur-herren-zum-kaufen-august-2018|AZ_31Ua4+1HneL",

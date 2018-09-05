@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Die 10 besten in Herrenhüte: September 2018|Top 10: die 10 Bestseller in Herrenhüte, September 2018|2018/09/die-10-besten-in-herrenhute-september-2018|AZ_41C1CQ76qcL",
 "Die 10 besten Damen-Jeanshosen, August 2018|Top 10: die besten in Damen-Jeanshosen, August 2018|2018/08/die-10-besten-damen-jeanshosen-august-2018|AZ_410WfQsCqgL",
 "Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
