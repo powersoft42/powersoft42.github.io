@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Diffusers: September 2018|Buying guide: our pick of the best 10 Diffusers of September 2018|2018/09/best-selling-10-diffusers-september-2018|AZ_41EBHzBoHCL",
 "Best-selling 10 Electric Kettles of September 2018|Buying guide: the very best 10 Electric Kettles of September 2018|2018/09/best-selling-10-electric-kettles-of-september-2018|AZ_51iXk+awwAL",
 "The best 10 Laptop Chargers of September 2018|Laptop Chargers, the 10 best-sellers you may want to consider|2018/09/the-best-10-laptop-chargers-of-september-2018|AZ_41B-qR4jTWL",
 "The most popular 10 in Men's Eyewear: August 2018|In Men's Eyewear, the 10 best-sellers you may want to check out|2018/08/the-most-popular-10-in-men-s-eyewear-august-2018|AZ_41MgD0rnlkL",
