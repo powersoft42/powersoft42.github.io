@@ -1,4 +1,5 @@
 Gr = [
+"Ceintures Abdominales, les 10 meilleures: septembre 2018|Découvrez les 10 meilleures Ceintures Abdominales du moment|2018/09/ceintures-abdominales-les-10-meilleures-septembre-2018|AZ_41u5MFYe0eL",
 "Top 10 des meilleurs Disques Durs Internes de septembre 2018|Découvrez les 10 meilleurs Disques Durs Internes du moment|2018/09/top-10-des-meilleurs-disques-durs-internes-de-septembre-2018|AZ_51VWD3poGeL",
 "Dépilateurs à Lumiere Pulsee, les 10 meilleurs: septembre 2018|Le top 10 des meilleurs Dépilateurs à Lumiere Pulsee de septembre 2018|2018/09/depilateurs-a-lumiere-pulsee-les-10-meilleurs-septembre-2018|AZ_41NVODAP+oL",
 "Top 10 des meilleurs Pantalons Femme de août 2018|Découvrez les 10 meilleurs Pantalons Femme du moment: août 2018|2018/08/top-10-des-meilleurs-pantalons-femme-de-aout-2018|AZ_31HPU5hNG-L",
