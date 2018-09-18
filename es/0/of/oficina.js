@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados Portátiles del mercado: septiembre 2018|La lista con los 10 Portátiles mejor valorados a septiembre 2018|2018/09/los-10-mas-valorados-portatiles-del-mercado-septiembre-2018|AZ_41puxbIN5uL",
 "Las 10 mejores ofertas de Teclados: agosto 2018|Nuestra selección de los 10 Teclados más vendidos a agosto 2018|2018/08/las-10-mejores-ofertas-de-teclados-agosto-2018|AZ_51+JnH-NFBL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
 "Top 10 Impresoras 3D a agosto 2018|Las 10 Impresoras 3D más valoradas a agosto 2018|2018/08/top-10-impresoras-3d-a-agosto-2018|AZ_41d5oEktWkL",
