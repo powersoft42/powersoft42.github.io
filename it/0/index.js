@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Gaming PC Desktop in commercio a settembre 2018|I 10 Gaming PC Desktop consigliati: la classifica aggiornata|2018/09/la-top-10-dei-migliori-gaming-pc-desktop-in-commercio-a-settembre-2018|AZ_51Pf0wmD1vL",
 "I 10 Computer Portatili più popolari in commercio: settembre 2018|La top 10 dei migliori Computer Portatili in commercio|2018/09/i-10-computer-portatili-piu-popolari-in-commercio-settembre-2018|AZ_41K0OduO-nL",
 "Orologi da Uomo: i 10 migliori a settembre 2018|Orologi da Uomo: i 10 migliori in commercio a settembre 2018|2018/09/orologi-da-uomo-i-10-migliori-a-settembre-2018|AZ_51mzcJErOTL",
 "Scarpe Mary Jane da Donna: le 10 migliori in commercio a settembre 2018|Le 10 Scarpe Mary Jane da Donna più interessanti per l'acquisto|2018/09/scarpe-mary-jane-da-donna-le-10-migliori-in-commercio-a-settembre-2018|AZ_41X8NJrGPfL",

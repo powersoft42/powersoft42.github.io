@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Gaming PC Desktop in commercio a settembre 2018|I 10 Gaming PC Desktop consigliati: la classifica aggiornata|2018/09/la-top-10-dei-migliori-gaming-pc-desktop-in-commercio-a-settembre-2018|AZ_51Pf0wmD1vL",
 "I 10 Computer Portatili più popolari in commercio: settembre 2018|La top 10 dei migliori Computer Portatili in commercio|2018/09/i-10-computer-portatili-piu-popolari-in-commercio-settembre-2018|AZ_41K0OduO-nL",
 "I 10 PC Portatili per Giocare più acquistati: agosto 2018|PC Portatili per Giocare, i 10 più consigliati disponibili da subito|2018/08/i-10-pc-portatili-per-giocare-piu-acquistati-agosto-2018|AZ_41m0H0HiacL",
 "I 10 PC Fissi per Giocare migliori: la classifica di agosto 2018|I 10 PC Fissi per Giocare che vanno per la maggiore|2018/08/i-10-pc-fissi-per-giocare-migliori-la-classifica-di-agosto-2018|AZ_41SeXGxaweL",
