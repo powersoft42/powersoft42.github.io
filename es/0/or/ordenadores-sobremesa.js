@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Ordenadores de Sobremesa para Gaming a septiembre 2018|Ordenadores de Sobremesa para Gaming, los 10 más vendidos|2018/09/top-10-ordenadores-de-sobremesa-para-gaming-a-septiembre-2018|AZ_41LFXbUXMTL",
 "Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
 "Top 10 Monitores a julio 2018|Los 10 más valorados Monitores que puedes comprar ahora mismo|2018/07/top-10-monitores-a-julio-2018|AZ_31fZG8VzDwL",
