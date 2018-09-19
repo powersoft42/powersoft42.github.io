@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in Gaming Desktop-PCs, September 2018|10 Bestseller in Gaming Desktop-PCs zum Kaufen: September 2018|2018/09/top-10-die-bestseller-in-gaming-desktop-pcs-september-2018|AZ_51KSPTYQ9lL",
 "Die 10 besten Notebooks: September 2018|Top 10: die 10 besten Notebooks, September 2018|2018/09/die-10-besten-notebooks-september-2018|AZ_518Ja49YtpL",
 "Top 10 besten in Damen High Heels: September 2018|10 besten in Damen High Heels zum Kaufen: September 2018|2018/09/top-10-besten-in-damen-high-heels-september-2018|AZ_41K-0-IlWUL",
 "Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",

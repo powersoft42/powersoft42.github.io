@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in Gaming Desktop-PCs, September 2018|10 Bestseller in Gaming Desktop-PCs zum Kaufen: September 2018|2018/09/top-10-die-bestseller-in-gaming-desktop-pcs-september-2018|AZ_51KSPTYQ9lL",
 "Die 10 besten Notebooks: September 2018|Top 10: die 10 besten Notebooks, September 2018|2018/09/die-10-besten-notebooks-september-2018|AZ_518Ja49YtpL",
 "10 besten Gaming-Mäuse im Vergleich: August 2018|Top 10: die beliebtesten Artikel in Gaming-Mäuse, August 2018|2018/08/10-besten-gaming-mause-im-vergleich-august-2018|AZ_51kOegjVk2L",
 "Top 10 Bestseller in Fotodrucker: August 2018|10 Bestseller in Fotodrucker zum Kaufen: August 2018|2018/08/top-10-bestseller-in-fotodrucker-august-2018|AZ_41AWJrXPsUL",
