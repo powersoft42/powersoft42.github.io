@@ -1,4 +1,5 @@
 Gr = [
+"Come vendere la tua casa in 45 giorni|Non solo, sarai rimborsato se non ci si riesce|2018/09/come-vendere-la-tua-casa-in-45-giorni|home",
 "Partite IVA e regime forfettario, le novità|Imporre un tetto uguale per tutti determina diversità di trattamento|2018/09/partite-iva-e-regime-forfettario-le-novita|money",
 "Il pianeta natale di Spock esiste davvero|Improbabile però che eventuali suoi abitanti abbiano orecchie a punta|2018/09/il-pianeta-natale-di-spock-esiste-davvero|planet",
 "La top 10 dei migliori Gaming PC Desktop in commercio a settembre 2018|I 10 Gaming PC Desktop consigliati: la classifica aggiornata|2018/09/la-top-10-dei-migliori-gaming-pc-desktop-in-commercio-a-settembre-2018|AZ_51Pf0wmD1vL",

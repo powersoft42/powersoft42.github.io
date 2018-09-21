@@ -5,12 +5,42 @@
 <link>http://www.sat42.com</link>
 <description>// Sat42.com :: Satellite We Love //</description>
 <language>it</language>
-<pubDate>Fri, 21 Sep 2018 19:28:37 +0000</pubDate>
+<pubDate>Fri, 21 Sep 2018 19:58:10 +0000</pubDate>
 <image>
 	<url>http://www.sat42.com/0/1/logo_420x212.png</url>
 	<title>Sat42.com</title>
 	<link>http://www.sat42.com/it/</link>
 </image>
+<item>
+	<title>Come vendere la tua casa in 45 giorni // Non solo, sarai rimborsato se non ci si riesce // #casa #immobili</title>
+	<link>http://www.sat42.com/it/2018/09/come-vendere-la-tua-casa-in-45-giorni.html</link>
+	<description>
+		<![CDATA[
+			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
+				<tr>
+					<td>
+						<table width="340" cellpadding="10" cellspacing="0" border="0">
+							<tr>
+								<td bgcolor="#F0F0F0">
+									<a href="http://www.sat42.com/it/2018/09/come-vendere-la-tua-casa-in-45-giorni.html"><img src="http://www.sat42.com/1/h/home.jpg" width="100%" alt="#casa #immobili"></a>
+									<a href="http://www.sat42.com/it/2018/09/come-vendere-la-tua-casa-in-45-giorni.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Come vendere la tua casa in 45 giorni</b></font></a><br>
+									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
+										Non solo, sarai rimborsato se non ci si riesce<br>
+										<font color="#646464">#casa #immobili :: 21 settembre 2018</font>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		]]>
+	</description>
+	<pubDate>Fri, 21 Sep 2018 19:58:10 +0000</pubDate>
+	<guid>http://www.sat42.com/it/2018/09/come-vendere-la-tua-casa-in-45-giorni.html</guid>
+	<category>casa</category>
+	<category>immobili</category>
+</item>
 <item>
 	<title>Partite IVA e regime forfettario, le novità // Imporre un tetto uguale per tutti determina diversità di trattamento // #partita-iva #tasse #fisco</title>
 	<link>http://www.sat42.com/it/2018/09/partite-iva-e-regime-forfettario-le-novita.html</link>
@@ -2148,50 +2178,6 @@
 	<category>mare</category>
 	<category>montagna</category>
 	<category>amazonbasics</category>
-</item>
-<item>
-	<title>Il meglio delle Macchine per Training Aerobico: giugno 2018 // Macchine per Training Aerobico, le 10 più popolari in commercio // #palestra #dimagrire #addominali #potenziamento-muscolare #muscoli #cura-della-persona #training #fitness #ginnastica #panche-addominali #allenamento #aerobica #tapis-roulant #cyclette #ultrasport #diadora</title>
-	<link>http://www.sat42.com/it/2018/06/il-meglio-delle-macchine-per-training-aerobico-giugno-2018.html</link>
-	<description>
-		<![CDATA[
-			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
-				<tr>
-					<td>
-						<table width="340" cellpadding="10" cellspacing="0" border="0">
-							<tr>
-								<td bgcolor="#F0F0F0">
-									<a href="http://www.sat42.com/it/2018/06/il-meglio-delle-macchine-per-training-aerobico-giugno-2018.html"><img src="http://ecx.images-amazon.com/images/I/41nEZsxsTaL._AA320_.jpg" width="100%" alt="#palestra #dimagrire #addominali #potenziamento-muscolare #muscoli #cura-della-persona #training #fitness #ginnastica #panche-addominali #allenamento #aerobica #tapis-roulant #cyclette #ultrasport #diadora"></a>
-									<a href="http://www.sat42.com/it/2018/06/il-meglio-delle-macchine-per-training-aerobico-giugno-2018.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Il meglio delle Macchine per Training Aerobico: giugno 2018</b></font></a><br>
-									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
-										Macchine per Training Aerobico, le 10 più popolari in commercio<br>
-										<font color="#646464">#palestra #dimagrire #addominali #potenziamento-muscolare #muscoli #cura-della-persona #training #fitness #ginnastica #panche-addominali #allenamento #aerobica #tapis-roulant #cyclette #ultrasport #diadora :: 28 giugno 2018</font>
-									</font>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-		]]>
-	</description>
-	<pubDate>Thu, 28 Jun 2018 15:16:28 +0000</pubDate>
-	<guid>http://www.sat42.com/it/2018/06/il-meglio-delle-macchine-per-training-aerobico-giugno-2018.html</guid>
-	<category>palestra</category>
-	<category>dimagrire</category>
-	<category>addominali</category>
-	<category>potenziamento-muscolare</category>
-	<category>muscoli</category>
-	<category>cura-della-persona</category>
-	<category>training</category>
-	<category>fitness</category>
-	<category>ginnastica</category>
-	<category>panche-addominali</category>
-	<category>allenamento</category>
-	<category>aerobica</category>
-	<category>tapis-roulant</category>
-	<category>cyclette</category>
-	<category>ultrasport</category>
-	<category>diadora</category>
 </item>
 </channel>
 </rss>
