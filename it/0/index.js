@@ -1,4 +1,5 @@
 Gr = [
+"Partite IVA e regime forfettario, le novità|Imporre un tetto uguale per tutti determina diversità di trattamento|2018/09/partite-iva-e-regime-forfettario-le-novita|money",
 "Il pianeta natale di Spock esiste davvero|Improbabile però che eventuali suoi abitanti abbiano orecchie a punta|2018/09/il-pianeta-natale-di-spock-esiste-davvero|planet",
 "La top 10 dei migliori Gaming PC Desktop in commercio a settembre 2018|I 10 Gaming PC Desktop consigliati: la classifica aggiornata|2018/09/la-top-10-dei-migliori-gaming-pc-desktop-in-commercio-a-settembre-2018|AZ_51Pf0wmD1vL",
 "I 10 Computer Portatili più popolari in commercio: settembre 2018|La top 10 dei migliori Computer Portatili in commercio|2018/09/i-10-computer-portatili-piu-popolari-in-commercio-settembre-2018|AZ_41K0OduO-nL",
