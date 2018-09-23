@@ -1,4 +1,5 @@
 Gr = [
+"Un nuovo operatore operatore virtuale di telefonia mobile|Plintron si appoggerà alle reti Vodafone fino al 4G|2018/09/un-nuovo-operatore-operatore-virtuale-di-telefonia-mobile|smartphone-woman",
 "I 5 rischi del tenere soldi sul conto corrente|Meglio togliere i soldi dal conto corrente?|2018/09/i-5-rischi-del-tenere-soldi-sul-conto-corrente|bank",
 "Come vendere la tua casa in 45 giorni|Non solo, sarai rimborsato se non ci si riesce|2018/09/come-vendere-la-tua-casa-in-45-giorni|home",
 "Partite IVA e regime forfettario, le novità|Imporre un tetto uguale per tutti determina diversità di trattamento|2018/09/partite-iva-e-regime-forfettario-le-novita|money",
