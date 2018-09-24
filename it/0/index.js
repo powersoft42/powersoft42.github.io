@@ -1,4 +1,5 @@
 Gr = [
+"La tintura per i capelli provoca il cancro al seno?|Meglio optare per coloranti naturali e sottoporsi sempre a screening|2018/09/la-tintura-per-i-capelli-provoca-il-cancro-al-seno|hair-woman",
 "Bici elettriche e Codice della Strada: cosa devi sapere|Le cose che bisogna sapere assolutamente se hai una eBike|2018/09/bici-elettriche-e-codice-della-strada-cosa-devi-sapere|bike-girl",
 "Un nuovo operatore virtuale di telefonia mobile|Plintron si appoggerà alle reti Vodafone fino al 4G|2018/09/un-nuovo-operatore-virtuale-di-telefonia-mobile|smartphone-woman",
 "I 5 rischi del tenere soldi sul conto corrente|Meglio togliere i soldi dal conto corrente?|2018/09/i-5-rischi-del-tenere-soldi-sul-conto-corrente|bank",
