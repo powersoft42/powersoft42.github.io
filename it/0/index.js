@@ -1,4 +1,5 @@
 Gr = [
+"Bici elettriche e Codice della Strada: cosa devi sapere|Le cose che bisogna sapere assolutamente se hai una eBike|2018/09/bici-elettriche-e-codice-della-strada-cosa-devi-sapere|bike-girl",
 "Un nuovo operatore virtuale di telefonia mobile|Plintron si appoggerà alle reti Vodafone fino al 4G|2018/09/un-nuovo-operatore-virtuale-di-telefonia-mobile|smartphone-woman",
 "I 5 rischi del tenere soldi sul conto corrente|Meglio togliere i soldi dal conto corrente?|2018/09/i-5-rischi-del-tenere-soldi-sul-conto-corrente|bank",
 "Come vendere la tua casa in 45 giorni|Non solo, sarai rimborsato se non ci si riesce|2018/09/come-vendere-la-tua-casa-in-45-giorni|home",
