@@ -1,1 +1,14 @@
-Sitemap: http://www.sat42.com/sitemap.xml.gz
+Sitemap: http://www.sat42.com/de/0/sitemap.xml.gz
+Sitemap: http://www.sat42.com/de/2018/sitemap.xml.gz
+
+Sitemap: http://www.sat42.com/en/0/sitemap.xml.gz
+Sitemap: http://www.sat42.com/en/2018/sitemap.xml.gz
+
+Sitemap: http://www.sat42.com/es/0/sitemap.xml.gz
+Sitemap: http://www.sat42.com/es/2018/sitemap.xml.gz
+
+Sitemap: http://www.sat42.com/fr/0/sitemap.xml.gz
+Sitemap: http://www.sat42.com/fr/2018/sitemap.xml.gz
+
+Sitemap: http://www.sat42.com/it/0/sitemap.xml.gz
+Sitemap: http://www.sat42.com/it/2018/sitemap.xml.gz
