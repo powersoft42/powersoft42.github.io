@@ -1,4 +1,5 @@
 Gr = [
+"Amazon lancia Launchpad anche in Italia|La vetrina delle startup del colosso Amazon|2018/09/amazon-lancia-launchpad-anche-in-italia|amazon",
 "La tintura per i capelli provoca il cancro al seno?|Meglio optare per coloranti naturali e sottoporsi sempre a screening|2018/09/la-tintura-per-i-capelli-provoca-il-cancro-al-seno|hair-woman",
 "Bici elettriche e Codice della Strada: cosa devi sapere|Le cose che bisogna sapere assolutamente se hai una eBike|2018/09/bici-elettriche-e-codice-della-strada-cosa-devi-sapere|bike-girl",
 "Un nuovo operatore virtuale di telefonia mobile|Plintron si appoggerà alle reti Vodafone fino al 4G|2018/09/un-nuovo-operatore-virtuale-di-telefonia-mobile|smartphone-woman",
