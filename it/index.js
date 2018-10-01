@@ -1,4 +1,5 @@
 Gr = [
+"Perché Google ha pagato ad Apple 9 miliardi di dollari?|Google per questo 2018 avrebbe pagato ad Apple 9 miliardi di dollari|2018/10/perche-google-ha-pagato-ad-apple-9-miliardi-di-dollari|apple-store-nyc",
 "Come guadagnare con Instagram|Cosa fare per potere inserire link nelle storie?|2018/10/come-guadagnare-con-instagram|instagram-mobile-coffee.jpg",
 "Amazon lancia Launchpad anche in Italia|La vetrina delle startup del colosso Amazon|2018/09/amazon-lancia-launchpad-anche-in-italia|amazon",
 "La tintura per i capelli provoca il cancro al seno?|Meglio optare per coloranti naturali e sottoporsi sempre a screening|2018/09/la-tintura-per-i-capelli-provoca-il-cancro-al-seno|hair-woman",
