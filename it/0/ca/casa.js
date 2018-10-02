@@ -1,4 +1,5 @@
 Gr = [
+"Che cosa è la cedolare secca?|Si pagano meno tasse con la cedolare secca?|2018/10/che-cosa-e-la-cedolare-secca|money",
 "Come vendere la tua casa in 45 giorni|Non solo, sarai rimborsato se non ci si riesce|2018/09/come-vendere-la-tua-casa-in-45-giorni|home",
 "Il meglio dei mixer ad immersione: agosto 2018|Mixer ad immersione, i 10 che vanno di più disponibili ora!|2018/08/il-meglio-dei-mixer-ad-immersione-agosto-2018|AZ_511Xmv4b7zL",
 "Caraffe Filtranti, le 10 più in voga subito disponibili: agosto 2018|La top 10 delle migliori Caraffe Filtranti ora sul mercato|2018/08/caraffe-filtranti-le-10-piu-in-voga-subito-disponibili-agosto-2018|AZ_51WeCB7GsxL",
