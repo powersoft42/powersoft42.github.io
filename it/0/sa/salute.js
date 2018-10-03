@@ -1,4 +1,5 @@
 Gr = [
+"Promo: spazzolino elettrico a circa 6 eur invece di 60|Uno spazzolino elettrico con uno sconto mai visto!|2018/10/promo-spazzolino-elettrico-a-circa-6-eur-invece-di-60|girl-laugh",
 "La tintura per i capelli provoca il cancro al seno?|Meglio optare per coloranti naturali e sottoporsi sempre a screening|2018/09/la-tintura-per-i-capelli-provoca-il-cancro-al-seno|hair-woman",
 "Caraffe Filtranti, le 10 più in voga subito disponibili: agosto 2018|La top 10 delle migliori Caraffe Filtranti ora sul mercato|2018/08/caraffe-filtranti-le-10-piu-in-voga-subito-disponibili-agosto-2018|AZ_51WeCB7GsxL",
 "Il meglio delle T-Shirt Running Donna: agosto 2018|T-Shirt Running Donna, le 10 più gettonate subito disponibili|2018/08/il-meglio-delle-t-shirt-running-donna-agosto-2018|AZ_41kaan6ZqQL",
