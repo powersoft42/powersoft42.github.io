@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Tablets: October 2018|Most popular 10 Tablets you need to check out: October 2018|2018/10/best-selling-10-tablets-october-2018|AZ_41s0obeclAL",
 "Were you affected by Facebook’s massive data breach?|How to know if you were a victim of the Facebook breach|2018/09/were-you-affected-by-facebook-s-massive-data-breach|facebook-headquarters",
 "The best 10 Gaming Laptops buyers guide of September 2018|The very best 10 Gaming Laptops to consider: September 2018|2018/09/the-best-10-gaming-laptops-buyers-guide-of-september-2018|AZ_41EBs8h-eNL",
 "Best-selling 10 Portable Computers of September 2018|Our pick of the best 10 Portable Computers|2018/09/best-selling-10-portable-computers-of-september-2018|AZ_31GZXAIeWwL",
