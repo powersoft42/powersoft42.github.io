@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleurs scanners portables de octobre 2018|Le top 10 des meilleurs scanners portables du moment: octobre 2018|2018/10/top-10-des-meilleurs-scanners-portables-de-octobre-2018|AZ_31ggZcudu2L",
 "Top 10 des meilleurs Ordinateurs Gamer de septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Gamer de septembre 2018|2018/09/top-10-des-meilleurs-ordinateurs-gamer-de-septembre-2018|AZ_41kz3DgZ7ML",
 "Le top 10 des meilleurs Ordinateurs Portables du moment: septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Portables|2018/09/le-top-10-des-meilleurs-ordinateurs-portables-du-moment-septembre-2018|AZ_3157lbw-BzL",
 "Top 10 des meilleurs Disques Durs Internes de septembre 2018|Découvrez les 10 meilleurs Disques Durs Internes du moment|2018/09/top-10-des-meilleurs-disques-durs-internes-de-septembre-2018|AZ_51VWD3poGeL",
