@@ -1,4 +1,5 @@
 Gr = [
+"Faldas, las 10 más valoradas: octubre 2018|Las 10 más vendidas Faldas que puedes comprar ahora mismo|2018/10/faldas-las-10-mas-valoradas-octubre-2018|AZ_41mnuS4CGaL",
 "Top 10 Ordenadores de Sobremesa para Gaming a septiembre 2018|Ordenadores de Sobremesa para Gaming, los 10 más vendidos|2018/09/top-10-ordenadores-de-sobremesa-para-gaming-a-septiembre-2018|AZ_41LFXbUXMTL",
 "Los 10 más valorados Portátiles del mercado: septiembre 2018|La lista con los 10 Portátiles mejor valorados a septiembre 2018|2018/09/los-10-mas-valorados-portatiles-del-mercado-septiembre-2018|AZ_41puxbIN5uL",
 "El top 10 de las Picadoras: septiembre 2018|Picadoras, las 10 mejores del mercado: septiembre 2018|2018/09/el-top-10-de-las-picadoras-septiembre-2018|AZ_31dpIrXJf4L",

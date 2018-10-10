@@ -1,4 +1,5 @@
 Gr = [
+"Faldas, las 10 más valoradas: octubre 2018|Las 10 más vendidas Faldas que puedes comprar ahora mismo|2018/10/faldas-las-10-mas-valoradas-octubre-2018|AZ_41mnuS4CGaL",
 "Los 10 mejor valorados Vaqueros para Mujer del momento: septiembre 2018|Nuestra selección de los 10 Vaqueros para Mujer mejor valorados|2018/09/los-10-mejor-valorados-vaqueros-para-mujer-del-momento-septiembre-2018|AZ_41VdcKQkB2L",
 "Top 10 Monos para Mujer a agosto 2018|Los 10 mejor valorados en Monos para Mujer: agosto 2018|2018/08/top-10-monos-para-mujer-a-agosto-2018|AZ_512khfDgUhL",
 "El top 10 de las Planchas Para el Pelo: agosto 2018|Las 10 mejores Planchas Para el Pelo que puedes comprar ahora mismo|2018/08/el-top-10-de-las-planchas-para-el-pelo-agosto-2018|AZ_31yY---GJ-L",
