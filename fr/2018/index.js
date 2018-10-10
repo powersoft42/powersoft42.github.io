@@ -1,4 +1,5 @@
 Gr = [
+"Fers à Repasser Vapeur, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Fers à Repasser Vapeur du moment|2018/10/fers-a-repasser-vapeur-les-10-meilleurs-octobre-2018|AZ_41C7e3U-F8L",
 "Top 10 des meilleurs scanners portables de octobre 2018|Le top 10 des meilleurs scanners portables du moment: octobre 2018|2018/10/top-10-des-meilleurs-scanners-portables-de-octobre-2018|AZ_31ggZcudu2L",
 "Top 10 des meilleurs Ordinateurs Gamer de septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Gamer de septembre 2018|2018/09/top-10-des-meilleurs-ordinateurs-gamer-de-septembre-2018|AZ_41kz3DgZ7ML",
 "Le top 10 des meilleurs Ordinateurs Portables du moment: septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Portables|2018/09/le-top-10-des-meilleurs-ordinateurs-portables-du-moment-septembre-2018|AZ_3157lbw-BzL",
