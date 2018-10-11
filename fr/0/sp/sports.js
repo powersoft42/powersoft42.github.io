@@ -1,4 +1,5 @@
 Gr = [
+"Sacs de Sport, les 10 meilleurs: octobre 2018|Découvrez les 10 meilleurs Sacs de Sport de octobre 2018|2018/10/sacs-de-sport-les-10-meilleurs-octobre-2018|AZ_51hC+2jUkAL",
 "Ceintures Abdominales, les 10 meilleures: septembre 2018|Découvrez les 10 meilleures Ceintures Abdominales du moment|2018/09/ceintures-abdominales-les-10-meilleures-septembre-2018|AZ_41u5MFYe0eL",
 "Notre sélection des 10 meilleures Lunettes de Cyclisme de août 2018|Guide d'achat: les 10 meilleures Lunettes de Cyclisme du moment|2018/08/notre-selection-des-10-meilleures-lunettes-de-cyclisme-de-aout-2018|AZ_31Cn9obgAxL",
 "Top 10 des meilleures Jumelles de août 2018|Les 10 meilleures Jumelles du moment: août 2018|2018/08/top-10-des-meilleures-jumelles-de-aout-2018|AZ_51q0HKHwpyL",

@@ -1,4 +1,5 @@
 Gr = [
+"Sacs de Sport, les 10 meilleurs: octobre 2018|Découvrez les 10 meilleurs Sacs de Sport de octobre 2018|2018/10/sacs-de-sport-les-10-meilleurs-octobre-2018|AZ_51hC+2jUkAL",
 "Top 10 des meilleurs Pantalons Femme de août 2018|Découvrez les 10 meilleurs Pantalons Femme du moment: août 2018|2018/08/top-10-des-meilleurs-pantalons-femme-de-aout-2018|AZ_31HPU5hNG-L",
 "Notre sélection des 10 meilleurs T-Shirts pour Femme de août 2018|Découvrez les 10 meilleurs T-Shirts pour Femme du moment: août 2018|2018/08/notre-selection-des-10-meilleurs-t-shirts-pour-femme-de-aout-2018|AZ_41AdB4zVQaL",
 "Top 10 des meilleures Valises de août 2018|Notre sélection des 10 meilleures Valises de août 2018|2018/08/top-10-des-meilleures-valises-de-aout-2018|AZ_412HnLqs2LL",
