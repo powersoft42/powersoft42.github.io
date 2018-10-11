@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 mejores TV Ultra HD 4K del momento: octubre 2018|Las 10 mejores TV Ultra HD 4K del mercado: octubre 2018|2018/10/las-10-mejores-tv-ultra-hd-4k-del-momento-octubre-2018|AZ_41yqjoVVmOL",
 "Los 10 Televisores mejores a agosto 2018|Los 10 más valorados Televisores que puedes comprar ahora mismo|2018/08/los-10-televisores-mejores-a-agosto-2018|AZ_51STl+QNTPL",
 "Los 10 Proyectores mejores a agosto 2018|Proyectores, los 10 mejor valorados del mercado: agosto 2018|2018/08/los-10-proyectores-mejores-a-agosto-2018|AZ_51Vozq1-owL",
 "Las 10 Consolas para DJ mejor valoradas del mercado: agosto 2018|La lista con las 10 Consolas para DJ mejor valoradas a agosto 2018|2018/08/las-10-consolas-para-dj-mejor-valoradas-del-mercado-agosto-2018|AZ_41BxDcwFgpL",

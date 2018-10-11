@@ -1,5 +1,6 @@
 Tt = "Electrónica";
 Gr = [
+"Las 10 mejores TV Ultra HD 4K del momento: octubre 2018|Las 10 mejores TV Ultra HD 4K del mercado: octubre 2018|2018/10/las-10-mejores-tv-ultra-hd-4k-del-momento-octubre-2018|AZ_41yqjoVVmOL",
 "Las 10 más valoradas ofertas de Despertadores: octubre 2018|Nuestra selección de los 10 Despertadores más valorados a octubre 2018|2018/10/las-10-mas-valoradas-ofertas-de-despertadores-octubre-2018|AZ_41RtV-L8-rL",
 "Top 10 Ordenadores de Sobremesa para Gaming a septiembre 2018|Ordenadores de Sobremesa para Gaming, los 10 más vendidos|2018/09/top-10-ordenadores-de-sobremesa-para-gaming-a-septiembre-2018|AZ_41LFXbUXMTL",
 "Las 10 mejores ofertas de Teclados: agosto 2018|Nuestra selección de los 10 Teclados más vendidos a agosto 2018|2018/08/las-10-mejores-ofertas-de-teclados-agosto-2018|AZ_51+JnH-NFBL",
