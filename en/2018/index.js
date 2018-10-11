@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: top best 10 stick vacuums of October 2018|Best-selling 10 stick vacuums of October 2018: buying guide|2018/10/buying-guide-top-best-10-stick-vacuums-of-october-2018|AZ_41zskP8hdlL",
 "The very best 10 Sonic Toothbrushes of October 2018|Top best 10 Sonic Toothbrushes buyers guide of October 2018|2018/10/the-very-best-10-sonic-toothbrushes-of-october-2018|AZ_21GBxZyVPtL",
 "Best-selling 10 Tablets: October 2018|Most popular 10 Tablets you need to check out: October 2018|2018/10/best-selling-10-tablets-october-2018|AZ_41s0obeclAL",
 "Were you affected by Facebook’s massive data breach?|How to know if you were a victim of the Facebook breach|2018/09/were-you-affected-by-facebook’s-massive-data-breach|facebook-headquarters",

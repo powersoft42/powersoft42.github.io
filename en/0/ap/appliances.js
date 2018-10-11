@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: top best 10 stick vacuums of October 2018|Best-selling 10 stick vacuums of October 2018: buying guide|2018/10/buying-guide-top-best-10-stick-vacuums-of-october-2018|AZ_41zskP8hdlL",
 "Best-selling 10 Electric Kettles of September 2018|Buying guide: the very best 10 Electric Kettles of September 2018|2018/09/best-selling-10-electric-kettles-of-september-2018|AZ_51iXk+awwAL",
 "The best 10 steam cleaners of August 2018|Steam cleaners, top-rated 10 to consider: August 2018|2018/08/the-best-10-steam-cleaners-of-august-2018|AZ_51ul981eBNL",
 "The best 10 Upright Vacuums of August 2018: buying guide|Our pick of the best 10 Upright Vacuums of August 2018|2018/08/the-best-10-upright-vacuums-of-august-2018-buying-guide|AZ_31iHKUf2wZL",
