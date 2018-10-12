@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleurs Karaoké de octobre 2018|Découvrez les 10 meilleurs Karaoké de octobre 2018|2018/10/top-10-des-meilleurs-karaoke-de-octobre-2018|AZ_51D31Mry+wL",
 "Sacs de Sport, les 10 meilleurs: octobre 2018|Découvrez les 10 meilleurs Sacs de Sport de octobre 2018|2018/10/sacs-de-sport-les-10-meilleurs-octobre-2018|AZ_51hC+2jUkAL",
 "Dépilateurs, les 10 meilleurs: octobre 2018|Les 10 meilleurs Dépilateurs de octobre 2018|2018/10/depilateurs-les-10-meilleurs-octobre-2018|AZ_411LYkzAixL",
 "Fers à Repasser Vapeur, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Fers à Repasser Vapeur du moment|2018/10/fers-a-repasser-vapeur-les-10-meilleurs-octobre-2018|AZ_41C7e3U-F8L",
