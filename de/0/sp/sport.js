@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Bestseller in Snowboards: Oktober 2018|10 beliebtesten Artikel in Snowboards zum Kaufen: Oktober 2018|2018/10/top-10-bestseller-in-snowboards-oktober-2018|AZ_51dNxLJ-FpL",
 "Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Top 10 besten Sportjacken für Damen: August 2018|10 beliebtesten Artikel in Sportjacken für Damen im Vergleich|2018/08/top-10-besten-sportjacken-fur-damen-august-2018|AZ_41UhCG1vqCL",
 "Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
