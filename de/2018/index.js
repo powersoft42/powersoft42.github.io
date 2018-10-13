@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
 "Die 10 Bestseller in Geschirrspülmaschinen: Oktober 2018|Top 10: die beliebtesten Artikel in Geschirrspülmaschinen, Oktober 2018|2018/10/die-10-bestseller-in-geschirrspulmaschinen-oktober-2018|AZ_51cIKeVOswL",
 "Top 10 Bestseller in Snowboards: Oktober 2018|10 beliebtesten Artikel in Snowboards zum Kaufen: Oktober 2018|2018/10/top-10-bestseller-in-snowboards-oktober-2018|AZ_51dNxLJ-FpL",
 "Top 10: die 10 besten Heizlüfter, Oktober 2018|Top 10 beliebtesten Artikel in Heizlüfter: Oktober 2018|2018/10/top-10-die-10-besten-heizlufter-oktober-2018|AZ_51dSnxOO6hL",

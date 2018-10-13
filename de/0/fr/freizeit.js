@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
 "Top 10 Bestseller in Snowboards: Oktober 2018|10 beliebtesten Artikel in Snowboards zum Kaufen: Oktober 2018|2018/10/top-10-bestseller-in-snowboards-oktober-2018|AZ_51dNxLJ-FpL",
 "Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
