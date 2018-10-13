@@ -1,4 +1,5 @@
 Gr = [
+"Alimentation PC, les 10 meilleures: octobre 2018|Les 10 meilleures Alimentation PC du moment: octobre 2018|2018/10/alimentation-pc-les-10-meilleures-octobre-2018|AZ_41u3Zizem9L",
 "Top 10 des meilleurs scanners portables de octobre 2018|Le top 10 des meilleurs scanners portables du moment: octobre 2018|2018/10/top-10-des-meilleurs-scanners-portables-de-octobre-2018|AZ_31ggZcudu2L",
 "Le top 10 des meilleurs Ordinateurs Portables du moment: septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Portables|2018/09/le-top-10-des-meilleurs-ordinateurs-portables-du-moment-septembre-2018|AZ_3157lbw-BzL",
 "Imprimantes, les 10 meilleures: août 2018|Guide d'achat: les 10 meilleures imprimantes du moment: août 2018|2018/08/imprimantes-les-10-meilleures-aout-2018|AZ_41ik9geN3nL",

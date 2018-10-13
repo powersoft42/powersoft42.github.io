@@ -1,4 +1,5 @@
 Gr = [
+"Alimentation PC, les 10 meilleures: octobre 2018|Les 10 meilleures Alimentation PC du moment: octobre 2018|2018/10/alimentation-pc-les-10-meilleures-octobre-2018|AZ_41u3Zizem9L",
 "Top 10 des meilleurs Ordinateurs Gamer de septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Gamer de septembre 2018|2018/09/top-10-des-meilleurs-ordinateurs-gamer-de-septembre-2018|AZ_41kz3DgZ7ML",
 "Le top 10 des meilleurs Ordinateurs Portables du moment: septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Portables|2018/09/le-top-10-des-meilleurs-ordinateurs-portables-du-moment-septembre-2018|AZ_3157lbw-BzL",
 "Ordinateurs Portables Gamer, les 10 meilleurs: août 2018|Top 10 des meilleurs Ordinateurs Portables Gamer de août 2018|2018/08/ordinateurs-portables-gamer-les-10-meilleurs-aout-2018|AZ_41C989rwuxL",

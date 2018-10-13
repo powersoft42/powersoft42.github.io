@@ -1,4 +1,5 @@
 Gr = [
+"Alimentation PC, les 10 meilleures: octobre 2018|Les 10 meilleures Alimentation PC du moment: octobre 2018|2018/10/alimentation-pc-les-10-meilleures-octobre-2018|AZ_41u3Zizem9L",
 "Guide d'achat: les 10 meilleurs Media Streamers de octobre 2018|Notre sélection des 10 meilleurs Media Streamers du moment|2018/10/guide-d-achat-les-10-meilleurs-media-streamers-de-octobre-2018|AZ_31TZ1iI30iL",
 "Top 10 des meilleurs Karaoké de octobre 2018|Découvrez les 10 meilleurs Karaoké de octobre 2018|2018/10/top-10-des-meilleurs-karaoke-de-octobre-2018|AZ_51D31Mry+wL",
 "Sacs de Sport, les 10 meilleurs: octobre 2018|Découvrez les 10 meilleurs Sacs de Sport de octobre 2018|2018/10/sacs-de-sport-les-10-meilleurs-octobre-2018|AZ_51hC+2jUkAL",
