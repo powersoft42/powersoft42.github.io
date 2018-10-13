@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Refrigerators: October 2018|Refrigerators, top 10 you need to check out: October 2018|2018/10/the-best-10-refrigerators-october-2018|AZ_31hjdoQqXML",
 "Best-selling 10 Electric Kettles of September 2018|Buying guide: the very best 10 Electric Kettles of September 2018|2018/09/best-selling-10-electric-kettles-of-september-2018|AZ_51iXk+awwAL",
 "Top 10 Electric Griddles you need to consider: August 2018|Our pick of the best 10 Electric Griddles of August 2018: buying guide|2018/08/top-10-electric-griddles-you-need-to-consider-august-2018|AZ_41LQlEJVjxL",
 "Top best 10 Panini Presses of August 2018: buying guide|Buying guide: the best 10 Panini Presses of August 2018|2018/08/top-best-10-panini-presses-of-august-2018-buying-guide|AZ_416CYHZKNIL",

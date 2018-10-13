@@ -1,4 +1,5 @@
 Gr = [
+"The best 10 Refrigerators: October 2018|Refrigerators, top 10 you need to check out: October 2018|2018/10/the-best-10-refrigerators-october-2018|AZ_31hjdoQqXML",
 "Buying guide: top best 10 stick vacuums of October 2018|Best-selling 10 stick vacuums of October 2018: buying guide|2018/10/buying-guide-top-best-10-stick-vacuums-of-october-2018|AZ_41zskP8hdlL",
 "Best-selling 10 Diffusers: September 2018|Buying guide: our pick of the best 10 Diffusers of September 2018|2018/09/best-selling-10-diffusers-september-2018|AZ_41EBHzBoHCL",
 "Best-selling 10 Electric Kettles of September 2018|Buying guide: the very best 10 Electric Kettles of September 2018|2018/09/best-selling-10-electric-kettles-of-september-2018|AZ_51iXk+awwAL",
