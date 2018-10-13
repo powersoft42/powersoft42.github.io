@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Hornos para Asado a octubre 2018|Las 10 más valoradas ofertas de Hornos para Asado: octubre 2018|2018/10/top-10-hornos-para-asado-a-octubre-2018|AZ_41Ln+HGH8uL",
 "El top 10 de las Picadoras: septiembre 2018|Picadoras, las 10 mejores del mercado: septiembre 2018|2018/09/el-top-10-de-las-picadoras-septiembre-2018|AZ_31dpIrXJf4L",
 "Las 10 más vendidas en Minipicadoras: septiembre 2018|Minipicadoras, las 10 más vendidas del mercado: septiembre 2018|2018/09/las-10-mas-vendidas-en-minipicadoras-septiembre-2018|AZ_41T2ru3-LWL",
 "Los 10 más valorados Procesadores de Alimentos del mercado: julio 2018|Los 10 más vendidos Procesadores de Alimentos que puedes comprar|2018/07/los-10-mas-valorados-procesadores-de-alimentos-del-mercado-julio-2018|AZ_41XOHbin3cL",
