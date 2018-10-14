@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 dei migliori Tavoli Allungabili|I 10 Tavoli Allungabili più desiderati: la classifica|2018/10/la-top-10-dei-migliori-tavoli-allungabili|AZ_31IFpu3uzcL",
 "Padelle per Paella: le 10 migliori|La top 10 delle migliori Padelle per Paella sul mercato|2018/10/padelle-per-paella-le-10-migliori|AZ_311T-QYOmWL",
 "Promo: spazzolino elettrico a circa 6 eur invece di 60|Uno spazzolino elettrico con uno sconto mai visto!|2018/10/promo-spazzolino-elettrico-a-circa-6-eur-invece-di-60|girl-laugh",
 "Che cosa è la cedolare secca?|Si pagano meno tasse con la cedolare secca?|2018/10/che-cosa-e-la-cedolare-secca|money",
