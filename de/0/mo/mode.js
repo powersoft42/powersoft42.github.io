@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten Taschen: Oktober 2018|Top 10: die 10 besten Taschen, Oktober 2018|2018/10/die-10-besten-taschen-oktober-2018|AZ_416oayoypkL",
 "Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
 "Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Die 10 besten in Herrenhüte: September 2018|Top 10: die 10 Bestseller in Herrenhüte, September 2018|2018/09/die-10-besten-in-herrenhute-september-2018|AZ_41C1CQ76qcL",
