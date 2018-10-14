@@ -1,4 +1,5 @@
 Gr = [
+"Padelle per Paella: le 10 migliori|La top 10 delle migliori Padelle per Paella sul mercato|2018/10/padelle-per-paella-le-10-migliori|AZ_311T-QYOmWL",
 "Promo: spazzolino elettrico a circa 6 eur invece di 60|Uno spazzolino elettrico con uno sconto mai visto!|2018/10/promo-spazzolino-elettrico-a-circa-6-eur-invece-di-60|girl-laugh",
 "Che cosa è la cedolare secca?|Si pagano meno tasse con la cedolare secca?|2018/10/che-cosa-e-la-cedolare-secca|money",
 "Perché Google ha pagato ad Apple 9 miliardi di dollari?|Google per questo 2018 avrebbe pagato ad Apple 9 miliardi di dollari|2018/10/perche-google-ha-pagato-ad-apple-9-miliardi-di-dollari|apple-store-nyc",
