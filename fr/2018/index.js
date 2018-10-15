@@ -1,4 +1,5 @@
 Gr = [
+"Découvrez les 10 meilleurs Ordinateurs Portables Gamer de octobre 2018|Guide d'achat: les 10 meilleurs Ordinateurs Portables Gamer du moment|2018/10/decouvrez-les-10-meilleurs-ordinateurs-portables-gamer-de-octobre-2018|AZ_41IDBjUsZcL",
 "Découvrez les 10 meilleurs Tops de Sport Femme de octobre 2018|Guide d'achat: les 10 meilleurs Tops de Sport Femme du moment|2018/10/decouvrez-les-10-meilleurs-tops-de-sport-femme-de-octobre-2018|AZ_41tX6Hv2pHL",
 "Alimentation PC, les 10 meilleures: octobre 2018|Les 10 meilleures Alimentation PC du moment: octobre 2018|2018/10/alimentation-pc-les-10-meilleures-octobre-2018|AZ_41u3Zizem9L",
 "Guide d'achat: les 10 meilleurs Media Streamers de octobre 2018|Notre sélection des 10 meilleurs Media Streamers du moment|2018/10/guide-d-achat-les-10-meilleurs-media-streamers-de-octobre-2018|AZ_31TZ1iI30iL",
