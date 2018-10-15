@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Gaming Notebooks, Oktober 2018|10 beliebtesten Artikel in Gaming Notebooks im Vergleich: Oktober 2018|2018/10/top-10-die-10-besten-gaming-notebooks-oktober-2018|AZ_41MJ7YqW2yL",
 "Die 10 besten Taschen: Oktober 2018|Top 10: die 10 besten Taschen, Oktober 2018|2018/10/die-10-besten-taschen-oktober-2018|AZ_416oayoypkL",
 "Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
 "Die 10 Bestseller in Geschirrspülmaschinen: Oktober 2018|Top 10: die beliebtesten Artikel in Geschirrspülmaschinen, Oktober 2018|2018/10/die-10-bestseller-in-geschirrspulmaschinen-oktober-2018|AZ_51cIKeVOswL",
