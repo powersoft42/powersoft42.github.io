@@ -1,4 +1,5 @@
 Gr = [
+"10 best-selling Gaming Notebooks: October 2018|Best-selling 10 Gaming Notebooks of October 2018: buying guide|2018/10/10-best-selling-gaming-notebooks-october-2018|AZ_31n+2L0sLFL",
 "Top 10 Carpet Cleaners buyers guide of October 2018| 10 best-selling Carpet Cleaners of October 2018: buying guide|2018/10/top-10-carpet-cleaners-buyers-guide-of-october-2018|AZ_41r9z+t4MTL",
 "The best 10 Refrigerators: October 2018|Refrigerators, top 10 you need to check out: October 2018|2018/10/the-best-10-refrigerators-october-2018|AZ_31hjdoQqXML",
 "Most popular 10 DVD/DVR Recorders of October 2018: buying guide|DVD/DVR Recorders, the best 10 you may want to consider: October 2018|2018/10/most-popular-10-dvd-dvr-recorders-of-october-2018-buying-guide|AZ_31ggPkP2u9L",
