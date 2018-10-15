@@ -1,4 +1,5 @@
 Gr = [
+"El top 10 de los Portátiles para Gaming: octubre 2018|Nuestra selección de los 10 Portátiles para Gaming más valorados|2018/10/el-top-10-de-los-portatiles-para-gaming-octubre-2018|AZ_51c5DWXtL0L",
 "Top 10 Baterías de Coche a octubre 2018|Las 10 mejor valoradas Baterías de Coche del momento: octubre 2018|2018/10/top-10-baterias-de-coche-a-octubre-2018|AZ_41yCRSEaQ8L",
 "Webcams, las 10 mejores: octubre 2018|Nuestra selección de las 10 Webcams mejores a octubre 2018|2018/10/webcams-las-10-mejores-octubre-2018|AZ_41b+BLdxKaL",
 "Top 10 Hornos para Asado a octubre 2018|Las 10 más valoradas ofertas de Hornos para Asado: octubre 2018|2018/10/top-10-hornos-para-asado-a-octubre-2018|AZ_41Ln+HGH8uL",
