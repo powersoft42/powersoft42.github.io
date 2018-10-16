@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Computer Desktop migliori: la classifica di ottobre 2018|Computer Desktop, i 10 che più piacciono oggi sul mercato|2018/10/i-10-computer-desktop-migliori-la-classifica-di-ottobre-2018|AZ_41KkQQtJ9gL",
 "Sistemi Antifurto per la Casa: i 10 migliori a agosto 2018|La top 10 dei migliori Sistemi Antifurto per la Casa|2018/08/sistemi-antifurto-per-la-casa-i-10-migliori-a-agosto-2018|AZ_31otEJ85ObL",
 "Ventilatori USB: i 10 migliori in commercio a luglio 2018|I 10 Ventilatori USB più comprati oggi sul mercato: luglio 2018|2018/07/ventilatori-usb-i-10-migliori-in-commercio-a-luglio-2018|AZ_51vRRF77kSL",
 "La top 10 dei migliori Condizionatori a Evaporazione venduti a luglio 2018|I 10 Condizionatori a Evaporazione migliori: la classifica aggiornata|2018/07/la-top-10-dei-migliori-condizionatori-a-evaporazione-venduti-a-luglio-2018|AZ_41MuH+DifnL",
