@@ -1,4 +1,5 @@
 Gr = [
+"Découvrez les 10 meilleurs PC Fixes de octobre 2018|Top 10 des meilleurs PC Fixes du moment: octobre 2018|2018/10/decouvrez-les-10-meilleurs-pc-fixes-de-octobre-2018|AZ_41WPi4JzzOL",
 "Découvrez les 10 meilleurs Ordinateurs Portables Gamer de octobre 2018|Guide d'achat: les 10 meilleurs Ordinateurs Portables Gamer du moment|2018/10/decouvrez-les-10-meilleurs-ordinateurs-portables-gamer-de-octobre-2018|AZ_41IDBjUsZcL",
 "Alimentation PC, les 10 meilleures: octobre 2018|Les 10 meilleures Alimentation PC du moment: octobre 2018|2018/10/alimentation-pc-les-10-meilleures-octobre-2018|AZ_41u3Zizem9L",
 "Top 10 des meilleurs scanners portables de octobre 2018|Le top 10 des meilleurs scanners portables du moment: octobre 2018|2018/10/top-10-des-meilleurs-scanners-portables-de-octobre-2018|AZ_31ggZcudu2L",
