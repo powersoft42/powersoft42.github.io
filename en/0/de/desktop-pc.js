@@ -1,4 +1,5 @@
 Gr = [
+"Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "Top 10 Gaming Desktop Computers buyers guide of August 2018|Best-selling 10 Gaming Desktop Computers of August 2018: buying guide|2018/08/top-10-gaming-desktop-computers-buyers-guide-of-august-2018|AZ_51vbyl5lssL",
 "Top best 10 Desktop Computers to check out: July 2018|The very best 10 Desktop Computers buyers guide of July 2018|2018/07/top-best-10-desktop-computers-to-check-out-july-2018|AZ_41em-EltLBL",
 "The 10 best-selling Gaming Desktop PCs of June 2018|Best-selling 10 Gaming Desktop PCs you need to check out: June 2018|2018/06/the-10-best-selling-gaming-desktop-pcs-of-june-2018|AZ_51togukDW9L",

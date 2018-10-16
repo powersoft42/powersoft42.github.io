@@ -1,4 +1,5 @@
 Gr = [
+"Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "Most popular 10 DVD/DVR Recorders of October 2018: buying guide|DVD/DVR Recorders, the best 10 you may want to consider: October 2018|2018/10/most-popular-10-dvd-dvr-recorders-of-october-2018-buying-guide|AZ_31ggPkP2u9L",
 "Best-selling 10 Handheld Vacuums: October 2018|The very best 10 Handheld Vacuums buyers guide of October 2018|2018/10/best-selling-10-handheld-vacuums-october-2018|AZ_51I8pr+IDEL",
 "Top 10 Gaming Desktop Computers buyers guide of August 2018|Best-selling 10 Gaming Desktop Computers of August 2018: buying guide|2018/08/top-10-gaming-desktop-computers-buyers-guide-of-august-2018|AZ_51vbyl5lssL",

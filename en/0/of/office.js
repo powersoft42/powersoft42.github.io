@@ -1,4 +1,5 @@
 Gr = [
+"Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "Best-selling 10 Tablets: October 2018|Most popular 10 Tablets you need to check out: October 2018|2018/10/best-selling-10-tablets-october-2018|AZ_41s0obeclAL",
 "Best-selling 10 Portable Computers of September 2018|Our pick of the best 10 Portable Computers|2018/09/best-selling-10-portable-computers-of-september-2018|AZ_31GZXAIeWwL",
 "Best-selling 10 Diffusers: September 2018|Buying guide: our pick of the best 10 Diffusers of September 2018|2018/09/best-selling-10-diffusers-september-2018|AZ_41EBHzBoHCL",
