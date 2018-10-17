@@ -1,4 +1,5 @@
 Gr = [
+"10 besten Herren-Sneaker zum Kaufen: Oktober 2018|Top 10: die beliebtesten Artikel in Herren-Sneaker, Oktober 2018|2018/10/10-besten-herren-sneaker-zum-kaufen-oktober-2018|AZ_41rfJYhGh7L",
 "Top 10: die besten in Damen Sportschuhe, August 2018|10 besten in Damen Sportschuhe im Vergleich: August 2018|2018/08/top-10-die-besten-in-damen-sportschuhe-august-2018|AZ_51N7EMjV01L",
 "Top 10: die Bestseller in T-Shirts für Herren, Juli 2018|10 Bestseller in T-Shirts für Herren zum Kaufen: Juli 2018|2018/07/top-10-die-bestseller-in-t-shirts-fur-herren-juli-2018|AZ_41qt7ZETNNL",
 "Die 10 Bestseller in Leggings: Juli 2018|10 Bestseller in Leggings zum Kaufen: Juli 2018|2018/07/die-10-bestseller-in-leggings-juli-2018|AZ_41trLV-xtcL",
