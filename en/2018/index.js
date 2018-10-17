@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Women's Dresses of October 2018: buying guide|Our pick of the best 10 Women's Dresses you can buy right now|2018/10/best-selling-10-women-s-dresses-of-october-2018-buying-guide|AZ_41aSqmzClAL",
 "Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "10 best-selling Gaming Notebooks: October 2018|Best-selling 10 Gaming Notebooks of October 2018: buying guide|2018/10/10-best-selling-gaming-notebooks-october-2018|AZ_31n+2L0sLFL",
 "Top 10 Carpet Cleaners buyers guide of October 2018| 10 best-selling Carpet Cleaners of October 2018: buying guide|2018/10/top-10-carpet-cleaners-buyers-guide-of-october-2018|AZ_41r9z+t4MTL",
