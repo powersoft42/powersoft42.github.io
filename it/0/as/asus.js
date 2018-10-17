@@ -1,4 +1,5 @@
 Gr = [
+"Monitor 4K: i 10 migliori in commercio a ottobre 2018|La top 10 dei migliori Monitor 4K in commercio a ottobre 2018|2018/10/monitor-4k-i-10-migliori-in-commercio-a-ottobre-2018|AZ_51Ip2xpPDsL",
 "La top 10 dei migliori PC Portatili per Giocare: ottobre 2018|I 10 PC Portatili per Giocare più consigliati disponibili ora!|2018/10/la-top-10-dei-migliori-pc-portatili-per-giocare-ottobre-2018|AZ_41aVX18MMbL",
 "I 10 Computer Portatili più popolari in commercio: settembre 2018|La top 10 dei migliori Computer Portatili in commercio|2018/09/i-10-computer-portatili-piu-popolari-in-commercio-settembre-2018|AZ_41K0OduO-nL",
 "I 10 PC Portatili per Giocare più acquistati: agosto 2018|PC Portatili per Giocare, i 10 più consigliati disponibili da subito|2018/08/i-10-pc-portatili-per-giocare-piu-acquistati-agosto-2018|AZ_41m0H0HiacL",
