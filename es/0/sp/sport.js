@@ -1,4 +1,5 @@
 Gr = [
+"Las 10 Pantalones para Mujer más vendidos: octubre 2018|Los 10 más vendidos Pantalones para Mujer que puedes comprar|2018/10/las-10-pantalones-para-mujer-mas-vendidos-octubre-2018|AZ_41gE1fXPpjL",
 "Camisetas para Hombre, las 10 más valoradas: agosto 2018|Las 10 mejores Camisetas para Hombre del momento: agosto 2018|2018/08/camisetas-para-hombre-las-10-mas-valoradas-agosto-2018|AZ_315xZ0mnG0L",
 "Máquinas de Step, las 10 más vendidas: julio 2018|Máquinas de Step, las 10 mejores del mercado: julio 2018|2018/07/maquinas-de-step-las-10-mas-vendidas-julio-2018|AZ_41BYIjMRicL",
 "Las 10 Zapatillas de Deporte para Hombre más valoradas a julio 2018|Las 10 más valoradas ofertas de Zapatillas de Deporte para Hombre|2018/07/las-10-zapatillas-de-deporte-para-hombre-mas-valoradas-a-julio-2018|AZ_41hNCzPBwSL",
