@@ -1,4 +1,5 @@
 Gr = [
+"Best-selling 10 Ceiling Fans of October 2018|Ceiling Fans, best-selling 10 available right now: October 2018|2018/10/best-selling-10-ceiling-fans-of-october-2018|AZ_21KntiA7R8L",
 "The best 10 Refrigerators: October 2018|Refrigerators, top 10 you need to check out: October 2018|2018/10/the-best-10-refrigerators-october-2018|AZ_31hjdoQqXML",
 "Best-selling 10 Handheld Vacuums: October 2018|The very best 10 Handheld Vacuums buyers guide of October 2018|2018/10/best-selling-10-handheld-vacuums-october-2018|AZ_51I8pr+IDEL",
 "Buying guide: top best 10 stick vacuums of October 2018|Best-selling 10 stick vacuums of October 2018: buying guide|2018/10/buying-guide-top-best-10-stick-vacuums-of-october-2018|AZ_41zskP8hdlL",
