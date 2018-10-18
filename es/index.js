@@ -1,4 +1,5 @@
 Gr = [
+"Radios de Cocina, las 10 mejor valoradas del mercado: octubre 2018|Nuestra selección de las 10 Radios de Cocina más valoradas|2018/10/radios-de-cocina-las-10-mejor-valoradas-del-mercado-octubre-2018|AZ_41zTUkagoEL",
 "Las 10 Pantalones para Mujer más vendidos: octubre 2018|Los 10 más vendidos Pantalones para Mujer que puedes comprar|2018/10/las-10-pantalones-para-mujer-mas-vendidos-octubre-2018|AZ_41gE1fXPpjL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "El top 10 de los Portátiles para Gaming: octubre 2018|Nuestra selección de los 10 Portátiles para Gaming más valorados|2018/10/el-top-10-de-los-portatiles-para-gaming-octubre-2018|AZ_51c5DWXtL0L",
