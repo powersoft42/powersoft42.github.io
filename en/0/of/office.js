@@ -1,4 +1,5 @@
 Gr = [
+"Top-rated 10 Mobile Air Conditioners of October 2018|Buying guide: best-selling 10 Mobile Air Conditioners of October 2018|2018/10/top-rated-10-mobile-air-conditioners-of-october-2018|AZ_41xPLbpzXrL",
 "Best-selling 10 Ceiling Fans of October 2018|Ceiling Fans, best-selling 10 available right now: October 2018|2018/10/best-selling-10-ceiling-fans-of-october-2018|AZ_21KntiA7R8L",
 "Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "Best-selling 10 Tablets: October 2018|Most popular 10 Tablets you need to check out: October 2018|2018/10/best-selling-10-tablets-october-2018|AZ_41s0obeclAL",
