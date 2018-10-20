@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",
 "Ventiladores de Caja, los 10 mejor valorados: agosto 2018|Ventiladores de Caja, los 10 más valorados del mercado: agosto 2018|2018/08/ventiladores-de-caja-los-10-mejor-valorados-agosto-2018|AZ_51CAd-trK0L",
 "Ventiladores para Ventanas, los 9 mejores del mercado: julio 2018|Nuestra selección de los 9 Ventiladores para Ventanas mejor valorados|2018/07/ventiladores-para-ventanas-los-9-mejores-del-mercado-julio-2018|AZ_51aHYpkbbqL",
 "El top 10 de los Ventiladores de Pie: julio 2018|Nuestra selección de los 10 Ventiladores de Pie mejor valorados|2018/07/el-top-10-de-los-ventiladores-de-pie-julio-2018|AZ_31-n6OCGkCL",

@@ -1,5 +1,6 @@
 Tt = "Electrónica";
 Gr = [
+"Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",
 "Radios de Cocina, las 10 mejor valoradas del mercado: octubre 2018|Nuestra selección de las 10 Radios de Cocina más valoradas|2018/10/radios-de-cocina-las-10-mejor-valoradas-del-mercado-octubre-2018|AZ_41zTUkagoEL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "El top 10 de los Portátiles para Gaming: octubre 2018|Nuestra selección de los 10 Portátiles para Gaming más valorados|2018/10/el-top-10-de-los-portatiles-para-gaming-octubre-2018|AZ_51c5DWXtL0L",
