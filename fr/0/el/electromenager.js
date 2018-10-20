@@ -1,5 +1,6 @@
 Tt = "Électroménager";
 Gr = [
+"Les 10 meilleurs Climatiseurs Portables du moment: octobre 2018|Guide d'achat: les 10 meilleurs Climatiseurs Portables de octobre 2018|2018/10/les-10-meilleurs-climatiseurs-portables-du-moment-octobre-2018|AZ_41ENel+AhaL",
 "Fers à Repasser Vapeur, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Fers à Repasser Vapeur du moment|2018/10/fers-a-repasser-vapeur-les-10-meilleurs-octobre-2018|AZ_41C7e3U-F8L",
 "Top 10 des meilleures Friteuses de août 2018|Guide d'achat: les 10 meilleures Friteuses du moment: août 2018|2018/08/top-10-des-meilleures-friteuses-de-aout-2018|AZ_41PNUKurTJL",
 "Le top 10 des meilleures Cuisinières à Gaz du moment: juillet 2018|Notre sélection des 10 meilleures Cuisinières à Gaz de juillet 2018|2018/07/le-top-10-des-meilleures-cuisinieres-a-gaz-du-moment-juillet-2018|AZ_31rJE0AghuL",
