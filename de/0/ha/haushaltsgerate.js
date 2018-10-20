@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 Bestseller in Mobile Klimageräte: Oktober 2018|10 beliebtesten Artikel in Mobile Klimageräte im Vergleich|2018/10/top-10-bestseller-in-mobile-klimagerate-oktober-2018|AZ_31xhesxCm+L",
 "Top 10: die Bestseller in Mikrowellen, Oktober 2018|10 beliebtesten Artikel in Mikrowellen im Vergleich: Oktober 2018|2018/10/top-10-die-bestseller-in-mikrowellen-oktober-2018|AZ_41t+GGjej1L",
 "Die 10 Bestseller in Kühlschränke: August 2018|10 besten in Kühlschränke zum Kaufen: August 2018|2018/08/die-10-bestseller-in-kuhlschranke-august-2018|AZ_31taV3cJ4rL",
 "Top 10 besten Toasters: Juli 2018|Top 10: die 10 beliebtesten Artikel in Toasters, Juli 2018|2018/07/top-10-besten-toasters-juli-2018|AZ_31wNjuZsLGL",
