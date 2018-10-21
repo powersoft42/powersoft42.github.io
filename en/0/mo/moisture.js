@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: the very best 10 Dehumidifiers of October 2018|Top-rated 10 Dehumidifiers available right now for your consideration|2018/10/buying-guide-the-very-best-10-dehumidifiers-of-october-2018|AZ_4180DLCa+UL",
 "Top-rated 10 Mobile Air Conditioners of October 2018|Buying guide: best-selling 10 Mobile Air Conditioners of October 2018|2018/10/top-rated-10-mobile-air-conditioners-of-october-2018|AZ_41xPLbpzXrL",
 "Best-selling 10 Ceiling Fans of October 2018|Ceiling Fans, best-selling 10 available right now: October 2018|2018/10/best-selling-10-ceiling-fans-of-october-2018|AZ_21KntiA7R8L",
 "Best-selling 10 Diffusers: September 2018|Buying guide: our pick of the best 10 Diffusers of September 2018|2018/09/best-selling-10-diffusers-september-2018|AZ_41EBHzBoHCL",

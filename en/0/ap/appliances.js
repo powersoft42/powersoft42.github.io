@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: the very best 10 Dehumidifiers of October 2018|Top-rated 10 Dehumidifiers available right now for your consideration|2018/10/buying-guide-the-very-best-10-dehumidifiers-of-october-2018|AZ_4180DLCa+UL",
 "Top 10 Carpet Cleaners buyers guide of October 2018| 10 best-selling Carpet Cleaners of October 2018: buying guide|2018/10/top-10-carpet-cleaners-buyers-guide-of-october-2018|AZ_41r9z+t4MTL",
 "The best 10 Refrigerators: October 2018|Refrigerators, top 10 you need to check out: October 2018|2018/10/the-best-10-refrigerators-october-2018|AZ_31hjdoQqXML",
 "Best-selling 10 Handheld Vacuums: October 2018|The very best 10 Handheld Vacuums buyers guide of October 2018|2018/10/best-selling-10-handheld-vacuums-october-2018|AZ_51I8pr+IDEL",
