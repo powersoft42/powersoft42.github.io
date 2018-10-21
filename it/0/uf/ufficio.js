@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 delle migliori Macchine da Caffè Americano in commercio a ottobre 2018|Le 10 Macchine da Caffè Americano preferite: la guida all'acquisto|2018/10/la-top-10-delle-migliori-macchine-da-caffe-americano-in-commercio-a-ottobre-2018|AZ_41CmU0FD-vL",
 "Sedie: le 10 migliori in commercio a ottobre 2018|Le 10 sedie più quotate attualmente in commercio: ottobre 2018|2018/10/sedie-le-10-migliori-in-commercio-a-ottobre-2018|AZ_41Pt5vm2-KL",
 "Il meglio delle Telecamere di Sorveglianza: le migliori|Telecamere di Sorveglianza, le 10 migliori sul mercato|2018/10/il-meglio-delle-telecamere-di-sorveglianza-le-migliori|AZ_41WZH0iDQmL",
 "I 10 Computer Desktop migliori: la classifica di ottobre 2018|Computer Desktop, i 10 che più piacciono oggi sul mercato|2018/10/i-10-computer-desktop-migliori-la-classifica-di-ottobre-2018|AZ_41KkQQtJ9gL",
