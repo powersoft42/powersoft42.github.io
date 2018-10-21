@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
 "Top 10: die besten in Poloshirts für Damen, Oktober 2018|10 besten in Poloshirts für Damen im Vergleich: Oktober 2018|2018/10/top-10-die-besten-in-poloshirts-fur-damen-oktober-2018|AZ_41-rY36iktL",
 "Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
 "Top 10 besten in Damen High Heels: September 2018|10 besten in Damen High Heels zum Kaufen: September 2018|2018/09/top-10-besten-in-damen-high-heels-september-2018|AZ_41K-0-IlWUL",

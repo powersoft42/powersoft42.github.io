@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
 "Top 10 Bestseller in Mobile Klimageräte: Oktober 2018|10 beliebtesten Artikel in Mobile Klimageräte im Vergleich|2018/10/top-10-bestseller-in-mobile-klimagerate-oktober-2018|AZ_31xhesxCm+L",
 "Top 10: die besten in Poloshirts für Damen, Oktober 2018|10 besten in Poloshirts für Damen im Vergleich: Oktober 2018|2018/10/top-10-die-besten-in-poloshirts-fur-damen-oktober-2018|AZ_41-rY36iktL",
 "10 besten Herren-Sneaker zum Kaufen: Oktober 2018|Top 10: die beliebtesten Artikel in Herren-Sneaker, Oktober 2018|2018/10/10-besten-herren-sneaker-zum-kaufen-oktober-2018|AZ_41rfJYhGh7L",
