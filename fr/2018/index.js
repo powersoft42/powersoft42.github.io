@@ -1,4 +1,5 @@
 Gr = [
+"Caméscopes, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Caméscopes du moment: octobre 2018|2018/10/camescopes-les-10-meilleurs-octobre-2018|AZ_412vTPpTjVL",
 "Les 10 meilleurs Climatiseurs Portables du moment: octobre 2018|Guide d'achat: les 10 meilleurs Climatiseurs Portables de octobre 2018|2018/10/les-10-meilleurs-climatiseurs-portables-du-moment-octobre-2018|AZ_41ENel+AhaL",
 "Guide d'achat: les 10 meilleurs Vidéoprojecteurs du moment: octobre 2018|Notre sélection des 10 meilleurs Vidéoprojecteurs du moment|2018/10/guide-d-achat-les-10-meilleurs-videoprojecteurs-du-moment-octobre-2018|AZ_41P5wMNbZVL",
 "Top 10 des meilleurs Vélos Électriques de octobre 2018|Notre sélection des 10 meilleurs Vélos Électriques du moment|2018/10/top-10-des-meilleurs-velos-electriques-de-octobre-2018|AZ_51q-53J1BZL",
