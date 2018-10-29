@@ -1,4 +1,5 @@
 Gr = [
+"Les 10 meilleures Planches à Repasser du moment: octobre 2018|Découvrez les 10 meilleures Planches à Repasser de octobre 2018|2018/10/les-10-meilleures-planches-a-repasser-du-moment-octobre-2018|AZ_41-4uP0QlZL",
 "Caméscopes, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Caméscopes du moment: octobre 2018|2018/10/camescopes-les-10-meilleurs-octobre-2018|AZ_412vTPpTjVL",
 "Les 10 meilleurs Climatiseurs Portables du moment: octobre 2018|Guide d'achat: les 10 meilleurs Climatiseurs Portables de octobre 2018|2018/10/les-10-meilleurs-climatiseurs-portables-du-moment-octobre-2018|AZ_41ENel+AhaL",
 "Guide d'achat: les 10 meilleurs Vidéoprojecteurs du moment: octobre 2018|Notre sélection des 10 meilleurs Vidéoprojecteurs du moment|2018/10/guide-d-achat-les-10-meilleurs-videoprojecteurs-du-moment-octobre-2018|AZ_41P5wMNbZVL",
