@@ -1,4 +1,5 @@
 Gr = [
+"Memorias USB, las 10 mejores del mercado: octubre 2018|Las 10 más vendidas Memorias USB que puedes comprar ahora mismo|2018/10/memorias-usb-las-10-mejores-del-mercado-octubre-2018|AZ_314bFYhA0OL",
 "Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "Los 10 más valorados Portátiles del mercado: septiembre 2018|La lista con los 10 Portátiles mejor valorados a septiembre 2018|2018/09/los-10-mas-valorados-portatiles-del-mercado-septiembre-2018|AZ_41puxbIN5uL",
