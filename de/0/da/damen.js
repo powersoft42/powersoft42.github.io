@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten in Ski-Handschuhe für Damen: Oktober 2018|Top 10: die 10 besten in Ski-Handschuhe für Damen, Oktober 2018|2018/10/die-10-besten-in-ski-handschuhe-fur-damen-oktober-2018|AZ_41sLbwhE1OL",
 "Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
 "Top 10: die besten in Poloshirts für Damen, Oktober 2018|10 besten in Poloshirts für Damen im Vergleich: Oktober 2018|2018/10/top-10-die-besten-in-poloshirts-fur-damen-oktober-2018|AZ_41-rY36iktL",
 "Top 10: die 10 besten Sturmhauben für Damen, Oktober 2018|Top 10: die besten in Sturmhauben für Damen, Oktober 2018|2018/10/top-10-die-10-besten-sturmhauben-fur-damen-oktober-2018|AZ_51IJtTFnkUL",
