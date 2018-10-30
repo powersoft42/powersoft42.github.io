@@ -1,4 +1,5 @@
 Gr = [
+"La top 10 delle migliori Felpe con Cappuccio da Donna|Le 10 Felpe con Cappuccio da Donna più belle in commercio|2018/10/la-top-10-delle-migliori-felpe-con-cappuccio-da-donna|AZ_41d-SaTu98L",
 "La top 10 delle migliori Scrivanie|Le 10 Scrivanie più popolari: la classifica aggiornata|2018/10/la-top-10-delle-migliori-scrivanie|AZ_41iWcmJ3tlL",
 "La top 10 delle migliori Macchine da Caffè Americano in commercio a ottobre 2018|Le 10 Macchine da Caffè Americano preferite: la guida all'acquisto|2018/10/la-top-10-delle-migliori-macchine-da-caffe-americano-in-commercio-a-ottobre-2018|AZ_41CmU0FD-vL",
 "Sedie: le 10 migliori in commercio a ottobre 2018|Le 10 sedie più quotate attualmente in commercio: ottobre 2018|2018/10/sedie-le-10-migliori-in-commercio-a-ottobre-2018|AZ_41Pt5vm2-KL",
