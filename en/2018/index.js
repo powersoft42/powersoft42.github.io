@@ -1,4 +1,5 @@
 Gr = [
+"The very best 10 Women's Fragrances|Women's Fragrances, the best 10 you can buy right now|2018/10/the-very-best-10-women-s-fragrances|AZ_41Dn9e9nhPL",
 "The best 10 Sandwich Makers buyers guide of October 2018|Sandwich Makers, top best 10 you need to consider: October 2018|2018/10/the-best-10-sandwich-makers-buyers-guide-of-october-2018|AZ_51QcI-1T4PL",
 "Buying guide: the very best 10 Dehumidifiers of October 2018|Top-rated 10 Dehumidifiers available right now for your consideration|2018/10/buying-guide-the-very-best-10-dehumidifiers-of-october-2018|AZ_4180DLCa+UL",
 "Top-rated 10 Mobile Air Conditioners of October 2018|Buying guide: best-selling 10 Mobile Air Conditioners of October 2018|2018/10/top-rated-10-mobile-air-conditioners-of-october-2018|AZ_41xPLbpzXrL",
