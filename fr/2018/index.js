@@ -1,4 +1,5 @@
 Gr = [
+"Le top 10 des meilleurs Sacs Portés Main Homme|Notre sélection des 10 meilleurs Sacs Portés Main Homme|2018/10/le-top-10-des-meilleurs-sacs-portes-main-homme|AZ_41fDDYi4bRL",
 "Les 10 meilleures Planches à Repasser du moment: octobre 2018|Découvrez les 10 meilleures Planches à Repasser de octobre 2018|2018/10/les-10-meilleures-planches-a-repasser-du-moment-octobre-2018|AZ_41-4uP0QlZL",
 "Caméscopes, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Caméscopes du moment: octobre 2018|2018/10/camescopes-les-10-meilleurs-octobre-2018|AZ_412vTPpTjVL",
 "Les 10 meilleurs Climatiseurs Portables du moment: octobre 2018|Guide d'achat: les 10 meilleurs Climatiseurs Portables de octobre 2018|2018/10/les-10-meilleurs-climatiseurs-portables-du-moment-octobre-2018|AZ_41ENel+AhaL",
