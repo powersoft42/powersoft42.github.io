@@ -1,4 +1,5 @@
 Gr = [
+"Zapatillas de Deporte para Mujer, las 10 más vendidas|Las 10 mejor valoradas Zapatillas de Deporte para Mujer|2018/10/zapatillas-de-deporte-para-mujer-las-10-mas-vendidas|AZ_41xDW-KBqUL",
 "Memorias USB, las 10 mejores del mercado: octubre 2018|Las 10 más vendidas Memorias USB que puedes comprar ahora mismo|2018/10/memorias-usb-las-10-mejores-del-mercado-octubre-2018|AZ_314bFYhA0OL",
 "Top 10 Zapatillas de Deporte para Hombre a octubre 2018|Nuestra selección de las 10 Zapatillas de Deporte para Hombre|2018/10/top-10-zapatillas-de-deporte-para-hombre-a-octubre-2018|AZ_41SKnlTHnDL",
 "Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",
