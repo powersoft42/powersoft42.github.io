@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in Damen Skischuhe|10 Bestseller in Damen Skischuhe im Vergleich|2018/10/top-10-die-bestseller-in-damen-skischuhe|AZ_41aG26szI8L",
 "Die 10 besten in Ski-Handschuhe für Damen: Oktober 2018|Top 10: die 10 besten in Ski-Handschuhe für Damen, Oktober 2018|2018/10/die-10-besten-in-ski-handschuhe-fur-damen-oktober-2018|AZ_41sLbwhE1OL",
 "Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
 "Top 10 Bestseller in Mobile Klimageräte: Oktober 2018|10 beliebtesten Artikel in Mobile Klimageräte im Vergleich|2018/10/top-10-bestseller-in-mobile-klimagerate-oktober-2018|AZ_31xhesxCm+L",
