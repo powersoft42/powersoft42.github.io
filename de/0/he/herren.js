@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in Blusen für Herren|10 Bestseller in Blusen für Herren zum Kaufen|2018/10/top-10-die-bestseller-in-blusen-fur-herren|AZ_413XMN-SoSL",
 "10 besten Herren-Sneaker zum Kaufen: Oktober 2018|Top 10: die beliebtesten Artikel in Herren-Sneaker, Oktober 2018|2018/10/10-besten-herren-sneaker-zum-kaufen-oktober-2018|AZ_41rfJYhGh7L",
 "Die 10 besten Kapuzenpullover für Herren: September 2018|Top 10: die 10 besten Kapuzenpullover für Herren, September 2018|2018/09/die-10-besten-kapuzenpullover-fur-herren-september-2018|AZ_31WWNkJP27L",
 "Die 10 besten in Herrenhüte: September 2018|Top 10: die 10 Bestseller in Herrenhüte, September 2018|2018/09/die-10-besten-in-herrenhute-september-2018|AZ_41C1CQ76qcL",

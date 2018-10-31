@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die Bestseller in Blusen für Herren|10 Bestseller in Blusen für Herren zum Kaufen|2018/10/top-10-die-bestseller-in-blusen-fur-herren|AZ_413XMN-SoSL",
 "Top 10: die Bestseller in Damen Skischuhe|10 Bestseller in Damen Skischuhe im Vergleich|2018/10/top-10-die-bestseller-in-damen-skischuhe|AZ_41aG26szI8L",
 "Die 10 besten in Ski-Handschuhe für Damen: Oktober 2018|Top 10: die 10 besten in Ski-Handschuhe für Damen, Oktober 2018|2018/10/die-10-besten-in-ski-handschuhe-fur-damen-oktober-2018|AZ_41sLbwhE1OL",
 "Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
