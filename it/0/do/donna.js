@@ -1,4 +1,5 @@
 Gr = [
+"Clarks da Donna: le 10 migliori|Clarks da Donna: le 10 migliori in commercio|2018/10/clarks-da-donna-le-10-migliori|AZ_41P8uwRzDpL",
 "La top 10 delle migliori Felpe con Cappuccio da Donna|Le 10 Felpe con Cappuccio da Donna più belle in commercio|2018/10/la-top-10-delle-migliori-felpe-con-cappuccio-da-donna|AZ_41d-SaTu98L",
 "Scarpe Mary Jane da Donna: le 10 migliori in commercio a settembre 2018|Le 10 Scarpe Mary Jane da Donna più interessanti per l'acquisto|2018/09/scarpe-mary-jane-da-donna-le-10-migliori-in-commercio-a-settembre-2018|AZ_41X8NJrGPfL",
 "La top 10 dei migliori Stivaletti da Donna venduti a settembre 2018|La top 10 dei migliori Stivaletti da Donna disponibili ora per l'acquisto|2018/09/la-top-10-dei-migliori-stivaletti-da-donna-venduti-a-settembre-2018|AZ_41KmYTSuiIL",
