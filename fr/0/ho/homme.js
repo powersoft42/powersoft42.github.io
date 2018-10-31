@@ -1,4 +1,5 @@
 Gr = [
+"Guide d'achat: les 10 meilleures Chaussures de Sport pour Femme|Notre sélection des 10 meilleures Chaussures de Sport pour Femme|2018/10/guide-d-achat-les-10-meilleures-chaussures-de-sport-pour-femme|AZ_41Leyyk5I+L",
 "Le top 10 des meilleurs Sacs Portés Main Homme|Notre sélection des 10 meilleurs Sacs Portés Main Homme|2018/10/le-top-10-des-meilleurs-sacs-portes-main-homme|AZ_41fDDYi4bRL",
 "Ceintures Homme, les 10 meilleures: juillet 2018|Les 10 meilleures Ceintures Homme de juillet 2018|2018/07/ceintures-homme-les-10-meilleures-juillet-2018|AZ_51uLsKZjq2L",
 "Le top 10 des meilleures Chaussures de Sport pour Homme: juillet 2018|Découvrez les 10 meilleures Chaussures de Sport pour Homme|2018/07/le-top-10-des-meilleures-chaussures-de-sport-pour-homme-juillet-2018|AZ_51rOCEyNJuL",
