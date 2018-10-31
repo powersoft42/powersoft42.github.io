@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Pantalones Deportivos para Hombre más valorados|Los 10 más vendidos Pantalones Deportivos para Hombre|2018/10/los-10-pantalones-deportivos-para-hombre-mas-valorados|AZ_31aRinxdF7L",
 "Las 10 Pantalones para Mujer más vendidos: octubre 2018|Los 10 más vendidos Pantalones para Mujer que puedes comprar|2018/10/las-10-pantalones-para-mujer-mas-vendidos-octubre-2018|AZ_41gE1fXPpjL",
 "Los 10 mejor valorados Vaqueros para Mujer del momento: septiembre 2018|Nuestra selección de los 10 Vaqueros para Mujer mejor valorados|2018/09/los-10-mejor-valorados-vaqueros-para-mujer-del-momento-septiembre-2018|AZ_41VdcKQkB2L",
 "Top 10 Monos para Mujer a agosto 2018|Los 10 mejor valorados en Monos para Mujer: agosto 2018|2018/08/top-10-monos-para-mujer-a-agosto-2018|AZ_512khfDgUhL",

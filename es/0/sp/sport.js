@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Pantalones Deportivos para Hombre más valorados|Los 10 más vendidos Pantalones Deportivos para Hombre|2018/10/los-10-pantalones-deportivos-para-hombre-mas-valorados|AZ_31aRinxdF7L",
 "Zapatillas de Deporte para Mujer, las 10 más vendidas|Las 10 mejor valoradas Zapatillas de Deporte para Mujer|2018/10/zapatillas-de-deporte-para-mujer-las-10-mas-vendidas|AZ_41xDW-KBqUL",
 "Top 10 Zapatillas de Deporte para Hombre a octubre 2018|Nuestra selección de las 10 Zapatillas de Deporte para Hombre|2018/10/top-10-zapatillas-de-deporte-para-hombre-a-octubre-2018|AZ_41SKnlTHnDL",
 "Las 10 Pantalones para Mujer más vendidos: octubre 2018|Los 10 más vendidos Pantalones para Mujer que puedes comprar|2018/10/las-10-pantalones-para-mujer-mas-vendidos-octubre-2018|AZ_41gE1fXPpjL",
