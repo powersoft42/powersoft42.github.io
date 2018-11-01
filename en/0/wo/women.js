@@ -1,4 +1,5 @@
 Gr = [
+"Top-rated 10 Reading Glasses|The very best 10 Reading Glasses buyers guide|2018/11/top-rated-10-reading-glasses|AZ_41XjFXiUnXL",
 "Buying guide: the best 10 Women's Running Shoes|Best-selling 10 Women's Running Shoes: buying guide|2018/10/buying-guide-the-best-10-women-s-running-shoes|AZ_41xJK2Pn1wL",
 "Best-selling 10 Women's Dresses of October 2018: buying guide|Our pick of the best 10 Women's Dresses you can buy right now|2018/10/best-selling-10-women-s-dresses-of-october-2018-buying-guide|AZ_41aSqmzClAL",
 "Most popular 10 Women's Trimmers: July 2018|The best 10 Women's Trimmers of July 2018: buying guide|2018/07/most-popular-10-women-s-trimmers-july-2018|AZ_31u-VHyr7zL",
