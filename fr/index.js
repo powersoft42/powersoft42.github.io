@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleures Ceintures Femme|Le top 10 des meilleures Ceintures Femme|2018/11/top-10-des-meilleures-ceintures-femme|AZ_412B9oXZpjL",
 "Guide d'achat: les 10 meilleures Chaussures de Sport pour Femme|Notre sélection des 10 meilleures Chaussures de Sport pour Femme|2018/10/guide-d-achat-les-10-meilleures-chaussures-de-sport-pour-femme|AZ_41Leyyk5I+L",
 "Le top 10 des meilleurs Sacs Portés Main Homme|Notre sélection des 10 meilleurs Sacs Portés Main Homme|2018/10/le-top-10-des-meilleurs-sacs-portes-main-homme|AZ_41fDDYi4bRL",
 "Les 10 meilleures Planches à Repasser du moment: octobre 2018|Découvrez les 10 meilleures Planches à Repasser de octobre 2018|2018/10/les-10-meilleures-planches-a-repasser-du-moment-octobre-2018|AZ_41-4uP0QlZL",
