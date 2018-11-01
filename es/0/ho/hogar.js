@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados Sofás de Salón del momento|La lista con los 10 Sofás de Salón mejor valorados|2018/11/los-10-mas-valorados-sofas-de-salon-del-momento|AZ_41unlHWht4L",
 "Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",
 "Top 10 Hornos para Asado a octubre 2018|Las 10 más valoradas ofertas de Hornos para Asado: octubre 2018|2018/10/top-10-hornos-para-asado-a-octubre-2018|AZ_41Ln+HGH8uL",
 "Las 10 mejores en Batidoras de Vaso: agosto 2018|Las 10 mejores Batidoras de Vaso del mercado: agosto 2018|2018/08/las-10-mejores-en-batidoras-de-vaso-agosto-2018|AZ_31drI6tWaqL",

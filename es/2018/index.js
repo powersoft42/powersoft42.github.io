@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados Sofás de Salón del momento|La lista con los 10 Sofás de Salón mejor valorados|2018/11/los-10-mas-valorados-sofas-de-salon-del-momento|AZ_41unlHWht4L",
 "Los 10 Pantalones Deportivos para Hombre más valorados|Los 10 más vendidos Pantalones Deportivos para Hombre|2018/10/los-10-pantalones-deportivos-para-hombre-mas-valorados|AZ_31aRinxdF7L",
 "Zapatillas de Deporte para Mujer, las 10 más vendidas|Las 10 mejor valoradas Zapatillas de Deporte para Mujer|2018/10/zapatillas-de-deporte-para-mujer-las-10-mas-vendidas|AZ_41xDW-KBqUL",
 "Memorias USB, las 10 mejores del mercado: octubre 2018|Las 10 más vendidas Memorias USB que puedes comprar ahora mismo|2018/10/memorias-usb-las-10-mejores-del-mercado-octubre-2018|AZ_314bFYhA0OL",
