@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Elektrische Tischgrills|Top 10: die Bestseller in Elektrische Tischgrills|2018/11/top-10-die-10-besten-elektrische-tischgrills|AZ_41-Uk+roBmL",
 "Top 10: die Bestseller in Blusen für Herren|10 Bestseller in Blusen für Herren zum Kaufen|2018/10/top-10-die-bestseller-in-blusen-fur-herren|AZ_413XMN-SoSL",
 "Top 10: die Bestseller in Damen Skischuhe|10 Bestseller in Damen Skischuhe im Vergleich|2018/10/top-10-die-bestseller-in-damen-skischuhe|AZ_41aG26szI8L",
 "Die 10 besten in Ski-Handschuhe für Damen: Oktober 2018|Top 10: die 10 besten in Ski-Handschuhe für Damen, Oktober 2018|2018/10/die-10-besten-in-ski-handschuhe-fur-damen-oktober-2018|AZ_41sLbwhE1OL",

@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Elektrische Tischgrills|Top 10: die Bestseller in Elektrische Tischgrills|2018/11/top-10-die-10-besten-elektrische-tischgrills|AZ_41-Uk+roBmL",
 "Top 10: die 10 besten Heizlüfter, Oktober 2018|Top 10 beliebtesten Artikel in Heizlüfter: Oktober 2018|2018/10/top-10-die-10-besten-heizlufter-oktober-2018|AZ_51dSnxOO6hL",
 "Top 10: die Bestseller in Mikrowellen, Oktober 2018|10 beliebtesten Artikel in Mikrowellen im Vergleich: Oktober 2018|2018/10/top-10-die-bestseller-in-mikrowellen-oktober-2018|AZ_41t+GGjej1L",
 "Top 10 besten Milchaufschäumer: Juli 2018|Die 10 beliebtesten Artikel in Milchaufschäumer: Juli 2018|2018/07/top-10-besten-milchaufschaumer-juli-2018|AZ_41DfcF68yIL",

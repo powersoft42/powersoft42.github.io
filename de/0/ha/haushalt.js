@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Elektrische Tischgrills|Top 10: die Bestseller in Elektrische Tischgrills|2018/11/top-10-die-10-besten-elektrische-tischgrills|AZ_41-Uk+roBmL",
 "Top 10 Bestseller in Mobile Klimageräte: Oktober 2018|10 beliebtesten Artikel in Mobile Klimageräte im Vergleich|2018/10/top-10-bestseller-in-mobile-klimagerate-oktober-2018|AZ_31xhesxCm+L",
 "Die 10 Bestseller in Geschirrspülmaschinen: Oktober 2018|Top 10: die beliebtesten Artikel in Geschirrspülmaschinen, Oktober 2018|2018/10/die-10-bestseller-in-geschirrspulmaschinen-oktober-2018|AZ_51cIKeVOswL",
 "Top 10: die 10 besten Heizlüfter, Oktober 2018|Top 10 beliebtesten Artikel in Heizlüfter: Oktober 2018|2018/10/top-10-die-10-besten-heizlufter-oktober-2018|AZ_51dSnxOO6hL",
