@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten USB-Ventilatoren|10 beliebtesten Artikel in USB-Ventilatoren zum Kaufen|2018/11/die-10-besten-usb-ventilatoren|AZ_31R+RSKq1BL",
 "Top 10: die 10 besten Gaming Notebooks, Oktober 2018|10 beliebtesten Artikel in Gaming Notebooks im Vergleich: Oktober 2018|2018/10/top-10-die-10-besten-gaming-notebooks-oktober-2018|AZ_41MJ7YqW2yL",
 "10 besten Gaming Notebooks zum Kaufen: August 2018|Top 10: die 10 besten Gaming Notebooks, August 2018|2018/08/10-besten-gaming-notebooks-zum-kaufen-august-2018|AZ_419YKI2IjLL",
 "Top 10 besten in Gaming Notebooks: Juli 2018|Top 10: die 10 beliebtesten Artikel in Gaming Notebooks, Juli 2018|2018/07/top-10-besten-in-gaming-notebooks-juli-2018|AZ_41u9j3WwiyL",

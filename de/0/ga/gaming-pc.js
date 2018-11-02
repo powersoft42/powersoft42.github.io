@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten USB-Ventilatoren|10 beliebtesten Artikel in USB-Ventilatoren zum Kaufen|2018/11/die-10-besten-usb-ventilatoren|AZ_31R+RSKq1BL",
 "Top 10 Bestseller in Office-PCs: Oktober 2018|Top 10: die beliebtesten Artikel in Office-PCs, Oktober 2018|2018/10/top-10-bestseller-in-office-pcs-oktober-2018|AZ_51jsl+0amPL",
 "Top 10: die 10 besten Gaming Notebooks, Oktober 2018|10 beliebtesten Artikel in Gaming Notebooks im Vergleich: Oktober 2018|2018/10/top-10-die-10-besten-gaming-notebooks-oktober-2018|AZ_41MJ7YqW2yL",
 "Top 10: die Bestseller in Gaming Desktop-PCs, September 2018|10 Bestseller in Gaming Desktop-PCs zum Kaufen: September 2018|2018/09/top-10-die-bestseller-in-gaming-desktop-pcs-september-2018|AZ_51KSPTYQ9lL",
