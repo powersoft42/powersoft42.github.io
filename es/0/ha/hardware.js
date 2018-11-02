@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 Ventiladores de Caja mejores|Ventiladores de Caja, los 10 mejores|2018/11/los-10-ventiladores-de-caja-mejores|AZ_41vGbpo4fdL",
 "Memorias USB, las 10 mejores del mercado: octubre 2018|Las 10 más vendidas Memorias USB que puedes comprar ahora mismo|2018/10/memorias-usb-las-10-mejores-del-mercado-octubre-2018|AZ_314bFYhA0OL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "El top 10 de los Portátiles para Gaming: octubre 2018|Nuestra selección de los 10 Portátiles para Gaming más valorados|2018/10/el-top-10-de-los-portatiles-para-gaming-octubre-2018|AZ_51c5DWXtL0L",
