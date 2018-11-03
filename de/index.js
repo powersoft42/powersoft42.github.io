@@ -1,4 +1,5 @@
 Gr = [
+"Top 10: die 10 besten Saunen|10 Bestseller in Saunen im Vergleich|2018/11/top-10-die-10-besten-saunen|AZ_518y9PX2+qL",
 "Die 10 besten USB-Ventilatoren|10 beliebtesten Artikel in USB-Ventilatoren zum Kaufen|2018/11/die-10-besten-usb-ventilatoren|AZ_31R+RSKq1BL",
 "Top 10: die 10 besten Elektrische Tischgrills|Top 10: die Bestseller in Elektrische Tischgrills|2018/11/top-10-die-10-besten-elektrische-tischgrills|AZ_41-Uk+roBmL",
 "Top 10: die Bestseller in Blusen für Herren|10 Bestseller in Blusen für Herren zum Kaufen|2018/10/top-10-die-bestseller-in-blusen-fur-herren|AZ_413XMN-SoSL",
