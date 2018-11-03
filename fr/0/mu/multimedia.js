@@ -1,4 +1,5 @@
 Gr = [
+"Mixeurs pour DJ, les 10 meilleurs|Découvrez les 10 meilleurs Mixeurs pour DJ|2018/11/mixeurs-pour-dj-les-10-meilleurs|AZ_41d3QPlBTtL",
 "Caméscopes, les 10 meilleurs: octobre 2018|Guide d'achat: les 10 meilleurs Caméscopes du moment: octobre 2018|2018/10/camescopes-les-10-meilleurs-octobre-2018|AZ_412vTPpTjVL",
 "Guide d'achat: les 10 meilleurs Vidéoprojecteurs du moment: octobre 2018|Notre sélection des 10 meilleurs Vidéoprojecteurs du moment|2018/10/guide-d-achat-les-10-meilleurs-videoprojecteurs-du-moment-octobre-2018|AZ_41P5wMNbZVL",
 "Découvrez les 10 meilleurs PC Fixes de octobre 2018|Top 10 des meilleurs PC Fixes du moment: octobre 2018|2018/10/decouvrez-les-10-meilleurs-pc-fixes-de-octobre-2018|AZ_41WPi4JzzOL",
