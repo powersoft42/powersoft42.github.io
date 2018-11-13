@@ -1,4 +1,5 @@
 Gr = [
+"Top best 10 Humidifiers|Top best 10 Humidifiers: buying guide|2018/11/top-best-10-humidifiers|AZ_415gId1j-wL",
 "Top 10 Luggage Sets: buying guide|Buying guide: best-selling 10 Luggage Sets|2018/11/top-10-luggage-sets-buying-guide|AZ_51psET1DFlL",
 "The best 10 MP4 Players|MP4 Players, the best 10 you may want to check out|2018/11/the-best-10-mp4-players|AZ_41QJeP18d8L",
 "Top-rated 10 Reading Glasses|The very best 10 Reading Glasses buyers guide|2018/11/top-rated-10-reading-glasses|AZ_41XjFXiUnXL",
