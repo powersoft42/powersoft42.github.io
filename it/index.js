@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Tagliacapelli più quotati|I 10 Tagliacapelli migliori: la guida all'acquisto|2018/11/i-10-tagliacapelli-piu-quotati|AZ_51Z8PVPPPXL",
 "La top 10 dei migliori Tostapane|La top 10 dei migliori Tostapane sul mercato|2018/11/la-top-10-dei-migliori-tostapane|AZ_51wNKpknsZL",
 "Il meglio delle Giacche da Sci da Donna|Le 10 Giacche da Sci da Donna preferite disponibili ora!|2018/11/il-meglio-delle-giacche-da-sci-da-donna|AZ_41Ltxu3dvCL",
 "I 10 Passeggini più venduti|La top 10 dei migliori Passeggini sul mercato|2018/11/i-10-passeggini-piu-venduti|AZ_41zT0w67ZmL",

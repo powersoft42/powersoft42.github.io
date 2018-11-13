@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Tagliacapelli più quotati|I 10 Tagliacapelli migliori: la guida all'acquisto|2018/11/i-10-tagliacapelli-piu-quotati|AZ_51Z8PVPPPXL",
 "Il meglio delle Giacche da Sci da Donna|Le 10 Giacche da Sci da Donna preferite disponibili ora!|2018/11/il-meglio-delle-giacche-da-sci-da-donna|AZ_41Ltxu3dvCL",
 "Clarks da Donna: le 10 migliori|Clarks da Donna: le 10 migliori in commercio|2018/10/clarks-da-donna-le-10-migliori|AZ_41P8uwRzDpL",
 "La top 10 delle migliori Felpe con Cappuccio da Donna|Le 10 Felpe con Cappuccio da Donna più belle in commercio|2018/10/la-top-10-delle-migliori-felpe-con-cappuccio-da-donna|AZ_41d-SaTu98L",
