@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 besten Espressomaschinen zum Kaufen|Top 10: die 10 schönsten Espressomaschinen zum Kaufen|2018/11/die-10-besten-espressomaschinen-zum-kaufen|AZ_410q+rnf5DL",
 "Die 10 besten USB-Ventilatoren|10 beliebtesten Artikel in USB-Ventilatoren zum Kaufen|2018/11/die-10-besten-usb-ventilatoren|AZ_31R+RSKq1BL",
 "Top 10: die 10 besten Elektrische Tischgrills|Top 10: die Bestseller in Elektrische Tischgrills|2018/11/top-10-die-10-besten-elektrische-tischgrills|AZ_41-Uk+roBmL",
 "Top 10 Bestseller in Mobile Klimageräte: Oktober 2018|10 beliebtesten Artikel in Mobile Klimageräte im Vergleich|2018/10/top-10-bestseller-in-mobile-klimagerate-oktober-2018|AZ_31xhesxCm+L",
