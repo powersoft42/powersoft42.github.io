@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: top best 10 Gaming Laptops|Best-selling 10 Gaming Laptops available to buy right now|2018/11/buying-guide-top-best-10-gaming-laptops|AZ_41v2oytxs9L",
 "Most popular 10 Desktop PCs of October 2018|Top 10 Desktop PCs to check out: October 2018|2018/10/most-popular-10-desktop-pcs-of-october-2018|AZ_51+LecCxqRL",
 "10 best-selling Gaming Notebooks: October 2018|Best-selling 10 Gaming Notebooks of October 2018: buying guide|2018/10/10-best-selling-gaming-notebooks-october-2018|AZ_31n+2L0sLFL",
 "Our pick of the best 10 Gaming Laptops of August 2018|Buying guide: top-rated 10 Gaming Laptops of August 2018|2018/08/our-pick-of-the-best-10-gaming-laptops-of-august-2018|AZ_51FKRA3Q1LL",

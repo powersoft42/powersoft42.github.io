@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: top best 10 Gaming Laptops|Best-selling 10 Gaming Laptops available to buy right now|2018/11/buying-guide-top-best-10-gaming-laptops|AZ_41v2oytxs9L",
 "Top best 10 Humidifiers|Top best 10 Humidifiers: buying guide|2018/11/top-best-10-humidifiers|AZ_415gId1j-wL",
 "Top 10 Luggage Sets: buying guide|Buying guide: best-selling 10 Luggage Sets|2018/11/top-10-luggage-sets-buying-guide|AZ_51psET1DFlL",
 "The best 10 MP4 Players|MP4 Players, the best 10 you may want to check out|2018/11/the-best-10-mp4-players|AZ_41QJeP18d8L",
