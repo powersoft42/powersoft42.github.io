@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten Artikel in Gaming Notebooks|10 besten Artikel in Gaming Notebooks im Vergleich|2018/11/top-10-besten-artikel-in-gaming-notebooks|AZ_415ws9J0OaL",
 "Die 10 besten Espressomaschinen zum Kaufen|Top 10: die 10 schönsten Espressomaschinen zum Kaufen|2018/11/die-10-besten-espressomaschinen-zum-kaufen|AZ_410q+rnf5DL",
 "Top 10: die 10 besten Saunen|10 Bestseller in Saunen im Vergleich|2018/11/top-10-die-10-besten-saunen|AZ_518y9PX2+qL",
 "Die 10 besten USB-Ventilatoren|10 beliebtesten Artikel in USB-Ventilatoren zum Kaufen|2018/11/die-10-besten-usb-ventilatoren|AZ_31R+RSKq1BL",
