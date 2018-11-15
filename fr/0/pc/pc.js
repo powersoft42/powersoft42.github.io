@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 des meilleurs PC Portables Gamer|Notre sélection des 10 meilleurs PC Portables Gamer|2018/11/top-10-des-meilleurs-pc-portables-gamer|AZ_41pSlPwzlEL",
 "Chargeurs pour Ordinateurs Portables, les 10 meilleurs|Le top 10 des meilleurs Chargeurs pour Ordinateurs Portables|2018/11/chargeurs-pour-ordinateurs-portables-les-10-meilleurs|AZ_518r31x-UvL",
 "Découvrez les 10 meilleurs Ordinateurs Portables Gamer de octobre 2018|Guide d'achat: les 10 meilleurs Ordinateurs Portables Gamer du moment|2018/10/decouvrez-les-10-meilleurs-ordinateurs-portables-gamer-de-octobre-2018|AZ_41IDBjUsZcL",
 "Top 10 des meilleurs Ordinateurs Gamer de septembre 2018|Notre sélection des 10 meilleurs Ordinateurs Gamer de septembre 2018|2018/09/top-10-des-meilleurs-ordinateurs-gamer-de-septembre-2018|AZ_41kz3DgZ7ML",
