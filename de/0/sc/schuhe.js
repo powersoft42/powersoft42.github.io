@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 schönsten Damen-Ballerinas|Top 10 schönsten in Damen-Ballerinas zum Kaufen|2018/12/die-10-schonsten-damen-ballerinas|AZ_41FeYDJHCWL",
 "10 besten Herren-Sneaker zum Kaufen: Oktober 2018|Top 10: die beliebtesten Artikel in Herren-Sneaker, Oktober 2018|2018/10/10-besten-herren-sneaker-zum-kaufen-oktober-2018|AZ_41rfJYhGh7L",
 "Top 10 besten in Damen High Heels: September 2018|10 besten in Damen High Heels zum Kaufen: September 2018|2018/09/top-10-besten-in-damen-high-heels-september-2018|AZ_41K-0-IlWUL",
 "Top 10 Espadrilles für Herren, August 2018|Top 10: die beliebtesten Artikel in Espadrilles für Herren, August 2018|2018/08/top-10-espadrilles-fur-herren-august-2018|AZ_41btfjp1O9L",

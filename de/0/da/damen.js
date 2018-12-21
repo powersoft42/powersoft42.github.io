@@ -1,4 +1,5 @@
 Gr = [
+"Die 10 schönsten Damen-Ballerinas|Top 10 schönsten in Damen-Ballerinas zum Kaufen|2018/12/die-10-schonsten-damen-ballerinas|AZ_41FeYDJHCWL",
 "Top 10: die Bestseller in Damen Skischuhe|10 Bestseller in Damen Skischuhe im Vergleich|2018/10/top-10-die-bestseller-in-damen-skischuhe|AZ_41aG26szI8L",
 "Die 10 besten in Ski-Handschuhe für Damen: Oktober 2018|Top 10: die 10 besten in Ski-Handschuhe für Damen, Oktober 2018|2018/10/die-10-besten-in-ski-handschuhe-fur-damen-oktober-2018|AZ_41sLbwhE1OL",
 "Top 10: die besten Damen Skischuhe, Oktober 2018|Top 10: die 10 besten Damen Skischuhe, Oktober 2018|2018/10/top-10-die-besten-damen-skischuhe-oktober-2018|AZ_412w-q1FUCL",
