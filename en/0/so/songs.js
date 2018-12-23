@@ -1,4 +1,5 @@
 Gr = [
+"Buying guide: best-selling 10 Wireless Headphones|Our pick of the best 10 Wireless Headphones buyers guide|2018/12/buying-guide-best-selling-10-wireless-headphones|AZ_41KtAW5nv1L",
 "The best 10 MP4 Players|MP4 Players, the best 10 you may want to check out|2018/11/the-best-10-mp4-players|AZ_41QJeP18d8L",
 "The best 10 MP3 Players of August 2018|Best-selling 10 MP3 Players of August 2018: buying guide|2018/08/the-best-10-mp3-players-of-august-2018|AZ_41X3QNqo3fL",
 "Best-selling 10 Electronic Keyboards buyers guide of July 2018|Electronic Keyboards, top best 10 you may want to consider: July 2018|2018/07/best-selling-10-electronic-keyboards-buyers-guide-of-july-2018|AZ_41BxlnONl6L",
