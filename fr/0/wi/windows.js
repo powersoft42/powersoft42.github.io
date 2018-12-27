@@ -1,4 +1,5 @@
 Gr = [
+"Les 10 meilleurs Ordinateurs Gaming|Notre sélection des 10 meilleurs Ordinateurs Gaming|2018/12/les-10-meilleurs-ordinateurs-gaming|AZ_41WD11U0sSL",
 "Top 10 des meilleurs PC Portables Gamer|Notre sélection des 10 meilleurs PC Portables Gamer|2018/11/top-10-des-meilleurs-pc-portables-gamer|AZ_41pSlPwzlEL",
 "Découvrez les 10 meilleurs PC Fixes de octobre 2018|Top 10 des meilleurs PC Fixes du moment: octobre 2018|2018/10/decouvrez-les-10-meilleurs-pc-fixes-de-octobre-2018|AZ_41WPi4JzzOL",
 "Découvrez les 10 meilleurs Ordinateurs Portables Gamer de octobre 2018|Guide d'achat: les 10 meilleurs Ordinateurs Portables Gamer du moment|2018/10/decouvrez-les-10-meilleurs-ordinateurs-portables-gamer-de-octobre-2018|AZ_41IDBjUsZcL",

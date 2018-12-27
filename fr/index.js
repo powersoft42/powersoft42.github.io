@@ -1,4 +1,5 @@
 Gr = [
+"Les 10 meilleurs Ordinateurs Gaming|Notre sélection des 10 meilleurs Ordinateurs Gaming|2018/12/les-10-meilleurs-ordinateurs-gaming|AZ_41WD11U0sSL",
 "Top 10 des meilleurs PC Portables Gamer|Notre sélection des 10 meilleurs PC Portables Gamer|2018/11/top-10-des-meilleurs-pc-portables-gamer|AZ_41pSlPwzlEL",
 "Robes Femme, les 10 meilleures|Top 10 des meilleures Robes Femme|2018/11/robes-femme-les-10-meilleures|AZ_51bqR4c3XGL",
 "Mixeurs pour DJ, les 10 meilleurs|Découvrez les 10 meilleurs Mixeurs pour DJ|2018/11/mixeurs-pour-dj-les-10-meilleurs|AZ_41d3QPlBTtL",
