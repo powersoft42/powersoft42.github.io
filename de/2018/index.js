@@ -1,4 +1,5 @@
 Gr = [
+"Top 10 besten in Gaming-PCs|Top 10: die 10 schönsten Gaming-PCs im Vergleich|2018/12/top-10-besten-in-gaming-pcs|AZ_41JLwrfpCuL",
 "Die 10 schönsten Damen-Ballerinas|Top 10 schönsten in Damen-Ballerinas zum Kaufen|2018/12/die-10-schonsten-damen-ballerinas|AZ_41FeYDJHCWL",
 "Top 10 besten Artikel in Gaming Notebooks|10 besten Artikel in Gaming Notebooks im Vergleich|2018/11/top-10-besten-artikel-in-gaming-notebooks|AZ_415ws9J0OaL",
 "Die 10 besten Espressomaschinen zum Kaufen|Top 10: die 10 schönsten Espressomaschinen zum Kaufen|2018/11/die-10-besten-espressomaschinen-zum-kaufen|AZ_410q+rnf5DL",
