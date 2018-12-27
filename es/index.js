@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados en Ordenadores de Sobremesa para Gaming|Los 10 mejores Ordenadores de Sobremesa para Gaming del momento|2018/12/los-10-mas-valorados-en-ordenadores-de-sobremesa-para-gaming|AZ_31RRizIchkL",
 "El top 10 de los Bolsos Bandolera para Hombre|Nuestra selección de los 10 Bolsos Bandolera para Hombre más valorados|2018/11/el-top-10-de-los-bolsos-bandolera-para-hombre|AZ_512dnM0LdyL",
 "El top 10 de los Controladores de DJ|La lista con los 10 Controladores de DJ más valorados|2018/11/el-top-10-de-los-controladores-de-dj|AZ_51Pkf+CmSdL",
 "Las 10 Escobas Eléctricas más valoradas|Las 10 más vendidas en Escobas Eléctricas|2018/11/las-10-escobas-electricas-mas-valoradas|AZ_31wlIxJzYDL",

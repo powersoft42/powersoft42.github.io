@@ -1,5 +1,6 @@
 Tt = "Electrónica";
 Gr = [
+"Los 10 más valorados en Ordenadores de Sobremesa para Gaming|Los 10 mejores Ordenadores de Sobremesa para Gaming del momento|2018/12/los-10-mas-valorados-en-ordenadores-de-sobremesa-para-gaming|AZ_31RRizIchkL",
 "El top 10 de los Controladores de DJ|La lista con los 10 Controladores de DJ más valorados|2018/11/el-top-10-de-los-controladores-de-dj|AZ_51Pkf+CmSdL",
 "Los 10 Ventiladores de Caja mejores|Ventiladores de Caja, los 10 mejores|2018/11/los-10-ventiladores-de-caja-mejores|AZ_41vGbpo4fdL",
 "Los 10 Ventiladores de Sobremesa más vendidos a octubre 2018|La lista con los 10 Ventiladores de Sobremesa mejor valorados|2018/10/los-10-ventiladores-de-sobremesa-mas-vendidos-a-octubre-2018|AZ_512TDttyOCL",

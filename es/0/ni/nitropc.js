@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados en Ordenadores de Sobremesa para Gaming|Los 10 mejores Ordenadores de Sobremesa para Gaming del momento|2018/12/los-10-mas-valorados-en-ordenadores-de-sobremesa-para-gaming|AZ_31RRizIchkL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "Top 10 Ordenadores de Sobremesa para Gaming a septiembre 2018|Ordenadores de Sobremesa para Gaming, los 10 más vendidos|2018/09/top-10-ordenadores-de-sobremesa-para-gaming-a-septiembre-2018|AZ_41LFXbUXMTL",
 "Ordenadores de Sobremesa para Gaming, los 10 más valorados: agosto 2018|Ordenadores de Sobremesa para Gaming, los 10 más valorados|2018/08/ordenadores-de-sobremesa-para-gaming-los-10-mas-valorados-agosto-2018|AZ_61h51WzQKaL",

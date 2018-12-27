@@ -1,4 +1,5 @@
 Gr = [
+"Los 10 más valorados en Ordenadores de Sobremesa para Gaming|Los 10 mejores Ordenadores de Sobremesa para Gaming del momento|2018/12/los-10-mas-valorados-en-ordenadores-de-sobremesa-para-gaming|AZ_31RRizIchkL",
 "Los 10 Ventiladores de Caja mejores|Ventiladores de Caja, los 10 mejores|2018/11/los-10-ventiladores-de-caja-mejores|AZ_41vGbpo4fdL",
 "Los 10 mejores en Ordenadores de Sobremesa: octubre 2018|Los 10 Ordenadores de Sobremesa mejor valorados a octubre 2018|2018/10/los-10-mejores-en-ordenadores-de-sobremesa-octubre-2018|AZ_41kPCJP1h0L",
 "El top 10 de los Portátiles para Gaming: octubre 2018|Nuestra selección de los 10 Portátiles para Gaming más valorados|2018/10/el-top-10-de-los-portatiles-para-gaming-octubre-2018|AZ_51c5DWXtL0L",
